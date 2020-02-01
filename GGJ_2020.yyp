@@ -31,11 +31,27 @@
     },
     "resources": [
         {
+            "Key": "01340367-bf15-4c6f-bb17-28122051af87",
+            "Value": {
+                "id": "986ec508-a6b8-4320-bba9-6fe99e65478f",
+                "resourcePath": "views\\01340367-bf15-4c6f-bb17-28122051af87.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "01b6a0b8-51c2-4e9d-b5f3-059e9c050e8f",
             "Value": {
                 "id": "986386af-4f1b-4619-a93e-bc26a0286190",
                 "resourcePath": "views\\01b6a0b8-51c2-4e9d-b5f3-059e9c050e8f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "049f194a-bb54-4d16-8ebc-c6308c80be41",
+            "Value": {
+                "id": "6e3c03c9-8e16-4eac-94ba-0d336bf644cd",
+                "resourcePath": "sprites\\Antenna_Sprite\\Antenna_Sprite.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -47,11 +63,51 @@
             }
         },
         {
+            "Key": "0d9d6163-9fad-4f8c-a9c5-744d975c1566",
+            "Value": {
+                "id": "730d8935-5018-4252-bba8-cef5b0be859c",
+                "resourcePath": "datafiles_yy\\junk files\\randommusicgenerator.txt.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "0f3d5f8b-b7de-4b28-8c3c-a0ab7c2b5d28",
+            "Value": {
+                "id": "d708113a-7182-4126-b558-29e225b130ef",
+                "resourcePath": "datafiles_yy\\junk files\\yuhyuhayyuh.txt.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "105ecf6b-fc07-41a1-9c58-5b01ae6f8c20",
+            "Value": {
+                "id": "cfbb2337-7d37-4bb6-b909-34ec5bab48ab",
+                "resourcePath": "datafiles_yy\\junk files\\musicideas.txt.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "12da9f38-c6e1-4889-95bf-25e39d355760",
             "Value": {
                 "id": "1cbb2dfb-1545-4184-a524-d1602c085b48",
                 "resourcePath": "views\\12da9f38-c6e1-4889-95bf-25e39d355760.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "16c6ae3a-8993-43e0-8074-a662f9cc55ec",
+            "Value": {
+                "id": "5adae331-c9c7-46cc-9514-e6c988df9b84",
+                "resourcePath": "objects\\RobotAntenna\\RobotAntenna.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "18f983d9-9cd8-4e4e-9436-8642f4a8bb34",
+            "Value": {
+                "id": "6cea469c-ed38-4b26-b194-a2a34d950de0",
+                "resourcePath": "sprites\\spr_garbage\\spr_garbage.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -79,11 +135,35 @@
             }
         },
         {
+            "Key": "21547651-7e21-4fb5-81ba-8e621ac29e19",
+            "Value": {
+                "id": "988831bb-6b14-4051-8890-6039695a0c92",
+                "resourcePath": "datafiles_yy\\junk files\\hackwordbank.txt.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "22b5957e-5f71-41ab-b972-fd03f5270877",
+            "Value": {
+                "id": "3dbf9d1e-efba-46e9-8bb2-6722f1c47f81",
+                "resourcePath": "objects\\TextBox\\TextBox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "23c0d07c-fdf0-4fa7-bd5c-6bf8cbd1b268",
             "Value": {
                 "id": "69d6498c-005f-4b2d-b6e1-283563ba7b7e",
                 "resourcePath": "views\\23c0d07c-fdf0-4fa7-bd5c-6bf8cbd1b268.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "256945fa-e393-4e9d-a2a9-e83c63a7919b",
+            "Value": {
+                "id": "f8d8f4ea-ebe3-4ed5-99ea-9b057e625453",
+                "resourcePath": "datafiles_yy\\junk files\\To_Do_-_.txt.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -100,6 +180,19 @@
                 "id": "2fc60f4a-6f3e-4b4b-803c-bd6535b45c23",
                 "resourcePath": "scripts\\createArray\\createArray.yy",
                 "resourceType": "GMScript"
+            "Key": "27a46bed-7d2e-4ee7-9d64-e908eacd8cab",
+            "Value": {
+                "id": "569183fc-b454-46bf-a385-f470a0b72d68",
+                "resourcePath": "datafiles_yy\\junk files\\more_scales_and_info.txt.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "2872b077-9130-420d-90d2-000b10cda82f",
+            "Value": {
+                "id": "a1cd2021-b922-4602-9b55-2be9cc0613cf",
+                "resourcePath": "datafiles_yy\\junk files\\whatwhat.txt.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -116,6 +209,11 @@
                 "id": "2b552853-3711-43bc-8f3c-c9807fdf9458",
                 "resourcePath": "scripts\\createFileStructure\\createFileStructure.yy",
                 "resourceType": "GMScript"
+            "Key": "2dc07d78-fce5-47b7-a24b-2dd4c786944a",
+            "Value": {
+                "id": "08793123-2719-44c4-8290-7ace0af29725",
+                "resourcePath": "sprites\\spr_tile\\spr_tile.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -135,11 +233,51 @@
             }
         },
         {
+            "Key": "3adc0e23-24fb-4e86-a516-847525f80644",
+            "Value": {
+                "id": "1e936108-d675-4876-9b10-fc2d3550fe37",
+                "resourcePath": "tilesets\\tileset0\\tileset0.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "3d4e1de8-5af2-47ac-a042-45f1af139b8c",
+            "Value": {
+                "id": "49c6a836-b518-43dd-9a25-f4c07992ed42",
+                "resourcePath": "datafiles_yy\\junk files\\familytree.txt.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "3e8fa9a8-5218-4e01-8d89-8fabad1f8cb5",
+            "Value": {
+                "id": "440ecfa3-488d-41ad-86b0-51605a3930b5",
+                "resourcePath": "views\\3e8fa9a8-5218-4e01-8d89-8fabad1f8cb5.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "47eed291-22f4-405d-a970-a072a1d1f4ce",
             "Value": {
                 "id": "801d8af0-ee47-40a1-addc-9dee2302daaa",
                 "resourcePath": "views\\47eed291-22f4-405d-a970-a072a1d1f4ce.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4a30e2a8-1627-48bf-a96c-5331d888dc86",
+            "Value": {
+                "id": "6282b65f-d967-4c63-ae3f-84e36b8dae85",
+                "resourcePath": "datafiles_yy\\junk files\\muskeet.txt.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "54255627-275b-4cef-880d-2400e6765ba3",
+            "Value": {
+                "id": "6105b11f-6995-4590-a982-626697cea3ad",
+                "resourcePath": "datafiles_yy\\junk files\\space.txt.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -159,11 +297,51 @@
             }
         },
         {
-            "Key": "655d4bc4-e913-4b3d-ad4e-5789fbdd44d6",
+            "Key": "663868d6-9d75-4b36-9135-7d4e506406e5",
             "Value": {
-                "id": "fd380c4c-3b51-43a4-a8ba-64d6f36f3ba8",
-                "resourcePath": "views\\655d4bc4-e913-4b3d-ad4e-5789fbdd44d6.yy",
-                "resourceType": "GMFolder"
+                "id": "899e20a9-f345-4783-a284-520cb174321e",
+                "resourcePath": "sprites\\TextBox_Sprite\\TextBox_Sprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "67144a0d-7630-4866-a97e-9b5e6eeadc2a",
+            "Value": {
+                "id": "51d60df4-74e3-42b8-88c0-28de9086be07",
+                "resourcePath": "datafiles_yy\\junk files\\wow.txt.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "69536873-b312-4d75-ad7a-165aa25ed359",
+            "Value": {
+                "id": "98f583c8-f14b-4aff-abb5-0434d5487eb7",
+                "resourcePath": "objects\\ExitButton\\ExitButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "71c19061-4959-47c5-aa5b-c13f8359fd24",
+            "Value": {
+                "id": "24bf5c2e-9999-46ae-bccc-0db8f708a2c4",
+                "resourcePath": "datafiles_yy\\junk files\\gamergamergamer.txt.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "72e18a0c-ef87-490e-9a38-2d93bbec48ea",
+            "Value": {
+                "id": "ca327627-abab-4879-a001-71bb612af238",
+                "resourcePath": "sprites\\BoxExit_Sprite\\BoxExit_Sprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "74d397e2-a8c5-4d06-a83a-5110f1b22977",
+            "Value": {
+                "id": "d7c178b7-ce56-4377-8706-6670e5f6e47c",
+                "resourcePath": "sprites\\spr_box\\spr_box.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -183,6 +361,22 @@
             }
         },
         {
+            "Key": "7c79b34a-018e-46fe-99ab-e8e94b178a17",
+            "Value": {
+                "id": "a5e2f79f-b90f-4c78-9a80-9f1352190433",
+                "resourcePath": "datafiles_yy\\junk files\\pizza.txt.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "7e375627-19bd-4c81-8862-2e37197eee69",
+            "Value": {
+                "id": "bdd5ac1a-50f5-45e7-a762-3b0d2f9dfb60",
+                "resourcePath": "datafiles_yy\\junk files\\venture.txt.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "821d5621-72e0-4432-a7ad-de5a8ce8a304",
             "Value": {
                 "id": "6fa6cca6-09a8-42fa-92e4-7e31d626bedc",
@@ -196,6 +390,14 @@
                 "id": "36e0d045-93da-4110-bb87-c526d19133b1",
                 "resourcePath": "views\\8834e465-5d49-4367-8648-ce3e8c9de2ba.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "886f9787-6c73-4ba3-b642-12079b05e822",
+            "Value": {
+                "id": "ed7e1c39-47d5-4dfb-b5b9-00cc975f762f",
+                "resourcePath": "datafiles_yy\\junk files\\muffins.txt.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -215,6 +417,14 @@
             }
         },
         {
+            "Key": "964dff4b-fff7-488c-a522-a14cd5152a9a",
+            "Value": {
+                "id": "d89d903b-4bae-42db-8327-41a574060b6b",
+                "resourcePath": "datafiles_yy\\junk files\\euthyphro_qs.txt.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "98d09aaf-b038-4518-a2f3-ad8a87a60bd1",
             "Value": {
                 "id": "f9d82e7a-a265-4c11-80bc-310c827de756",
@@ -227,6 +437,30 @@
             "Value": {
                 "id": "78e72216-8107-4608-a5ea-ee603481b947",
                 "resourcePath": "sprites\\Journal_Sprite\\Journal_Sprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a1f3adb0-5593-4156-8adb-6c3d5d9e8a82",
+            "Value": {
+                "id": "1b8eb2b4-1f5d-4e47-819d-cb53b2f5ca70",
+                "resourcePath": "datafiles_yy\\junk files\\message.txt.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a796997a-977d-4148-b0f4-cc5708419941",
+            "Value": {
+                "id": "0493d5ab-80cd-49eb-b0cd-d8c09843579a",
+                "resourcePath": "datafiles_yy\\junk files\\gmlocdo.txt.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a8a87a51-91da-458d-afb6-369362ae86bc",
+            "Value": {
+                "id": "50780bdc-94ca-4da9-8b0a-d7aaa030847a",
+                "resourcePath": "sprites\\spr_floor\\spr_floor.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -247,10 +481,58 @@
             }
         },
         {
+            "Key": "ac9ae754-2b34-40a7-822a-5eab1a8087f5",
+            "Value": {
+                "id": "4a3382a2-84e7-48bd-9642-da54117dcff9",
+                "resourcePath": "datafiles_yy\\junk files\\downbvote.txt.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "ad51a282-dfdb-4cf2-9776-9ba0cbb9507b",
+            "Value": {
+                "id": "cad43065-7fe9-4dc1-a97c-4f1c39ca056d",
+                "resourcePath": "datafiles_yy\\junk files\\Terraria_Capture_the_Gem_Legal_Items.txt.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "ad59c86d-abd7-40a9-a61f-248359f87ce4",
+            "Value": {
+                "id": "75a3adb9-fee1-49e6-a30e-9d4682079e43",
+                "resourcePath": "datafiles_yy\\junk files\\highschool.txt.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "b0ca9ecc-5141-44f4-9014-403bfef30ca5",
+            "Value": {
+                "id": "aa387257-50cb-4c9a-bc49-4d2c3a2c9793",
+                "resourcePath": "objects\\Door\\Door.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bbbf721a-1e1c-44c6-9bce-7b62763c2c4f",
+            "Value": {
+                "id": "614b091e-1339-402b-b13d-c67913b5ad90",
+                "resourcePath": "datafiles_yy\\junk files\\cse301Q1.txt.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "c09e1caa-d989-4906-9f16-96693e632592",
             "Value": {
                 "id": "04dcf2b8-21c5-4d26-8c29-40bc34330778",
                 "resourcePath": "objects\\RobotLeg\\RobotLeg.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "cb58fb34-4cbf-42cc-8483-3d3f35d2e306",
+            "Value": {
+                "id": "4391209f-e0b7-43c8-a66d-0b41f2236574",
+                "resourcePath": "objects\\GameManager\\GameManager.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -279,6 +561,22 @@
             }
         },
         {
+            "Key": "d8fb7753-8d8f-41fd-8956-8dbc49961a27",
+            "Value": {
+                "id": "85e46e5a-0ccc-417e-9bd3-e1ca2a07b53e",
+                "resourcePath": "views\\d8fb7753-8d8f-41fd-8956-8dbc49961a27.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d9db7b48-f625-4ef1-a497-7d14975d6f8d",
+            "Value": {
+                "id": "f1540e04-ca62-4b95-830c-3cc6535cb055",
+                "resourcePath": "rooms\\GameOverRoom\\GameOverRoom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "de5b2941-7678-4094-85c7-33e023729cc1",
             "Value": {
                 "id": "a3e2594f-a9e1-4f6a-b3bf-ee5c268b7749",
@@ -295,11 +593,51 @@
             }
         },
         {
+            "Key": "e321638f-9b8a-4601-9112-5c250905d736",
+            "Value": {
+                "id": "e2f59f5c-74c0-465f-9646-3860a6ebcee8",
+                "resourcePath": "datafiles_yy\\junk files\\itsthisone.txt.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "e5e5b2e3-6ffd-4ad6-9745-1fdce6375d00",
+            "Value": {
+                "id": "7240c055-4c25-490c-adbb-4e494ebbd09a",
+                "resourcePath": "views\\e5e5b2e3-6ffd-4ad6-9745-1fdce6375d00.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "eafde2e0-d511-4bee-9b92-5e01d799ae9a",
+            "Value": {
+                "id": "fbcf42c0-93b7-428a-b070-3f8e6c8c3848",
+                "resourcePath": "sprites\\spr_interface\\spr_interface.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ed714ca8-613f-4975-b59a-3c2047184846",
+            "Value": {
+                "id": "170285ab-d14f-46ec-a3ef-2c2a52295efc",
+                "resourcePath": "datafiles_yy\\junk files\\message2.txt.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "c412d46a-d6d7-4900-8a23-afa95dfabfde",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f4339454-d0c2-4301-a64e-db3ff36e9283",
+            "Value": {
+                "id": "5790b8af-4828-492d-8e34-69b4f8030e3f",
+                "resourcePath": "datafiles_yy\\junk files\\bsphysics.txt.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -324,6 +662,30 @@
                 "id": "15ccfad2-09e9-4c04-b3f9-c155e6b36d9f",
                 "resourcePath": "views\\fd8bf525-45f1-44c3-a334-b7ca03d3e2ed.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "feb9b52e-02d6-4180-ada3-6e6447089bdd",
+            "Value": {
+                "id": "fa6327df-3111-4eeb-ae84-ffd671cc2cdc",
+                "resourcePath": "objects\\Box\\Box.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fecd3129-e051-41d7-9ff3-ee048e4315b9",
+            "Value": {
+                "id": "3a8b06ab-5b90-48f3-9ef8-3486d9e226e9",
+                "resourcePath": "rooms\\InterfaceRoom\\InterfaceRoom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "ffdfaeae-ea09-4261-89d9-85badf48e0e7",
+            "Value": {
+                "id": "921f78ac-8f62-4018-8e5f-7b4d523b5358",
+                "resourcePath": "datafiles_yy\\junk files\\JohnThePeasant.txt.yy",
+                "resourceType": "GMIncludedFile"
             }
         }
     ],

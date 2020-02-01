@@ -1,0 +1,209 @@
+/// @description Menu Magic
+draw_set_color(c_black);
+if(menu == 0){//Main Menu
+	draw_text(32, room_height/2 - 16, "Play");
+	draw_text(32, room_height/2, "Settings");
+	draw_text(32, room_height/2 + 16, "Quit");
+	if(sel == 0){
+		draw_text(22, room_height/2 - 16, ">");
+	}
+	else if(sel == 1){
+		draw_text(22, room_height/2, ">");
+	}
+	else{
+		draw_text(22, room_height/2 + 16, ">");
+	}
+	/*print(64, 32, "Test");
+	printand(64, 64, "tiny tests", 1.5, c_blue);
+	printand(16, room_height - 64, "Big Boi...", 4, c_red);*/
+}
+else if(menu == 1){//Controller Connect Menu
+	//draw_text(16, 16, "Connect Controllers\nA to connect, B to disconnect\n" + string(p1id) + " : " + string(p2id) + " : " + string(p3id) + " : " + string(p4id));
+	if(phase == 0){
+		draw_text(4, 4, "Start/Sel/A/B/LS... Figure it Out");
+		if(p1id == -1){
+			draw_sprite(spr_sq, 0, 16, 100);
+		}
+		else{
+			draw_sprite(spr_char, charhov1, 16, 100);
+			if(charsel1 == -1){
+				draw_sprite(spr_chararrows, 0, 16, 100);
+			}
+		}
+		if(p2id == -1){
+			draw_sprite(spr_sq, 0, 96, 100);
+		}
+		else{
+			draw_sprite(spr_char, charhov2, 96, 100);
+			if(charsel2 == -1){
+				draw_sprite(spr_chararrows, 0, 96, 100);
+			}
+		}
+		if(p3id == -1){
+			draw_sprite(spr_sq, 0, 176, 100);
+		}
+		else{
+			draw_sprite(spr_char, charhov3, 176, 100);
+			if(charsel3 == -1){
+				draw_sprite(spr_chararrows, 0, 176, 100);
+			}
+		}
+		if(p4id == -1){
+			draw_sprite(spr_sq, 0, 256, 100);
+		}
+		else{
+			draw_sprite(spr_char, charhov4, 256, 100);
+			if(charsel4 == -1){
+				draw_sprite(spr_chararrows, 0, 256, 100);
+			}
+		}
+	}
+	else if(phase == 1){
+		if(p1id == -1){
+			draw_text(8, 90, "Oh shit\nIt broke");
+		}
+		else{
+			draw_sprite(spr_char, charsel1, 16, 100);
+		}
+		if(p2id < 4 && p2id != -1){
+			draw_sprite(spr_char, charsel2, 96, 100);
+		}
+		else{
+			draw_sprite(spr_cpuchar, difhov2, 96, 100);
+			if(difhov2 == 0){
+				draw_text(96, 175, "Easy");
+			}
+			else if(difhov2 == 1){
+				draw_text(96, 175, "Medium");
+			}
+			else{
+				draw_text(96, 175, "Hard");
+			}
+		}
+		if(p3id < 4 && p3id != -1){
+			draw_sprite(spr_char, charsel3, 176, 100);
+		}
+		else{
+			draw_sprite(spr_cpuchar, difhov3 + 3, 176, 100);
+			if(difhov3 == 0){
+				draw_text(176, 175, "Easy");
+			}
+			else if(difhov3 == 1){
+				draw_text(176, 175, "Medium");
+			}
+			else{
+				draw_text(176, 175, "Hard");
+			}
+		}
+		if(p4id < 4 && p4id != -1){
+			draw_sprite(spr_char, charsel4, 256, 100);
+		}
+		else{
+			draw_sprite(spr_cpuchar, difhov4 + 6, 256, 100);
+			if(difhov4 == 0){
+				draw_text(256, 175, "Easy");
+			}
+			else if(difhov4 == 1){
+				draw_text(256, 175, "Medium");
+			}
+			else{
+				draw_text(256, 175, "Hard");
+			}
+		}
+	}
+	else{
+		draw_text(4, room_height/2 - 12, "Casual");
+		draw_text(room_width/2, room_height/2 - 12, "Competitive");
+		if(sel == 0){
+			draw_rectangle(1, room_height/2 - 10, room_width/2 - 16, room_height/2 + 10, true);
+		}
+		else if(sel == 1){
+			draw_rectangle(room_width/2 - 6, room_height/2 - 10, room_width - 16, room_height/2 + 10, true);
+		}
+	}
+}
+else if(menu == 2){//Casual Play Menu
+	if(tab == 0){
+		draw_text(6, 12*1, "Tower Hammer");
+		draw_text(6, 12*2, "MG2");//Choking Hazard
+		draw_text(6, 12*3, "MG3");
+		draw_text(6, 12*4, "MG4");
+		draw_text(6, 12*5, "MG5");
+		draw_text(6, 12*6, "MG6");
+		draw_text(6, 12*7, "MG7");
+		draw_text(6, 12*8, "MG8");
+		draw_text(6, 12*9, "MG9");
+		draw_text(6, 12*10, "MG10");
+		draw_text(6, 12*11, "MG11");
+		draw_text(6, 12*12, "MG12");
+		draw_text(6, 12*13, "MG13");
+		draw_text(6, 12*14, "MG14");
+		draw_text(6, 12*15, "MG15");
+		draw_text(6, 12*16, "MG16");//Floor Planning
+	}
+	else if(tab == 1){
+		draw_text(6, 12*1, "MG1");
+		draw_text(6, 12*2, "MG2");
+		draw_text(6, 12*3, "MG3");
+		draw_text(6, 12*4, "MG4");//Who's Driving?
+		draw_text(6, 12*5, "MG5");
+		draw_text(6, 12*6, "MG6");
+		draw_text(6, 12*7, "MG7");
+	}
+	else if(tab == 2){
+		draw_text(6, 12*1, "MG1");
+		draw_text(6, 12*2, "MG2");
+		draw_text(6, 12*3, "MG3");
+		draw_text(6, 12*4, "MG4");
+		draw_text(6, 12*5, "MG5");//It's Not Cannon
+	}
+	else{
+		draw_text(6, 12*1, "MG1");//Mash Away Monster
+		draw_text(6, 12*2, "MG2");
+		draw_text(6, 12*3, "MG3");
+		draw_text(6, 12*4, "MG4");
+	}
+	draw_text(0, 12*(sel+1), ">");
+}
+else if(menu == 3){
+	draw_text(16, room_height/2, "This doesn't exist yet.");
+}
+else if(menu == 4){//Settings Menu
+	draw_text(16, 32, "Sound Volume");
+	draw_text(16, 72, "Music Volume");
+	if(screensel < 5){
+		draw_text(16, 112, "Screen Size: " + string(screensel + 1) + "x");
+	}
+	else if(screensel == 5){
+		draw_text(16, 112, "Screen Size: Windowed Fullscreen");
+	}
+	else{
+		draw_text(16, 112, "Screen Size: Fullscreen");
+	}
+	draw_text(16, 152, "Toggle Games");
+	if(sel == 0){
+		draw_text(6, 32, ">");
+	}
+	else if(sel == 1){
+		draw_text(6, 72, ">");
+	}
+	else if(sel == 2){
+		draw_text(6, 112, ">");
+	}
+	else{
+		draw_text(6, 152, ">");
+	}
+	if(sndvol > 0){
+		for(i = 0; i < sndvol; i += 0.1){
+			draw_sprite(spr_counter, 0, 200 + (12*i*10), 32);
+		}
+	}
+	if(musvol > 0){
+		for(j = 0; j < musvol; j += 0.1){
+			draw_sprite(spr_counter, 0, 200 + (12*j*10), 72);
+		}
+	}
+}
+else{
+	draw_text(16, room_height/2, "This doesn't exist yet.");
+}

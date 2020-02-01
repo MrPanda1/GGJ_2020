@@ -2,14 +2,45 @@
 // You can write your code in this editor
 
 //Reference to the currently touching journal
-var tmpPart = instance_place(x, y, Journal);
+var tmpJournal = instance_place(x, y, Journal);
+//Reference to the currently touching robot part
+var tmpPart = instance_place(x, y, pRobotPart);
+
+
 //Opens the journal
-if(tmpPart != noone && currentJournal == noone)
+if(tmpJournal != noone)
 {
-	currentJournal = tmpPart;
+	if(currentJournal != noone)
+	{
+		currentJournal.doDestroy = true;
+	}
+	
+	currentJournal = instance_create_depth(window_get_width() / 2, window_get_height() / 2, -1000, TextBox);
+	currentJournal.myJournal = tmpJournal;
+	currentJournal.playerRef = id;
 }
-//Closes the journal
-else if(currentJournal != noone)
+//Picks up the part
+else if(tmpPart != noone && currentPiece == noone)
 {
-	currentJournal = noone;
+	currentPiece = tmpPart;
+	tmpPart.isPickedUp = true;
+}
+//Places the part down
+else if(currentPiece != noone)
+{
+	currentPiece.y = y;
+	
+	if lastHorDir < 0
+	{
+		currentPiece.x = x - currentPiece.sprite_width;
+	}
+	else
+	{
+		currentPiece.x = x + sprite_width;
+		
+	}
+	
+	currentPiece.isPickedUp = false;
+	
+	currentPiece = noone;
 }

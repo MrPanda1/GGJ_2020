@@ -1,0 +1,116 @@
+Feb 3
+- CIS 310: Assignment 4
+- ENT 448: redBus Case
+
+Feb 7
+- CIS 310: Assignment 5
+
+Feb 9
+- CIS 405: Quiz 2
+- CIS 405: Group Assignment Part 1
+
+Feb 10
+- CIS 310: Reflective Question 3
+
+Feb 13
+- CIS 310: Knowledge Quiz 3
+
+Feb 14
+- CIS 310: Assignment 6
+
+Feb 17
+- CIS 310: Assignment 7
+
+Feb 21
+- CIS 310: Application Test 1
+
+Feb 23
+- CIS 405: Software Assignment 1
+
+Feb 24
+- CIS 310: Reflective Question 4
+
+Feb 27
+- CIS 310: Knowledge Quiz 4
+
+Feb 28
+- CIS 310: Assignment 8
+
+Mar 2
+- CIS 310: Assignment 9
+- ENT 448: TurboTax Case
+
+Mar 6
+- CIS 310: Reflective Question 5
+
+Mar 8
+- CIS 405: Mid-Term Exam
+
+Mar 16
+- CIS 310: Reflective Question 6
+
+Mar 19
+- CIS 310: Knowledge Quiz 5
+
+Mar 20
+- CIS 310: Assignment 10
+
+Mar 23
+- CIS 310: Assignment 11
+
+Mar 27
+- CIS 310: Application Test 2
+
+Mar 29
+- CIS 405: Quiz 3
+- CIS 405: Software Assignment 2
+
+Mar 30
+- CIS 310: Reflective Question 7
+
+Apr 2
+- CIS 310: Knowledge Quiz 6
+
+Apr 3
+- CIS 310: Assignment 12
+
+Apr 6
+- CIS 310: Assignment 13
+
+Apr 8
+- ENT 448: Innovating Innovation Case
+
+Apr 9
+- CIS 310: Assignment 14
+
+Apr 12
+- CIS 405: Quiz 4
+
+Apr 13
+- CIS 310: Reflective Question 8
+
+Apr 16
+- CIS 310: Knowledge Quiz 7
+
+Apr 17
+- CIS 310: Assignment 15
+
+Apr 20
+- CIS 310: Assignment 16
+
+Apr 24
+- CIS 310: Reflective Question 9
+
+Apr 30
+- CIS 310: Reflective Question 10
+
+May 1
+- CIS 405: Group Assignment Part 2
+- CIS 405: Peer Feedback
+- CIS 405: Software Assignment 3
+
+May 4
+- CIS 310: Application Test 3
+
+May 6
+- CIS 405: Final Exam
