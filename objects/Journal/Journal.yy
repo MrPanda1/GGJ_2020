@@ -1,23 +1,14 @@
 {
-    "id": "78e00e72-f2ce-491b-ab3f-5fb6ed5a48e3",
+    "id": "f652fb60-5797-4b09-8c58-4ad4d346f143",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Robot",
+    "name": "Journal",
     "eventList": [
-        {
-            "id": "30dee622-dca3-46ad-a924-720cab118488",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "c09e1caa-d989-4906-9f16-96693e632592",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "78e00e72-f2ce-491b-ab3f-5fb6ed5a48e3"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "76d0aea9-515b-4f47-be6e-17a1dfbbba56",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -33,7 +24,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "0799da34-0285-4cfe-8f2b-1173ce539560",
+            "id": "f75922b7-0dee-43c8-b165-5a89742160b3",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -43,11 +34,11 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "0",
-            "varName": "robotState",
-            "varType": 1
+            "varName": "journalText",
+            "varType": 2
         }
     ],
     "solid": false,
-    "spriteId": "8d6b23ef-90b5-428c-b350-0f244e2a2b09",
+    "spriteId": "9a031802-8a89-43ef-9dac-66915f15e193",
     "visible": true
 }
