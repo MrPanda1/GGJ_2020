@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "18f983d9-9cd8-4e4e-9436-8642f4a8bb34",
+            "Value": {
+                "id": "6cea469c-ed38-4b26-b194-a2a34d950de0",
+                "resourcePath": "sprites\\spr_garbage\\spr_garbage.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1b3bcdf8-47e2-4d1c-a3f2-0176f5fe7a56",
             "Value": {
                 "id": "86b03fad-5a36-4d4e-9ff5-8cc00f4a3bd3",
