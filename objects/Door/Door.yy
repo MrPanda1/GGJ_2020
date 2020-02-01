@@ -4,16 +4,7 @@
     "mvc": "1.0",
     "name": "Door",
     "eventList": [
-        {
-            "id": "8bdd450f-f8d1-4a4c-b374-9ec6adaaf06f",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "b0ca9ecc-5141-44f4-9014-403bfef30ca5"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
