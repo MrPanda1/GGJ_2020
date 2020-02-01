@@ -1,0 +1,473 @@
+Item				Point Cost ((currently) 45 points available)
+
+Swords
+
+Copper Shortsword		1
+Tin Shortsword			1
+Iron Shortsword			2
+Lead Shortsword			2
+Silver Shortsword		3
+Tungsten Shortsword		3
+Gold Shortsword			4
+Platimum Shortsword		4
+Wooden Sword			1
+Boreal Wood Sword		1
+Rich Mahogany Sword		1
+Palm Wood Sword			1
+Ebonwood Sword			1
+Shadewood Sword			1
+Cactus Sword			1
+Zombie Arm			1
+Copper Broadsword		2
+Tin Broadsword			2
+Iron Broadsword			3
+Lead Broadsword			3
+Silver Broadsword		4
+Tungsten Broadsword		4
+Gold Broadsword			5
+Platinum Broadsword		5
+Bone Sword			5
+Enchanted Sword			6
+Ice Blade			5
+Katana				5
+Light's Bane			5
+Blood Butcherer			5
+Purple Clubberfish		6
+Phaseblade			6
+Starfury			6
+Blade of Grass			7
+Muramasa			6
+Fiery Greatsword		8
+Night's Edge			9
+Falcon Blade			7
+Mandible Blade			3
+Pearlwood Sword			1
+Slap Hand			8
+Breaker Blade			8
+Cobalt Sword			9
+Palladium Sword			9
+Phasesaber			9
+Ice Sickle			10
+Mythril Sword			10
+Orichalcum Sword		10
+Cutlass				11
+Frostbrand			12
+Adamantite Sword		12
+Beam Sword			13
+Titanium Sword			12
+Bladetongue			13
+Fetid Baghnakhs			13
+
+Spears
+
+Spear				1
+Trident				1
+The Rotted Fork			2
+Swordfish			5
+Dark Lance			6
+Cobalt Naginata			7
+Palladium Pike			7
+Mythril Halberd			8
+Orichalcum Halberd		8
+Adamantite Glaive		9
+Titanium Trident		9
+Obsidian Swordfish		13
+
+Boomerangs
+
+Wooden Boomerang		2
+Enchanted Boomerang		4
+Ice Boomerang			4
+Thorn Chakram			7
+Flamarang			8
+Flying Knife			13
+Bananarang			13
+
+Flails
+
+Chain Knife			2
+Ball O' Hurt			5
+The Meatball			5
+Blue Moon			6
+Sunfury				8
+Anchor				7
+KO Cannon			9
+Chain Guillotines		10
+Dao of Pow			13
+
+Yoyos
+
+Wooden Yoyo			1
+Rally				5
+Malaise				6
+Artery				6
+Amazon				7
+Code 1				8
+Valor				8
+Cascade				9
+Format:C			10
+Gradient			11
+Chik				12
+Hel-Fire			13
+Amarok				13
+
+Weirdos
+
+Shadowflame Knife		11
+
+
+Bows
+
+Wooden Bow			1
+Boreal Wood Bow			1
+Rich Mahogany Bow		1
+Palm Wood Bow			1
+Ebonwood Bow			1
+Shadewood Bow			1
+Copper Bow			2
+Tin Bow				2
+Iron Bow			3
+Lead Bow			3
+Silver Bow			4
+Tungsten Bow			4
+Gold Bow			5
+Platinum Bow			5
+Demon Bow			6
+Tendon Bow			6
+Molten Fury			7
+Hellwing Bow			6
+Pearlwood Bow			1
+Marrow				8
+Ice Bow				8
+Daedalus Stormbow		13
+Shadowflame Bow			12
+
+Repeaters
+
+Cobalt Repeater			10
+Palladium Repeater		10
+Mythril Repeater		11
+Orichalcum Repeater		11
+Adamantite Repeater		12
+Titanium Repeater		12
+
+Guns
+
+Boomstick			3
+Flintlock Pistol		1
+The Undertaker			2
+Musket				8
+Handgun				3
+Phoenix Blaster			5
+Minishark			8
+Revolver			7
+Clockwork Assault Rifle		10
+Gatligator			8
+Shotgun				10
+Onyx Blaster			12
+Uzi				13
+
+Weird Ones
+
+Flare Gun			1
+Snowball Cannon			1
+Blowpipe			2
+Blowgun				7
+Star Cannon			13
+Harpoon				6
+Toxicarp			11
+Dart Pistol			10
+Dart Rifle			10
+
+Magic Wands
+
+Wand of Sparking		1
+Amethyst Staff			1
+Topaz Staff			2
+Sapphire Staff			3
+Emerald Staff			4
+Ruby Staff			5
+Diamond Staff			6
+Amber Staff			5
+Vilethorn			5
+Crimson Rod			5
+Magic Missile			5
+Aqua Scepter			5
+Flamelash			6
+Flower of Fire			8
+Ice Rod				10
+Flower of Frost			9
+Crystal Vile Shard		9
+Life Drain			12
+Clinger Staff			12
+Meteor Staff			13
+Nimbus Rod			11
+Poison Staff			11
+Frost Staff			12
+
+Magic Guns
+
+Space Gun			9
+Laser Rifle			11
+
+Spell Tomes
+
+Water Bolt			5
+Demon Scythe			3
+Book of Skulls			6
+Cursed Flames			10
+Golden Shower			12
+Crystal Storm			13
+
+Spooky Other
+
+Sky Fracture			13
+Magic Dagger			9
+Shadowflame Hex Doll		10
+Crystal Serpent			13
+
+Explosives			Per stack of ten
+
+Grenade				3
+Sticky Grenade			6
+Bouncy Grenade			6
+
+Bullets				Costs are per 40
+
+Endless Musket Pouch		Complimentary with any gun
+Silver Bullet			1
+Meteor Shot			2
+Crystal Bullet			4
+Cursed Bullet			3
+Exploding Bullet		2
+Ichor Bullet			3
+
+Arrows				Costs are per 80 and can be scaled to half price for 40
+
+Endless Quiver			Complimentary with any bow or repeater
+Flaming Arrow			1
+Frostburn Arrow			1
+Unholy Arrow			2
+Jester's Arrow			2
+Hellfire Arrow			4
+Holy Arrow			6
+Cursed Arrow			8
+Ichor Arrow			8
+
+Darts				Costs are per 30
+
+Cursed Dart			2
+Poison Dart			2
+Ichor Dart			2
+Crystal Dart			3
+
+Misc. Ammo
+
+Seed				Free
+Fallen Star			1 per stack of 10
+
+Consumables
+Life Crystals or Mana Stars	15 Free
+Extra Life			1 per Life Crystal, Life Fruit, or Mana Crystal
+
+Health and Mana Potions		Prices are per stack (30)
+
+Mushrooms			Free
+Bottled Water			1
+Lesser Healing Potion		2
+Bottled Honey			3
+Lesser Restoration Potion	3
+Healing Potion			3
+Honeyfin			4
+Greater Healing Potion		4
+Lesser Mana Potion		1
+Mana Potion			2
+Greater Mana Potion		3
+Super Mana Potion		4
+Strange Brew			5 (Why would anyone get this?)
+
+Buff Potions			Prices are per 5
+
+Ammo Reservation Potion		4
+Archery Potion			2
+Endurance Potion		2
+Inferno Potion			4
+Ironskin Potion			2
+Lifeforce Potion		4
+Magic Power Potion		2
+Mana Regeneration Potion	2
+Rage Potion			3
+Regeneration Potion		2
+Swiftness Potion		2
+Thorns Potion			3
+Titan Potion			3
+Wrath Potion			3
+
+Armor
+
+Wood Armor			1
+Rich Mahogany Armor		1
+Boreal Wood Armor		1
+Palm Wood Armor			1
+Ebonwood Armor			1
+Shadewood Armor			1
+Cactus Armor			1
+Copper Armor			2
+Tin Armor			2
+Pumpkin Armor			2
+Gladiator Armor			2
+Iron Armor			3
+Lead Armor			3
+Silver Armor			4
+Tungsten Armor			4
+Gold Armor			5
+Platinum Armor			5
+Obsidian Armor			3
+Jungle Armor			7
+Ancient Cobalt Armor		7
+Meteor Armor			7
+Necro Armor			7
+Shadow Armor			7
+Ancient Shadow Armor		7
+Crimson Armor			7
+Molten Armor			9
+Pearlwood Armor			1
+Cobalt Hat Set			10
+Cobalt Helmet Set		10
+Cobalt Mask Set			10
+Palladium Headgear Set		10
+Palladium Helmet Set		10
+Paladium Mask Set		10
+Mythril Hood Set		11
+Mythril Helmet Set		11
+Mythril Hat Set			11
+Orichalcum Headgear Set		12
+Orichalcum Helmet Set		12
+Orichalcum Mask Set		12
+Adamantite Headgear Set		13
+Adamantite Helmet Set		13
+Adamantite Mask Set		13
+Titanium Headgear Set		13
+Titanium Helmet Set		13
+Titanium Mask Set		13
+Frost Armor			13
+
+Magic Robes
+
+Magic Hat			7
+Wizard Hat			5
+Amethyst Robe			1
+Topaz Robe			2
+Sapphire Robe			3
+Emerald Robe			4
+Ruby Robe			5
+Diamond Robe			6
+Gypsy Robe			3
+
+Hooks: Pick 1
+
+Grappling Hook
+Amethyst Hook
+Topaz Hook
+Sapphire Hook
+Emerald Hook
+Ruby Hook
+Diamond Hook
+Web Slinger
+Skeletron Hand
+Slime Hook
+Fish Hook
+Ivy Whip
+Dual Hook
+Illuminant Hook
+Worm Hook
+Tendon Hook
+
+Accessories: Pick 5
+
+Aglet
+Anklet of the Wind
+Arctic Diving Gear
+Balloon Pufferfish
+Blizzard in a Balloon
+Blue Horseshoe Ballon
+Bundle of Balloons
+Climbing Claws
+Cloud in a Balloon
+Cloud in a Bottle
+Diving Gear
+Fart in a Balloon
+Fart in a Jar
+Flipper
+Flurry Boots
+Flying Carpet
+Frog Leg
+Frostspark Boots
+Green Horseshoe Balloon
+Hermes Boots
+Ice Skates
+Jellyfish Diving Gear
+Lava Charm
+Lava Waders
+Lightning Boots
+Lucky Horseshoe
+Obsidian Horseshoe
+Obsidian Water Walking Boots
+Pink Horseshoe Balloon
+Rocket Boots
+Sailfish Boots
+Sandstorm in a Bottle
+Sharkron Balloon
+Shiny Red Balloon
+Shoe Spikes
+Spectre Boots
+Tiger Climbing Gear
+Tsunami in a Bottle
+Water Waling Boots
+White Horseshoe Balloon
+Yellow Horseshoe Balloon
+Angel Wings
+Demon Wings
+Fin Wings
+Bee Wings
+Butterfly Wings
+Fairy Wings
+Harpy Wings
+Leaf Wings
+Ice Wings
+Band of Regeneration
+Band of Starpower
+Celestial Cuffs
+Celestial Magnet
+Celestial Emblem
+Charm of Myths
+Magic Cuffs
+Mana Flower
+Mana Regeneration Band
+Nature's Gift
+Philosopher's Stone
+Ankh Shield
+Moon Charm
+Cross Necklace
+Feral Claws
+Flesh Knuckles
+Frozen Turtle Shell
+Magic Quiver
+Magma Stone
+Obsidian Rose
+Obsidian Skull
+Panic Necklace
+Pocket Mirror
+Power Glove
+Putrid Scent
+Ranger Emblem
+Shackle
+Shark Tooth Necklace
+Sorcerer Emblem
+Star Cloak
+Star Veil
+Titan Glove
+Warrior Emblem
+Yoyo Bag
+Shield of Cthulhu
+Worm Scarf

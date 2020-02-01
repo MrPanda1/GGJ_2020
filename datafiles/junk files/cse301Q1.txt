@@ -1,0 +1,21 @@
+Ada Lovelace - first computer programmer, babbages analytical engine 1815ish-1855ish
+Dennis Ritchie & Ken Thompson - created C, both unix operating system 1941-2011
+Konrad Zuse - First programmable computer turing complete z3
+John Von Newman - 1945 made merge sort alogorithm
+Douglas Engelbart - 1925 2-13 computer mouse hypertext networked computers gui precursors
+Gordon Moore, cofounded intel, author of moores law
+Katherine Johnson - computerized celestial navigation, nasa work moon
+Larry Page & Sergey Brin - founded google
+Bill Gates - microsoft
+Donald Knuth - art of computer programming books, asymptotic notation, theoretical computer science
+Barbara Liskov - one of first women to get CS degreem turing award
+Alan Turing - turing machine, enigma machine
+charles babbage - inventing first mechanical computer analytical engine
+. J. Presper Eckert - designed eniac, univac
+James Gosling - created java
+Margaret Hamilton - ceo hamilton tech, developed onboard flight software for apollo space program
+Niklaus Wirth - made languages like pascal modula, euler, oberon, algol
+ Tim Berners-Lee - made world wide web
+Bjarne Stroustrup - made c++
+steve jobs - apple
+Grace Hopper - first compilier -> cobol

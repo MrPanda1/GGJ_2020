@@ -1,0 +1,108 @@
+from math import sqrt
+from itertools import count, islice
+isTrue = True
+yIs = 0
+
+def findX(): # Get user input
+	try:
+		value = int(input("\nEnter a number:"))
+		return value
+	except ValueError:
+		print("\nThis is not a valid number.")
+		findX()
+
+def findY(): # Selects function to execute
+	print("\nWhat do you want to know about this number?\n\nSelect one:\n1) Is it odd or even?\n2) Is it a prime number?\n3) Is it a perfect number?\n")
+	value = int(input())
+	if value == 1 or value == 2 or value == 3:
+		return value
+	else:
+		value = -1
+		return value
+
+def reSelect(numIn):
+	global yIs
+	yIs = findY()
+	selection(yIs, numIn)
+	print("]]]", yIs, numIn)
+
+def selection(select, numIn): # Executes selected function
+	print("}}}", select, numIn)
+	if select == 1 or select == 2 or select == 3:
+		if select == 1:
+			print(">1>", select, numIn)
+			return isOdd(numIn)
+		elif select == 2:
+			print(">2>", select, numIn)
+			return isPrime(numIn)
+		elif select == 3:
+			print(">3>", select, numIn)
+			return isPerfect(numIn)
+	else:
+		print(">>>", select, numIn)
+		print("\nInvalid selection.")
+		reSelect(numIn)
+
+def isOdd(numIn): # Returns T/F
+	numIn = int(numIn)
+	return numIn%2 == 0
+
+def isPrime(numIn): # Returns T/F
+	if numIn < 2:
+		return False
+	else:
+		for number in islice(count(2), int(sqrt(numIn)-1)):
+			if numIn % number == 0:
+				return False
+			else:
+				return True
+
+def isPerfect(numIn): # Returns T/F
+	sum = 0
+	for i in range(1, numIn):
+		if numIn % i == 0:
+			sum += i
+	return sum == numIn
+
+def result(numIn, select, isZ):
+	if isZ:
+		if select == 1:
+			print("\n", numIn, " is an even number.\n", sep="")
+		elif select == 2:
+			print("\n", numIn, " is a prime number.\n", sep="")
+		else:
+			print("\n", numIn, " is a perfect number.\n", sep="")
+	else:
+		if select == 1:
+			print("\n", numIn, " is an odd number.\n")
+		elif select == 2:
+			print("\n", numIn, " is not a prime number.\n", sep="")
+		else:
+			print("\n", numIn, " is not a perfect number.\n", sep="")
+
+def isLoop(xIs):
+	global yIs
+	print("Do you wish to:\n1) See additional results?\n2) Enter another value?\n3) Exit the program?\n")
+	loop = int(input())
+	if loop == 1:   # More
+		yIs = findY()
+		zIs = selection(yIs, xIs)
+		result(xIs, yIs, zIs)
+		isLoop(xIs)
+	elif loop == 2: # Again
+		main()
+	elif loop == 3: # EXIT
+		isTrue = False
+	else:
+		print("\nInvalid selection.")
+		isLoop(xIs)
+
+def main():
+	global yIs
+	if isTrue:
+		xIs = findX()             # input value
+		yIs = findY()             # choose 1||2||3
+		zIs = selection(yIs, xIs) # Pass selection
+		result(xIs, yIs, zIs)     # Print result
+		doLoop = isLoop(xIs)      # More||Again||EXIT
+main()

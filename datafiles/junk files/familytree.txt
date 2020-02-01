@@ -1,0 +1,73 @@
+/* Database for family tree. It consists of facts and rules. */
+/* A portion of the family tree has been implemented for you */
+/* Facts */
+male(kam).
+male(jeb).
+male(rob).
+male(tio).
+male(zev).
+male(dom).
+male(dag).
+male(gio).
+female(ana).
+female(may).
+female(sue).
+female(syd).
+female(pam).
+female(liz).
+female(fey).
+female(kat).
+father_of(kam, rob). /* kam is the father of rob */
+father_of(kam, syd). /* kam is the father of syd */
+father_of(jeb, tio).
+father_of(jeb, pam).
+father_of(rob, dom).
+father_of(rob, kat).
+father_of(tio, dag).
+father_of(tio, fey).
+father_of(zev, liz).
+father_of(zev, gio).
+mother_of(ana, rob). /* ana is the mother of rob */
+mother_of(ana, syd). /* ana is the mother of syd */
+mother_of(may, tio).
+mother_of(may, pam).
+mother_of(sue, kat).
+mother_of(sue, dom).
+mother_of(syd, dag).
+mother_of(syd, fey).
+mother_of(pam, liz).
+mother_of(pam, gio).
+/* Rules */
+is_male(X) :-
+male(X);
+father_of(X, _).
+is_female(X) :-
+female(X);
+mother_of(X, _).
+parent_of(X, Y) :-
+father_of(X, Y);
+mother_of(X, Y).
+sibling_of(X, Y) :-
+parent_of(X, Y),
+parent_of(X, Y).
+grandmother_of(X, Z) :-
+mother_of(X, Y),
+parent_of(Y, Z).
+grandfather_of(X, Z) :-
+father_of(X, Y),
+parent_of(Y, Z).
+descendent_of(X, Y) :-
+parent_of(Y, X);
+parent_of(Y, Z),
+descendent_of(X, Z).
+familyquestions(X, Y) :-
+parent_of(X, Y),
+write(X), write(' is a parent of '), write(Y), nl,
+sibling_of(X, Y),
+write(X), write(' is a sibling of '), write(Y), nl,
+grandmother_of(X, Y),
+write(X), write(' is a grandmother of '), write(Y), nl,
+grandfather_of(X, Y),
+write(X), write(' is a grandfather of '), write(Y), nl,
+descendent_of(X, Y),
+write(X), write(' is a descendent of '), write(Y).

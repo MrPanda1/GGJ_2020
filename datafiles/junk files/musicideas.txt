@@ -1,0 +1,34 @@
+Ideas for boss music
+Theory:
+I think ideally in these repeated music phrases while there should be some semblance of
+conflict and resolution it should never resolve fully. Don't hit 'em with that long tonic chord.
+Diminished sevenths has great conflict.
+Some chord progressions (i°=i diminished, ♭v=flat five)
+i-V-VI-V
+i-VI-III-VII
+i-VI-III-V7
+VI-III-V7-V7
+VI-VII-v-V7
+i-ii°-i-iv°7-i-vii°-i-V7
+i-V7-♭v°-i
+i-#vii7-vii7-i
+Chords that are out of key or don't make sense can be very unsettling.
+Suddenly and temporarily changing the time signature can also have a strong effect.
+
+Instruments:
+From the fantasy theme orchestral instruments make a lot of sense
+Here's my thoughts on a lot of instruments
+Strings: good everywhere as melody or chords.
+Brass: Would work well in boss themes for bass, or melodic for a heroic/military feel.
+Piano: Not typically associated with anything evil, but still could be with enough melodic focus.
+Organ: Situational use in this fantasy/boss theme. I personally associate it with a more "noble" evil.
+Woodwinds: It'll fill out that higher register, but I rarely give these any important role.
+Drums: Definitely useful, it would be great if someone could find some good orchestral drums.
+Electronic/other: I'm sure one could manipulate sin/triangle/whatever waves to combine with
+the rest of your instruments.
+
+Due to the "simple" nature of this game, I don't think the music should be too heavy.
+What I mean by that is while the ideas can be complex, it would probably fit best
+if there were only a few instruments playing at the same time at any given moment.
+
+In conclusion, do whatever you want and hope it sounds good.

@@ -59,6 +59,34 @@
             "value": "0",
             "varName": "doDestroy",
             "varType": 3
+        },
+        {
+            "id": "5f3d40e2-2fa2-4960-b729-53a53f52c81d",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "partState",
+            "varType": 1
+        },
+        {
+            "id": "e91f335d-91fa-47b2-9895-90d9d19f7564",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "noone",
+            "varName": "replaceSprite",
+            "varType": 5
         }
     ],
     "solid": false,
