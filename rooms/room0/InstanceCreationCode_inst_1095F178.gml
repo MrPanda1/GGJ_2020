@@ -1,1 +1,0 @@
-journalText = "Win GGJ2020 or die";
