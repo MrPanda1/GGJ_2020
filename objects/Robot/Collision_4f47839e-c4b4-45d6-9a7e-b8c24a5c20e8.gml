@@ -4,11 +4,20 @@
 //Places leg on robot
 if (!other.isPickedUp && global.gameState == other.partState - 1)
 {
-	if(other.replaceSprite != noone)
+	
+	if(global.gameState == 0 && instance_number(RobotLeg) > 1)
 	{
-		sprite_assign(sprite_index, other.replaceSprite);
+		
+	}
+	else
+	{
+		if(other.replaceSprite != noone)
+		{
+			sprite_assign(sprite_index, other.replaceSprite);
+		}
+	
+		global.gameState++;
 	}
 	
-	global.gameState++;
 	other.doDestroy = true;
 }
