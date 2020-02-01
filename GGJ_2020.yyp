@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "22b5957e-5f71-41ab-b972-fd03f5270877",
+            "Value": {
+                "id": "3dbf9d1e-efba-46e9-8bb2-6722f1c47f81",
+                "resourcePath": "objects\\TextBox\\TextBox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "23c0d07c-fdf0-4fa7-bd5c-6bf8cbd1b268",
             "Value": {
                 "id": "69d6498c-005f-4b2d-b6e1-283563ba7b7e",
@@ -148,6 +156,30 @@
                 "id": "fd380c4c-3b51-43a4-a8ba-64d6f36f3ba8",
                 "resourcePath": "views\\655d4bc4-e913-4b3d-ad4e-5789fbdd44d6.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "663868d6-9d75-4b36-9135-7d4e506406e5",
+            "Value": {
+                "id": "899e20a9-f345-4783-a284-520cb174321e",
+                "resourcePath": "sprites\\TextBox_Sprite\\TextBox_Sprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "69536873-b312-4d75-ad7a-165aa25ed359",
+            "Value": {
+                "id": "98f583c8-f14b-4aff-abb5-0434d5487eb7",
+                "resourcePath": "objects\\ExitButton\\ExitButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "72e18a0c-ef87-490e-9a38-2d93bbec48ea",
+            "Value": {
+                "id": "ca327627-abab-4879-a001-71bb612af238",
+                "resourcePath": "sprites\\BoxExit_Sprite\\BoxExit_Sprite.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -283,6 +315,14 @@
             "Value": {
                 "id": "f7c4872d-81ee-4c00-9e55-1aabcccf3161",
                 "resourcePath": "views\\ce63f82b-287b-4259-9ff3-f8ba322a2224.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d8fb7753-8d8f-41fd-8956-8dbc49961a27",
+            "Value": {
+                "id": "85e46e5a-0ccc-417e-9bd3-e1ca2a07b53e",
+                "resourcePath": "views\\d8fb7753-8d8f-41fd-8956-8dbc49961a27.yy",
                 "resourceType": "GMFolder"
             }
         },

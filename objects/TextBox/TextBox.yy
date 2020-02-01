@@ -1,38 +1,58 @@
 {
-    "id": "8e52daa7-4233-4078-941f-a6832fdceeb7",
+    "id": "22b5957e-5f71-41ab-b972-fd03f5270877",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Player",
+    "name": "TextBox",
     "eventList": [
         {
-            "id": "c91af5ca-920a-4bc0-b754-b2c48fe6c57c",
+            "id": "d8f0d5a5-0130-4939-b65a-c87c23195408",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 6,
+            "m_owner": "22b5957e-5f71-41ab-b972-fd03f5270877"
+        },
+        {
+            "id": "b814a6d7-04e3-4afb-a520-ca710309aa86",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "22b5957e-5f71-41ab-b972-fd03f5270877"
+        },
+        {
+            "id": "80e372ca-7406-404a-81e0-86641fd85407",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "8e52daa7-4233-4078-941f-a6832fdceeb7"
+            "m_owner": "22b5957e-5f71-41ab-b972-fd03f5270877"
         },
         {
-            "id": "7602be45-ee48-4608-b620-eee4d19d9193",
+            "id": "3698cee9-451a-4f1d-8b87-c0edc7a886ed",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 69,
-            "eventtype": 9,
-            "m_owner": "8e52daa7-4233-4078-941f-a6832fdceeb7"
+            "enumb": 64,
+            "eventtype": 8,
+            "m_owner": "22b5957e-5f71-41ab-b972-fd03f5270877"
         },
         {
-            "id": "3fb1272d-ee92-4fb1-8d0c-2806a7fdbac4",
+            "id": "24a2a963-59cb-44ad-b942-28a6938f6544",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "b0ca9ecc-5141-44f4-9014-403bfef30ca5",
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "8e52daa7-4233-4078-941f-a6832fdceeb7"
+            "eventtype": 1,
+            "m_owner": "22b5957e-5f71-41ab-b972-fd03f5270877"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -53,7 +73,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "f9fcba13-8cc2-4120-8b17-925ba4502c2a",
+            "id": "ca6de514-1d61-4c17-a3b1-1a4f112483e4",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -62,12 +82,12 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "4",
-            "varName": "playerSpeed",
-            "varType": 0
+            "value": "noone",
+            "varName": "myExitBtn",
+            "varType": 5
         },
         {
-            "id": "a73dda7f-3db2-41a4-8ed2-69885759a065",
+            "id": "097b8392-a800-460f-a3ea-3bfe16abf52c",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -77,11 +97,11 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "0",
-            "varName": "lastHorDir",
-            "varType": 0
+            "varName": "doDestroy",
+            "varType": 3
         },
         {
-            "id": "8be2e31c-2c2d-49a5-b1d9-ac02986aa5fa",
+            "id": "ec7dd520-e1e4-4902-833d-c9f6ae2784f6",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -91,11 +111,11 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "noone",
-            "varName": "currentPiece",
+            "varName": "myJournal",
             "varType": 5
         },
         {
-            "id": "03328962-076a-4a1f-b181-5027d1a392fb",
+            "id": "ce58254f-4a0e-4750-95db-20169c01fa17",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -105,11 +125,11 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "noone",
-            "varName": "currentJournal",
+            "varName": "playerRef",
             "varType": 5
         }
     ],
     "solid": false,
-    "spriteId": "821d5621-72e0-4432-a7ad-de5a8ce8a304",
+    "spriteId": "663868d6-9d75-4b36-9135-7d4e506406e5",
     "visible": true
 }
