@@ -151,11 +151,11 @@
             }
         },
         {
-            "Key": "65f0ca8b-2d95-4cdc-be1a-8f8a78b079dd",
+            "Key": "74d397e2-a8c5-4d06-a83a-5110f1b22977",
             "Value": {
-                "id": "a13376dc-76ba-45e7-89a3-ff4cad5b40bf",
-                "resourcePath": "objects\\GameController\\GameController.yy",
-                "resourceType": "GMObject"
+                "id": "d7c178b7-ce56-4377-8706-6670e5f6e47c",
+                "resourcePath": "sprites\\spr_box\\spr_box.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
