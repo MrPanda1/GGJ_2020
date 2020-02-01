@@ -13,18 +13,14 @@ if hin != 0
 var xmov = playerSpeed*hin;
 var ymov = playerSpeed*vin;
 
-//Player movement. Note they cannot move with a opened journal
-if(currentJournal == noone)
+if !place_meeting(x+xmov,y,pWall)
 {
-	if !place_meeting(x+xmov,y,pWall)
-	{
-		x += xmov;
-	}
+	x += xmov;
+}
 
-	if !place_meeting(x,y+ymov,pWall)
-	{
-		y += ymov;
-	}
+if !place_meeting(x,y+ymov,pWall)
+{
+	y += ymov;
 }
 
 //This makes the currently help robot part hover above the player

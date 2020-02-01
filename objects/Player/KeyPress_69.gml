@@ -8,14 +8,16 @@ var tmpPart = instance_place(x, y, pRobotPart);
 
 
 //Opens the journal
-if(tmpJournal != noone && currentJournal == noone)
+if(tmpJournal != noone)
 {
-	currentJournal = tmpJournal;
-}
-//Closes the journal
-else if(currentJournal != noone)
-{
-	currentJournal = noone;
+	if(currentJournal != noone)
+	{
+		currentJournal.doDestroy = true;
+	}
+	
+	currentJournal = instance_create_depth(window_get_width() / 2, window_get_height() / 2, -1000, TextBox);
+	currentJournal.myJournal = tmpJournal;
+	currentJournal.playerRef = id;
 }
 //Picks up the part
 else if(tmpPart != noone && currentPiece == noone)
