@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "049f194a-bb54-4d16-8ebc-c6308c80be41",
+            "Value": {
+                "id": "6e3c03c9-8e16-4eac-94ba-0d336bf644cd",
+                "resourcePath": "sprites\\Antenna_Sprite\\Antenna_Sprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "06eeae59-1404-421c-abd3-c9bf0ab7c421",
             "Value": {
                 "id": "7c8a8570-7c8d-45c3-ac18-f257182909ec",
@@ -52,6 +60,14 @@
                 "id": "1cbb2dfb-1545-4184-a524-d1602c085b48",
                 "resourcePath": "views\\12da9f38-c6e1-4889-95bf-25e39d355760.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "16c6ae3a-8993-43e0-8074-a662f9cc55ec",
+            "Value": {
+                "id": "5adae331-c9c7-46cc-9514-e6c988df9b84",
+                "resourcePath": "objects\\RobotAntenna\\RobotAntenna.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -140,6 +156,14 @@
                 "id": "1e936108-d675-4876-9b10-fc2d3550fe37",
                 "resourcePath": "tilesets\\tileset0\\tileset0.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "3e8fa9a8-5218-4e01-8d89-8fabad1f8cb5",
+            "Value": {
+                "id": "440ecfa3-488d-41ad-86b0-51605a3930b5",
+                "resourcePath": "views\\3e8fa9a8-5218-4e01-8d89-8fabad1f8cb5.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -404,6 +428,14 @@
                 "id": "15ccfad2-09e9-4c04-b3f9-c155e6b36d9f",
                 "resourcePath": "views\\fd8bf525-45f1-44c3-a334-b7ca03d3e2ed.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "feb9b52e-02d6-4180-ada3-6e6447089bdd",
+            "Value": {
+                "id": "fa6327df-3111-4eeb-ae84-ffd671cc2cdc",
+                "resourcePath": "objects\\Box\\Box.yy",
+                "resourceType": "GMObject"
             }
         }
     ],
