@@ -4,7 +4,7 @@
 if(currentJournal != noone)
 {
 	draw_set_colour(c_olive);
-	draw_rectangle(100, 100, window_get_width() - 100, window_get_height() - 100, false);
+	draw_roundrect(100, 100, window_get_width() - 100, window_get_height() - 100, false);
 	draw_set_colour(c_black);
-	draw_text(150, 150, currentJournal.journalText);
+	draw_text(125, 125, currentJournal.journalText);
 }
