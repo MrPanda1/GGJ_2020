@@ -23,6 +23,26 @@
             "enumb": 88,
             "eventtype": 9,
             "m_owner": "8e52daa7-4233-4078-941f-a6832fdceeb7"
+        },
+        {
+            "id": "7602be45-ee48-4608-b620-eee4d19d9193",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 69,
+            "eventtype": 9,
+            "m_owner": "8e52daa7-4233-4078-941f-a6832fdceeb7"
+        },
+        {
+            "id": "1cd339ab-0e81-4fcf-9401-81e3d79c8454",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 64,
+            "eventtype": 8,
+            "m_owner": "8e52daa7-4233-4078-941f-a6832fdceeb7"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -57,6 +77,20 @@
             "varType": 0
         },
         {
+            "id": "a73dda7f-3db2-41a4-8ed2-69885759a065",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "lastHorDir",
+            "varType": 0
+        },
+        {
             "id": "8be2e31c-2c2d-49a5-b1d9-ac02986aa5fa",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
@@ -71,7 +105,7 @@
             "varType": 5
         },
         {
-            "id": "a73dda7f-3db2-41a4-8ed2-69885759a065",
+            "id": "03328962-076a-4a1f-b181-5027d1a392fb",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -80,9 +114,9 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0",
-            "varName": "lastHorDir",
-            "varType": 0
+            "value": "noone",
+            "varName": "currentJournal",
+            "varType": 5
         }
     ],
     "solid": false,

@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "655d4bc4-e913-4b3d-ad4e-5789fbdd44d6",
+            "Value": {
+                "id": "fd380c4c-3b51-43a4-a8ba-64d6f36f3ba8",
+                "resourcePath": "views\\655d4bc4-e913-4b3d-ad4e-5789fbdd44d6.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "76d0aea9-515b-4f47-be6e-17a1dfbbba56",
             "Value": {
                 "id": "0951cc89-8fd0-4b21-9ec9-aea0d7d00763",
@@ -156,6 +164,14 @@
                 "id": "c4a73117-af57-4921-a529-09ad2362d4db",
                 "resourcePath": "objects\\Robot\\Robot.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "821d5621-72e0-4432-a7ad-de5a8ce8a304",
+            "Value": {
+                "id": "6fa6cca6-09a8-42fa-92e4-7e31d626bedc",
+                "resourcePath": "sprites\\playerTemp\\playerTemp.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -187,6 +203,14 @@
             "Value": {
                 "id": "f9d82e7a-a265-4c11-80bc-310c827de756",
                 "resourcePath": "sprites\\RobotWithLeg_Sprite\\RobotWithLeg_Sprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9a031802-8a89-43ef-9dac-66915f15e193",
+            "Value": {
+                "id": "78e72216-8107-4608-a5ea-ee603481b947",
+                "resourcePath": "sprites\\Journal_Sprite\\Journal_Sprite.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -239,14 +263,6 @@
             }
         },
         {
-            "Key": "d231d320-2aec-48fc-9db2-c10acdd8a67e",
-            "Value": {
-                "id": "23922af9-4650-4462-8ea2-ea6810d09fbf",
-                "resourcePath": "views\\d231d320-2aec-48fc-9db2-c10acdd8a67e.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "de5b2941-7678-4094-85c7-33e023729cc1",
             "Value": {
                 "id": "a3e2594f-a9e1-4f6a-b3bf-ee5c268b7749",
@@ -276,6 +292,14 @@
                 "id": "84cf6b06-d8b2-46f1-85bf-3b128bdadf7a",
                 "resourcePath": "views\\f61998c4-f371-4ba6-90f2-6570fd8d7307.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f652fb60-5797-4b09-8c58-4ad4d346f143",
+            "Value": {
+                "id": "727bb6da-192c-4f70-8cae-783e2087eeba",
+                "resourcePath": "objects\\Journal\\Journal.yy",
+                "resourceType": "GMObject"
             }
         },
         {
