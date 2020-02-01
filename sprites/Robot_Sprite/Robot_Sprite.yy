@@ -6,40 +6,40 @@
     "For3D": false,
     "HTile": false,
     "VTile": false,
-    "bbox_bottom": 63,
-    "bbox_left": 0,
-    "bbox_right": 63,
-    "bbox_top": 0,
+    "bbox_bottom": 49,
+    "bbox_left": 11,
+    "bbox_right": 52,
+    "bbox_top": 14,
     "bboxmode": 0,
     "colkind": 1,
     "coltolerance": 0,
     "edgeFiltering": false,
     "frames": [
         {
-            "id": "bd86783e-27c6-4ec1-acd8-2aacec585504",
+            "id": "e53efc60-745b-4432-bccb-ae8bd3125549",
             "modelName": "GMSpriteFrame",
             "mvc": "1.0",
             "SpriteId": "8d6b23ef-90b5-428c-b350-0f244e2a2b09",
             "compositeImage": {
-                "id": "e4449958-88e2-4ca6-9852-6c20d8ad41dc",
+                "id": "4f95c4ed-e196-4fd7-b7e5-ca0fe8630331",
                 "modelName": "GMSpriteImage",
                 "mvc": "1.0",
-                "FrameId": "bd86783e-27c6-4ec1-acd8-2aacec585504",
+                "FrameId": "e53efc60-745b-4432-bccb-ae8bd3125549",
                 "LayerId": "00000000-0000-0000-0000-000000000000"
             },
             "images": [
                 {
-                    "id": "0b0b6015-9b70-4bf4-801f-799265defec6",
+                    "id": "17e2004b-5b10-40e8-91af-8b362bf49715",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
-                    "FrameId": "bd86783e-27c6-4ec1-acd8-2aacec585504",
+                    "FrameId": "e53efc60-745b-4432-bccb-ae8bd3125549",
                     "LayerId": "0fb0449a-b05a-49e3-a7f5-63054375976b"
                 }
             ]
         }
     ],
-    "gridX": 0,
-    "gridY": 0,
+    "gridX": 8,
+    "gridY": 8,
     "height": 64,
     "layers": [
         {
@@ -54,7 +54,7 @@
             "visible": true
         }
     ],
-    "origin": 0,
+    "origin": 4,
     "originLocked": false,
     "playbackSpeed": 15,
     "playbackSpeedType": 0,
@@ -65,6 +65,6 @@
     "textureGroupId": "1225f6b0-ac20-43bd-a82e-be73fa0b6f4f",
     "type": 0,
     "width": 64,
-    "xorig": 0,
-    "yorig": 0
+    "xorig": 32,
+    "yorig": 32
 }
