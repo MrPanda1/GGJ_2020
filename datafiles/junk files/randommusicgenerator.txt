@@ -1,0 +1,26 @@
+Bassline (Roll 1 D12, Flip Coin, Then Roll 3 D8)
+ROLL 1
+1 is C, 2 is C#... 12 is B
+FLIP COIN to determine major/minor. Heads is major.
+ROLL 2 THRU 4 uses roll 1 as the key of the song
+1-7: 1 is first note on scale
+8 reroll
+
+Melody (Roll 1 D18, then D10s)
+ROLL 1
+1 is first note on bass scale, 7 is last. Same for 9-15
+1-7 play on beat
+8, 16 Skip 1/2 Beat
+9-15 play syncopated (add half beat rest before playing that note)
+17, 18 Skip 1/8 Beat
+ROLL 2-...
+1 - skip down to next note in chord
+2 - play next note down in scale
+3 - repeat the last note in half beat
+4 - play the next note up in scale
+5 - skip up to next note in chord
+6 - rest 1/4 beat
+7 - rest 1/2 beat
+8 - rest 3/4 beat
+9 - rest 1 beat
+10 - hold last note till next one

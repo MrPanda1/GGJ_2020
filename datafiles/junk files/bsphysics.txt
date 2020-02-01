@@ -1,0 +1,7 @@
+1.2x10^18 atoms (per average grain of salt)
+Sodium Weight:3.8175407 * 10^-26 kg
+Chloride Weight:5.8871086 * 10^-26 kg
+Lightning Energy: 1,000,000,000 J
+(((1.2 * 10^18)((3.8175407 * 10^-26)+(5.8871086 * 10^-26))/2)*(8.98755179 * 10^16))/1000000000 = 
+~5.23
+About 5 lightning bolts per grain of salt
