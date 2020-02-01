@@ -7,6 +7,7 @@ var tmpPart = instance_place(x, y, pRobotPart);
 if(tmpPart != noone && currentPiece == noone)
 {
 	currentPiece = tmpPart;
+	tmpPart.isPickedUp = true;
 }
 //Places the part down
 else if(currentPiece != noone)
@@ -22,6 +23,8 @@ else if(currentPiece != noone)
 		currentPiece.x = x + sprite_width;
 		
 	}
+	
+	currentPiece.isPickedUp = false;
 	
 	currentPiece = noone;
 }
