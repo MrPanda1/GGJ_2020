@@ -103,11 +103,35 @@
             }
         },
         {
+            "Key": "76d0aea9-515b-4f47-be6e-17a1dfbbba56",
+            "Value": {
+                "id": "0951cc89-8fd0-4b21-9ec9-aea0d7d00763",
+                "resourcePath": "objects\\pWall\\pWall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "78e00e72-f2ce-491b-ab3f-5fb6ed5a48e3",
+            "Value": {
+                "id": "c4a73117-af57-4921-a529-09ad2362d4db",
+                "resourcePath": "objects\\Robot\\Robot.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8834e465-5d49-4367-8648-ce3e8c9de2ba",
             "Value": {
                 "id": "36e0d045-93da-4110-bb87-c526d19133b1",
                 "resourcePath": "views\\8834e465-5d49-4367-8648-ce3e8c9de2ba.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8d6b23ef-90b5-428c-b350-0f244e2a2b09",
+            "Value": {
+                "id": "8ec07486-d188-4457-8955-aeff35079b4a",
+                "resourcePath": "sprites\\Robot_Sprite\\Robot_Sprite.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
