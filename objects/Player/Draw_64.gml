@@ -1,6 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+//Displays journal text if one has been selected/picked up
 if(currentJournal != noone)
 {
 	draw_set_colour(c_olive);
