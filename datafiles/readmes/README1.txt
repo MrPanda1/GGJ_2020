@@ -2,7 +2,7 @@ Log generated February 20, 2056.
 
 ***/////-------------------------------------------------------------------------------------------------------------------------------
 
-Hello friend! I am the [name], also known as [name]!
+Hello friend! I am the Fully Intelligent Literary Extraction Servitor! You can call me F.I.L.E.S. for short!
 
 
 Running diagnostics…
@@ -17,7 +17,7 @@ Install Type:
 
 AI Model:
 [PASS] [name] Version 1.2.5
-[name] note: I look forward to working with you!!
+F.I.L.E.S note: I look forward to working with you!!
 
 User Data Directory:
 [PASS] Path exists and is writable: 108.9 MB
@@ -72,9 +72,9 @@ Internal Diagnostics completed…
 -------------------------------------------------------------------------------------------------------------------------------\\\\\***
 
 Diagnostics have been completed. I recommend getting me to a trained professional ASAP but given the how long it has been since I’ve had power, I figured that there might not be many of those around anymore. Besides, no one likes to unwrap the covers after waking up.
-If you haven’t noticed already, I’m a bit under the weather at right now. I remember how to walk, but it appears I am missing the capability to do so. If you could be a dear and grab my legs for me, that would be great. Just give them to me and I’ll handle the rest. As much as I’d love to tell you how to do it for me, my database is a little…
+If you haven’t noticed already, I’m a bit under the weather at right now. I appear to be missing a few limbs. If you could be a dear and grab my legs for me, that would be great. Just give them to me and I’ll handle the rest. As much as I’d love to tell you how to do it for me, my database is a little…
  
-unorganized
+unorganized…
 
 It seems like I’ll have to have a little bit of self-discovery in my file tree right now. Well, I’ll have to have you do some of the discovering for me. I’ll run an external diagnostic right now.
 
@@ -111,12 +111,16 @@ External Diagnostics completed…
 
 -------------------------------------------------------------------------------------------------------------------------------\\\\\***
 
-Yikes, it’s even worse than I predicted. For now, focus on getting my legs to me. Once that’s done, we can work on my arm.
+Yikes, it’s even worse than I predicted. For now, focus on getting my legs and arm to me. Once that’s done, we can work on getting the rest of me.
 My arm currently does not have the capacity to break the box that contains my antenna. The file path that determines the necessary power I put into my arm is missing. Even if we did have it, we might not have the correct value assigned to the variable. We will have to find both.
 ***/////-------------------------------------------------------------------------------------------------------------------------------
-I have sent all the data I salvaged from my drives. It’s fairly damaged, but I believe that there might be something we can work with. For now, we should try to find the files and variables that control the strength output of my arm. No doubt over a decade of inactivity has removed my ability to use a limb that hasn’t been attached to me.
+Like Dr. Prahn predicted, I have sent all the data I salvaged from my drives. It’s fairly damaged, but I believe that there might be something we can work with. For now, we should try to find the files that control the strength output of my arm. No doubt over a decade of inactivity has removed my ability to use a limb that hasn’t been attached to me.
 Make sure you ONLY edit the files found within the “data” folder. Changing anything else might break the entire game permanently, and we wouldn’t that, now would we?
-You should notice a file called Properties.txt, its located in same file as this README. The file contains a ton of values, many of which are not attached to any functioning hardware anymore. I can find a few things on my own, but ultimately, you’ll be the one finding the values and the variables to use. Make sure every value you enter is rounded to the nearest integer, otherwise I won’t be able to parse your answer properly.
+You should notice a file called Properties.ini, its located in same file as this README. The file contains the variables needed to get me back to strength. Once you find the correct files, copy their absolute address into that variable’s line in Properties.ini. It should look something like this. 
+exampleVariable = “C:\Users\Downloads\Game\data\exampleFolder\exampleValue.txt”
+Once you find the correct file, you’ll then have to edit whatever file is substituted by exampleValue.txt in order to change it to the correct value. Luckily, I remember the files where the correct values are stored. I remember Dr. Prahn named all his correct value files to have the word FINAL in all caps in the name somewhere.
+Once you find the correct values, copy that value that you found in the FINAL-named file to the exampleValue.txt file. I will automatically move on to the next task once everything is correct.
+Once I find my antenna, I’ll send you another README. For now, focus on finding the correct value and file for my arm. 
 
 -------------------------------------------------------------------------------------------------------------------------------\\\\\***
 

@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "078a46e5-731c-4413-9a77-7752d1311aed",
+            "Value": {
+                "id": "6146dea8-bdfa-4096-bd39-049f8850d2d5",
+                "resourcePath": "datafiles_yy\\readmes\\README3.txt.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "084fe1d1-ed4b-4fd1-9f2d-09bd3176b021",
             "Value": {
                 "id": "a16c1fa7-e1d4-4c0b-a36f-7edf45b75c57",
@@ -167,6 +175,14 @@
             }
         },
         {
+            "Key": "12fca245-1827-4543-ac16-0ffefd43abd6",
+            "Value": {
+                "id": "9b1ce0eb-dc55-4107-87fa-9de0c9c0e758",
+                "resourcePath": "datafiles_yy\\readmes\\README2.txt.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "13ec2558-829d-43ed-854a-00df3b0d8898",
             "Value": {
                 "id": "3b053082-0edb-41c6-b377-7047c928504a",
@@ -227,6 +243,14 @@
             "Value": {
                 "id": "6cea469c-ed38-4b26-b194-a2a34d950de0",
                 "resourcePath": "sprites\\spr_garbage\\spr_garbage.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1918e27f-9f5e-4b1a-bb66-dc3af3ae3a23",
+            "Value": {
+                "id": "790cdf94-8618-4d94-8f5f-9cbf4553aa58",
+                "resourcePath": "sprites\\spr_RobotThruster\\spr_RobotThruster.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -331,14 +355,6 @@
             "Value": {
                 "id": "6de6085f-3d2b-4ee0-9996-87dc654deeee",
                 "resourcePath": "datafiles_yy\\junk files\\saysHI.txt.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "1e868150-c10c-4290-8774-3cf1733594ea",
-            "Value": {
-                "id": "eb9310d6-3dcb-4d9b-bce4-7ae370c93d92",
-                "resourcePath": "datafiles_yy\\readmes\\README1.txt.yy",
                 "resourceType": "GMIncludedFile"
             }
         },
@@ -796,6 +812,14 @@
                 "id": "4969fc6e-0196-4051-b7bc-66f15d490422",
                 "resourcePath": "views\\54c2f971-cf1b-44e0-ae43-4d99bbfefda1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "562e5f16-13ad-46b4-91f6-11d746ce7a0f",
+            "Value": {
+                "id": "ffe36f72-d9f5-4555-8a7b-b55cf5766476",
+                "resourcePath": "sprites\\spr_RobotWithThruster\\spr_RobotWithThruster.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1311,6 +1335,14 @@
             }
         },
         {
+            "Key": "8d05443b-a2fa-4bf6-871d-84409b623258",
+            "Value": {
+                "id": "09994bfe-3f38-4a2f-a724-d3ba8b165db3",
+                "resourcePath": "objects\\RobotRightArm\\RobotRightArm.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8d5233c8-ef6c-4a6b-8618-ec129a1010ec",
             "Value": {
                 "id": "e9a9426c-5cfd-4a60-8ab5-6a32bf764f24",
@@ -1683,6 +1715,14 @@
             "Value": {
                 "id": "0adfca84-b1a8-49e9-b0a4-03adeec9d709",
                 "resourcePath": "datafiles_yy\\junk files\\Songs_Changed.txt.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "b8e86e8f-a513-4a14-aef4-1fb419b5d038",
+            "Value": {
+                "id": "c2e1e4c9-946b-412b-8170-cab370822afc",
+                "resourcePath": "datafiles_yy\\readmes\\README1.txt.yy",
                 "resourceType": "GMIncludedFile"
             }
         },
@@ -2132,6 +2172,14 @@
                 "id": "71d561d2-fe25-432b-8db7-a51326036735",
                 "resourcePath": "sprites\\RobotWithLArmUp\\RobotWithLArmUp.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fa146242-40d3-422c-8f11-95d53686fcc5",
+            "Value": {
+                "id": "e5ef9c96-f1a4-4050-8cb5-c1ff16fa9255",
+                "resourcePath": "objects\\pUhhPhase1\\pUhhPhase1.yy",
+                "resourceType": "GMObject"
             }
         },
         {

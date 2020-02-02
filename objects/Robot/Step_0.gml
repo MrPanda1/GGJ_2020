@@ -12,7 +12,7 @@ if(global.gameState == 1)
 	{
 		x -= robotSpeed;	
 	}
-	else if(global.sectionComplete[0])
+	else// if(global.sectionComplete[0])
 	{
 		//Temp solution to proceed to next event
 		global.gameState = 2;
@@ -45,16 +45,16 @@ else if(global.gameState == 5)
 //Moves robot to thruster once password is entered
 else if(global.gameState == 7)
 {
-	if(roomThrust != noone && y > roomThrust.y)
-	{
-		y -= robotSpeed;
-	}
-	else if(roomThrust != noone && x < roomThrust.x)
+	if(roomThrust != noone && x < roomThrust.x)
 	{
 		x += robotSpeed;	
 	}
+	else if(roomThrust != noone && y > roomThrust.y)
+	{
+		y -= robotSpeed;
+	}
 }
-//Moves robot to thruster once password is entered
+//Moves robot to be ready to knock down the door
 else if(global.gameState == 8)
 {
 	var distToDoor = 250;
