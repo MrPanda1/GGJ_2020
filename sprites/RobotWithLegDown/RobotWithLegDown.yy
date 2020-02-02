@@ -2,7 +2,7 @@
     "id": "98d09aaf-b038-4518-a2f3-ad8a87a60bd1",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "RobotWithLeg_Sprite",
+    "name": "RobotWithLegDown",
     "For3D": false,
     "HTile": false,
     "VTile": false,

@@ -1090,7 +1090,7 @@
             "Key": "98d09aaf-b038-4518-a2f3-ad8a87a60bd1",
             "Value": {
                 "id": "f9d82e7a-a265-4c11-80bc-310c827de756",
-                "resourcePath": "sprites\\RobotWithLeg_Sprite\\RobotWithLeg_Sprite.yy",
+                "resourcePath": "sprites\\RobotWithLegDown\\RobotWithLegDown.yy",
                 "resourceType": "GMSprite"
             }
         },
