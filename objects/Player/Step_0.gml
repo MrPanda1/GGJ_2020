@@ -4,10 +4,30 @@
 var hin = keyboard_check(ord("D")) - keyboard_check(ord("A"));
 var vin = keyboard_check(ord("S")) - keyboard_check(ord("W"));
 
+//This is for sprite/animation management -Adam
+if vin != 0 
+{
+	if(vin > 0)	sprite_index = playerDown;
+			else sprite_index = playerUp;
+	image_speed = 1;
+}
+
 //This keeps track of the last horizontal direction inputted for placing robot parts
 if hin != 0
 {
 	lastHorDir = hin;
+	
+	//This is for sprite/animation management -Adam
+	if(hin > 0)	sprite_index = playerRight;
+			else sprite_index = playerLeft;
+	image_speed = 1;
+}
+
+//This is for sprite/animation management -Adam
+if(vin == 0 && hin == 0)
+{
+	image_speed = 0;
+	image_index = 0;
 }
 
 var xmov = playerSpeed*hin;
