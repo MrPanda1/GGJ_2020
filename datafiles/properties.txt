@@ -1,0 +1,4 @@
+rightArmPower = 10
+radioFrequency = 101.5
+password = 1234
+acceleration = 12
