@@ -1,4 +1,7 @@
-///copyFile(filename, filepath);
+///copyFile(*args);
+
+filename = argument[0]
+filepath = argument[1]
 
 fileid = file_text_open_read(filename);
 text = file_text_read_string(fileid);
