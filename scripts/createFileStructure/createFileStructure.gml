@@ -76,19 +76,26 @@ paths[9] = paths[8] + "/" + ds_list_find_value(folders, folder10);
 directory_create(global.dataDir + paths[9]);
 ds_list_delete(folders, folder10);
 
-// Generate property file paths
+/// Generate property file paths
 var pathDictionary = ds_map_create();
 var properties = file_text_open_read("allProperties.txt");
 while (!file_text_eof(properties)) {
-	var propertyName = file_text_readln(properties);
-	var filepath = paths[irandom(array_length_1d(paths)-1)] + "/" + propertyName + ".txt";
-	copyFile(propertyName + ".txt", filepath);
+	var rawInput = file_text_readln(properties);
+	var propertyName = string_copy(rawInput, 1, string_length(rawInput)-2);
+	var filepath = global.dataDir + paths[irandom(array_length_1d(paths)-1)] + "/" + propertyName + ".txt";
+	
+	// Error handling
+	if(!file_exists("properties/" + propertyName + ".txt")) {
+		show_message("Error: properties/" + propertyName + ".txt is an invalid file path");
+	}
+	
+	copyFile("properties/" + propertyName + ".txt", filepath);
 	if(propertyName = "acceleration" || propertyName = "password" || propertyName = "RadioFreq" || propertyName = "rArmPower") {
 		ds_map_add(pathDictionary,propertyName, filepath);
 	}
 }
 
-// Generate correct values for the useful properties
+/// Generate correct values for the useful properties
 var correctValueDictionary = ds_map_create();
 ds_map_add(correctValueDictionary, "acceleration", irandom_range(10,99));
 ds_map_add(correctValueDictionary, "password", irandom_range(10000000,99999999));

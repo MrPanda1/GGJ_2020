@@ -28,7 +28,7 @@ powerUpArmT
 privatePassword
 protectedPassword
 radio
-radioCaller
+radioCalller
 radioTune
 speedNew
 thrust (3)
@@ -38,4 +38,4 @@ tuningTEST
 velocityOverTime
 velocityTEST
 velocityTrails
-weightCalculation
+weightCalculation  
