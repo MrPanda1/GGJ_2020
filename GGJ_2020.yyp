@@ -599,6 +599,14 @@
             }
         },
         {
+            "Key": "570cf04b-8333-4f31-aa26-7383d95832f7",
+            "Value": {
+                "id": "622222c2-3945-4d48-90f3-4cee954c6c99",
+                "resourcePath": "sprites\\RobotWithLegLeft\\RobotWithLegLeft.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "57de292c-d40d-4821-bc2a-74469316ee5b",
             "Value": {
                 "id": "16d2f086-10c2-4610-8cd3-2e4f18cb8935",
