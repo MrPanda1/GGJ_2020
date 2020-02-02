@@ -1623,6 +1623,14 @@
             }
         },
         {
+            "Key": "eb9d2944-7786-40b1-931d-3e3d66e1f88c",
+            "Value": {
+                "id": "004da9a5-2800-4fbf-a486-b8f112477281",
+                "resourcePath": "sprites\\spr_RobotRightArm\\spr_RobotRightArm.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ed2ccc78-c492-4066-805c-4dfcf44ee15a",
             "Value": {
                 "id": "77836d3e-0f47-4da1-b65c-3e4ab1dcc289",
@@ -1756,6 +1764,14 @@
                 "id": "15ccfad2-09e9-4c04-b3f9-c155e6b36d9f",
                 "resourcePath": "views\\fd8bf525-45f1-44c3-a334-b7ca03d3e2ed.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fdc4601f-37d3-4a3f-98e8-ca26333b855b",
+            "Value": {
+                "id": "add3a724-8d1b-46ce-b01a-21638a5d5d80",
+                "resourcePath": "sprites\\spr_RobotWithBothArms\\spr_RobotWithBothArms.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
