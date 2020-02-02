@@ -12,7 +12,7 @@ directory_create(dataDir);
 global.dataDir = dataDir + "/";
 
 // Create the Properties file in Data Folder
-copyFile("properties.txt", global.dataDir + "properties.txt");
+createPropertiesFile();
 
 // Create the folder structure within the data table
 createFileStructure();
