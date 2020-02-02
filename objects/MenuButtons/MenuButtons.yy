@@ -2,7 +2,7 @@
     "id": "c35947ed-4548-46b4-8ce3-2b5c42c47598",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "TitleScreenButton",
+    "name": "MenuButtons",
     "eventList": [
         {
             "id": "c0aab332-e962-4be3-a89f-8e5fe4ad02c1",
@@ -15,12 +15,12 @@
             "m_owner": "c35947ed-4548-46b4-8ce3-2b5c42c47598"
         },
         {
-            "id": "2701d8f6-c428-4bc0-8033-c3e1a8fd9cd5",
+            "id": "ed60fc97-7c2c-45f9-bf90-3c43daefbfde",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
+            "enumb": 50,
             "eventtype": 6,
             "m_owner": "c35947ed-4548-46b4-8ce3-2b5c42c47598"
         }

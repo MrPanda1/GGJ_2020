@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "187e9417-178f-4f9b-877a-78f6b23d7a54",
+            "Value": {
+                "id": "25babd4c-ee5c-48a3-83fa-4818c8e95ac6",
+                "resourcePath": "rooms\\Credits\\Credits.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "18f983d9-9cd8-4e4e-9436-8642f4a8bb34",
             "Value": {
                 "id": "6cea469c-ed38-4b26-b194-a2a34d950de0",
@@ -1263,6 +1271,14 @@
             }
         },
         {
+            "Key": "b55f5335-bc1e-4e81-88a3-26affe4e8bf8",
+            "Value": {
+                "id": "70f0afd2-93f7-4aa1-a4c7-ce94e4c7dc38",
+                "resourcePath": "sprites\\CreditsBackground\\CreditsBackground.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "bbbf721a-1e1c-44c6-9bce-7b62763c2c4f",
             "Value": {
                 "id": "614b091e-1339-402b-b13d-c67913b5ad90",
@@ -1290,7 +1306,7 @@
             "Key": "c35947ed-4548-46b4-8ce3-2b5c42c47598",
             "Value": {
                 "id": "42342846-ca36-4643-b522-182d5541791a",
-                "resourcePath": "objects\\TitleScreenButton\\TitleScreenButton.yy",
+                "resourcePath": "objects\\MenuButtons\\MenuButtons.yy",
                 "resourceType": "GMObject"
             }
         },

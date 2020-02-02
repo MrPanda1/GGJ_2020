@@ -7,5 +7,5 @@ var yCheck = mouse_y > y - sprite_height && mouse_y < y + sprite_height;
 if(xCheck && yCheck)
 {
 	global.activateInput = false;
-	room_goto_previous()
+	room = room0;
 }

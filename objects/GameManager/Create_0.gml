@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 global.gameState = 0;
-global.finalGameState = 5;
+global.finalGameState = 10;
 
 room_persistent = true;
 

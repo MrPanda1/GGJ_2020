@@ -20,7 +20,7 @@ if(tmpJournal != noone)
 	currentJournal.playerRef = id;*/
 	
 	global.currentText = tmpJournal.journalText;
-	room_goto_next();
+	room = InterfaceRoom;
 }
 //Picks up the part
 else if(tmpPart != noone && currentPiece == noone)
@@ -53,5 +53,5 @@ if((global.gameState == 4 || global.gameState == 6) && place_meeting(x, y, Robot
 {
 	global.currentText = "";
 	global.activateInput = true;
-	room_goto_next();
+	room = InterfaceRoom;
 }
