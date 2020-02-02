@@ -247,6 +247,14 @@
             }
         },
         {
+            "Key": "1918e27f-9f5e-4b1a-bb66-dc3af3ae3a23",
+            "Value": {
+                "id": "790cdf94-8618-4d94-8f5f-9cbf4553aa58",
+                "resourcePath": "sprites\\spr_RobotThruster\\spr_RobotThruster.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "19b2f0f0-1da6-43b1-9471-6bb1acdf5e8c",
             "Value": {
                 "id": "39e1f88c-a498-4ee1-969a-a8089f55ffd5",
@@ -804,6 +812,14 @@
                 "id": "4969fc6e-0196-4051-b7bc-66f15d490422",
                 "resourcePath": "views\\54c2f971-cf1b-44e0-ae43-4d99bbfefda1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "562e5f16-13ad-46b4-91f6-11d746ce7a0f",
+            "Value": {
+                "id": "ffe36f72-d9f5-4555-8a7b-b55cf5766476",
+                "resourcePath": "sprites\\spr_RobotWithThruster\\spr_RobotWithThruster.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
