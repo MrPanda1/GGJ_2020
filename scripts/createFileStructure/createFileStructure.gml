@@ -103,6 +103,16 @@ ds_map_add(correctValueDictionary, "RadioFreq", irandom_range(100,999));
 ds_map_add(correctValueDictionary, "rArmPower", irandom_range(10,99));
 global.correctValues = correctValueDictionary;
 
+/// Generate files with the correct values in them for the user to find
+/*
+	FINALacceleration
+	frequencyFINAL
+	powerFINAL
+	passFINALword
+*/
+
+
+
 //// Put the txt files in random folders
 //filenameString = "musicideas.txt";
 //copyFile("junk files/" + filenameString, dirToCopyInto + filenameString);
