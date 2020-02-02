@@ -1,0 +1,7 @@
+-Check out the remaining pull requests w/r to merging master
+-Change momentum in movement system a bit so that you slide more (change the animation to comensate [transition to idle])
+-fix ground detection in player movement
+-Refactor Color system
+-replace UI with proper canvas
+
+

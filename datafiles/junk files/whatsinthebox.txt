@@ -1,0 +1,37 @@
+
+Description:
+I created a class called house with variables that included the valid keys, the owner
+booleans to check the key and if the key turn was successful, the special firefighter key,
+the people inside the house, and strings to test the passed key and name.
+
+I also created 6 methods
+ 
+insert_key(string name, string key) which takes in a name and key and makes them equal to
+testingN and testingK respectively, it does a loop to evaluate all if the key passed is 
+either the firefighter key or one of the valid keys, if it is it makes the valid key variable true.
+
+turn_key(string name) takes in a string name tests that the name passed is the equal to testingN 
+and that the variable key variable is true. If it is it makes the key turn variable true and
+displays a success message. Otherwise it displays a failure message and resets all the testing
+variables
+
+enter_house(string name) takes a names and checks that the name passed is equal to testingN and 
+that the variable for the key turned is true. If it is then it adds the name to the list of people
+inside and displays a success message, else it displays a failure message. It then resets all the
+testing variables.
+
+change_keys(vector<string> passed) takes in all the words passed, then gets the 3rd element in
+those words to see if the name passed matches the owners name, if it does then it erases the list
+of all the current keys and adds the new keys, then it displays a success message. If not, then it
+displays a failure message 
+
+leave_house(string name) takes in a name and checks if the name is present in the list of people
+inside the house, if it is then it removes it from the list and displays a success message, if 
+its not then it displays a failure message
+
+after that the main class makes sure that the firs arguments are more than 2 to ensure that keys 
+and an owner are passed, it then creates and object of type house and makes its owner the name
+passed and then sets the valid keys, after that it just runs in a loop that detects if anything 
+passed is in the correct format necessary for the methods to work successfully, if they are not
+then it displays an error message, the program terminates if a null argument is passed.
+

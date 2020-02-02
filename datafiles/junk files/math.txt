@@ -1,0 +1,8 @@
+Weight (N) = mass (kg) * 9.807
+
+The resultant force = thrust – weight
+
+Acceleration = resultant / mass
+
+
+math sucks, calc 2 is the literal depiction of hell

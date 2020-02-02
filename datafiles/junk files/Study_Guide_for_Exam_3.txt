@@ -1,0 +1,177 @@
+Study Guide Questions for Exam #3
+Financial Environment Analysis (Week 6)
+Blackboard lectures
+Financial Environment Analysis I
+1. Country/Firm-specific examples of how various aspects of the financial environment affect business strategies
+2. Various types of exposures that firms have to exchange rate fluctuations
+3. Key drivers of changes in the financial environment
+4. Role of central banks in the economy
+Financial Environment Analysis II
+1. How do fractional reserve banking systems work?
+2. What is the reserve requirement that central banks impose on the other banks in the system? Why is this imposed?
+3. What is the reserve ratio? How does it impact the banking system?
+Financial Environment Analysis III
+1. Fiscal versus monetary policy
+2. How do central banks typically conduct monetary policy in “normal” time?
+3. What are the requirements imposed on major banks by the central bank?
+4. What is the Federal Funds rate?
+Financial Environment Analysis IV
+1. Exercise on foreign exchange markets and transactions (see the lecture on Blackboard for questions and problems)
+Financial Environment Analysis V
+1. What is a Balance of Payments statement?
+2. Components of the Current Account
+3. Components of the Capital Account
+Financial Environment Analysis VI
+1. What is the relationship between a country’s current account balance and its capital account balance? Why does this happen?
+Financial Environment Analysis VII
+1. What are some of the exchange rate arrangements used by countries to manage exchange rates?
+2. What is the strategy of the Monetary Authority of Singapore? Why does it use this strategy?
+
+HBSP Coursepack
+1. “Foreign Exchange Markets and Transactions” (HBSP Coursepack)
+a. You are responsible for all the material (including calculations) in the first 14 pages (see the Exercise specified in the Blackboard lecture).
+Supplemental readings (emailed via Canvas on 11.16.2019)
+2. “The Classroom Economist: Fractional Reserve Banking”
+a. What key societal need or problem is solved by the existence of a well-developed banking system?
+b. What is direct finance?
+c. What allows banks and other financial intermediaries to exist side by side with direct finance?
+d. What is the problem of “asymmetric information”?
+e. What are “reserves,” “inside money,” and “outside money”?
+f. How does fractional reserve banking generate “money”?
+g. How does the Federal Reserve control/regulate money supply?
+3. “Monopoly Power over Money”
+a. This article was discussed in the Blackboard lectures. Please review this after you have reviewed the lectures.
+4. “Facts Behind the Figures: A Quick Guide to the Balance of Payments”
+a. This article was discussed in the Blackboard lectures. Please review this after you have reviewed the lectures.
+5.  “When Currencies Collapse: Two Tales from Thailand”
+a. How do currency devaluations affect firms?
+b. What factors explain the contrasting fortunes of Delta Electronics and Thai Petrochemical Industries?
+6. “Currency Pegs: Poor Dollar Standard”
+a. What are the pros and cons of pegging a currency to a reserve currency such as the U.S. dollar or the euro?
+b. What is the special problem that Hong Kong faces?
+7. “U.S. Retailers Target-ing Avid Canadian Shoppers”
+a. Why are Canadian shoppers near the U.S. border shopping in stores in the U.S.?
+b. According to the Canadian media why do Canadians generally pay more for retail items, compared to what Americans pay in the U.S.?
+8. “Aeon Says Yen’s Climb Provides Growth Opportunity That’s too Great to Miss”
+a. What changes in Japan’s financial environment explain Aeon’s change in its foreign expansion strategy?
+9. “Hong Kong’s Savers Losing Purchasing Power”
+a. How does the Hong Kong Monetary Authority manage exchange rates?
+b. What are the pros and cons of having a currency board?
+c. How does this impact Hong Kong’s economy?
+d. How is it affecting savers and retailers in Hong Kong?
+10. “QE, or not QE?” (need to read only sections highlighted in yellow)
+a. What are some of the tools used by central banks to implement unconventional monetary policy?
+b. What is QE?
+c. What is the objective underlying QE?
+d. How are the open market operations conducted as part of QE different from those conducted in “normal” times?
+e. What is “Operation Twist”?
+f. How does QE affect the real economy?
+g. What are the potential negative consequences of QE?
+11. “China’s economy: In three parts”
+a. What is the likely economic impact of China’s (“peak toil”) demographic turning point?
+b. What are the three forms of growth that are focused on in the article?
+c. What is the main “excess” (imbalance) in China’s economic/financial environment?
+d. What are the three ways in which credit growth can affect the economic/financial environment? What are their differential impacts? 
+
+Legal and Political Environment Analysis (Week 7)
+Blackboard Lectures
+Legal and Political Environment Analysis I
+1. Definition of political risk
+2. How is political risk different from economic risk?
+3. What are some of the major sources of political risk?
+4. Examples of how political risk affects firms
+Legal and Political Environment Analysis II
+1. What are the four major dimensions of political risk in the framework developed by the Eurasia group for political risk analysis?
+2. What are some of the indicators used to assess each of these dimensions?
+Legal and Political Environment Analysis III
+1. Application of Eurasia Group’s framework to analyze political risk in China
+2. How does China perform with respect to each of the four major dimensions of political risk?
+Legal and Political Environment Analysis IV
+1. What are the opportunities and challenges for multinational firms in African country markets?
+Legal and Political Environment Analysis V
+1. What are the criteria used to classify countries for the econo-political macro-segmentation of African country markets?
+2. What are the salient characteristics of each segment?
+
+Legal and Political Environment Analysis VI
+1. What are some of the major strategic considerations for multinational firms wanting to enter African country markets?
+2. What are the strategies that multinationals could use to mitigate political risk?
+HBSP Coursepack
+1. “Managing Risk in an Unstable World” (HBSP Coursepack)
+a. Discussed in the Blackboard lectures.
+
+2. “Cracking the Next Growth Market: Africa” (HBSP Coursepack)
+a. Discussed in the Blackboard lectures.
+Supplemental Readings (emailed via Canvas on 11.18.2019)
+1. “Vodafone Considers $2.2 Billion India Provision After Law Change”
+a. Why was Vodafone considering a $2.2 billion provision in India?
+2. “Energy in Argentina: Sparks in the Dark”
+a. What factors in the economic and political environment led to the nationalization of Repsol’s Argentine business?
+3. “Adidas Withdraws ‘Sexual’ T-Shirts Following Brazil’s Complaint”
+a. Why did the Brazilian government complain about the T-shirts sold by Adidas?
+4. “Chinese Multinationals: Who’s Afraid of Huawei?”
+a. How does the political environment affect Huawei’s ability to do business in different parts of the world?
+b. How are the political concerns raised by Huawei’s Chinese origins handled in Britain?
+5. “Huawei Technologies to ‘Voluntarily’ Restrict Business Dealings in Iran”
+a. Why did Huawei Technologies decide to restrict its business activities in Iran?
+6. “China’s murky ownership rules: Who Owns What?”
+a. What is the purpose of the investment vehicle VIE?
+b. What are the potential risks to firms using a VIE?
+7. “Why it’s Time to Kill the Sugar Tariff”
+a. What were the reasons behind the imposition of tariffs on imports of sugar and ethanol?
+b. What were the consequences of imposing these tariffs?
+8. “Safety Concerns Threaten the Market for Caffeinated Food and Drink”
+a. How do certain rules and regulations differentially affect various marketers of caffeinated drinks? Who are the beneficiaries of these rules?
+
+Cultural Environment Analysis (Final Week)
+Blackboard Lectures
+Definition of Culture
+7 Elements of Culture
+Cultures and the Marketing Mix
+Global Account Management (GAM); definitions and requirements
+The drivers of Buyer behavior and consumer needs
+4 stages of the consumption processes
+Culture is: Learned, Interrelated, Shared
+Components of Cross-Cultural Comparisons
+The Self-reference criterion (SRC)
+
+HBSP Coursepack
+1. “National Culture and Management” (HBSP Coursepack)
+a. Discussed in the Blackboard lectures.  This reading provides additional insights.  In particular, please read the section on Defining Culture (Pages 2 and 3), Edward Hall’s 6 ‘languages’ of culture (time, space, material goods, friendship, agreement; Pages 4 and 5), and the Hofstede section, which complement those in your text (individualism/collectivism; power distance, uncertainty avoidance, masculinity/femininity; Pages 7 and 8).  
+
+2. “Being the Boss in Brussels, Boston, and Beijing” (HBSP Coursepack)
+a. Being the Boss in Brussels, Boston, and Beijing, Erin Meyer
+b. The two dimensions of leadership culture
+c. Small ‘d’ and capital ‘D’ decision making
+d. The anchors for mapping leadership cultures; what are the four leadership cultures
+
+Transfer Pricing (Final Week)
+Blackboard Lectures
+Transfer Pricing I
+1. In a purely domestic context, what is transfer pricing?
+2. Why do large firms use transfer pricing in a purely domestic context?
+3. Cost versus profit centers
+4. Management accounting versus financial accounting
+Transfer Pricing II
+1. What incentives do corporate tax rate differentials among countries create for multinationals when making cross-border transfer pricing decisions?
+2. How are overall after-tax profits of multinational firms affected by changes in cross-border transfer pricing decisions?
+3. With respect to certain key stakeholders, what are some of the (conflicting) issues that arise in cross-border transfer pricing decisions?
+Transfer Pricing III
+1. What is the Basic Arm’s Length Standard in cross-border transfer pricing? What is its underlying objective?
+2. What are some of the methods used by multinational firms to implement the Basic Arm’s Length Standard?
+
+
+Transfer Pricing IV
+1. Illustrative examples of transfer pricing problems and profit shifting methods
+
+
+Supplemental Readings (emailed via Canvas on 11.19.2019)
+1. “Corporate Profit-Shifting Has Become Big Business”
+a. What is the difference between tax avoidance and tax evasion?
+b. What incentives do cross-country variations in corporate tax rates create for multinationals?
+c. How do tech companies try to minimize their tax payments?
+d. What is a major problem in implementing the arm’s-length principle?
+e. What is unitary taxation?
+
+6
+
+

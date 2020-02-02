@@ -1,0 +1,52 @@
+###########################################################
+#  Description: This program prints out two numbers then adds and subtracts them
+###########################################################
+
+#data declarations: declare variable names used in program, storage allocated in RAM
+                            .data  
+message1:         .asciiz "Num1 is: "
+message2:		  .asciiz "\nNum2 is: "
+message3:		  .asciiz "\nNum1 + Num2 is = "
+message4:		  .asciiz "\nNum1 - Num2 is = "
+num1:			  .word 86259
+num2:			  .word 0xB7A
+
+#program code is contained below under .text
+                        .text
+                        .globl    main    #define a global function main
+
+# the program begins execution at main()
+main:
+            la          $a0, message1  # $a0 = address of message1
+            li          $v0, 4                # $v0 = 4  --- this is to call print_string()
+            syscall                           # call print_string()
+			la			$a0, num1		# load address of num1 into $a0
+			lw			$a0, ($a0)		# $a0 = number in $a0
+			li			$v0, 1			# $v0, 1 calling the print_int()
+			syscall
+			la			$a0, message2	# $a0 = address of message1
+			li			$v0, 4			# $v0 = 4 is to call print_string()
+			syscall
+			la			$a0, num2		# $a0 = address of num2
+			lw			$a0, ($a0)		# $a0 = number stored in $a0
+			li			$v0, 1
+			syscall
+			la			$a0, message3
+			li			$v0, 4
+			syscall
+			lw			$t1, num1
+			lw			$t2, num2
+			add			$t0, $t1, $t2	# $t0 = $t1 + $t2
+			move		$a0, $t0
+			li			$v0, 1
+			syscall
+			la			$a0, message4
+			li			$v0, 4
+			syscall
+			lw			$t1, num1
+			lw			$t2, num2
+			sub			$t0, $t1, $t2	# $t0 = $t1 - $t2
+			move		$a0, $t0
+			li			$v0, 1
+			syscall
+            jr          $ra                      # return
