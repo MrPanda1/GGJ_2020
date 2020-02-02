@@ -79,6 +79,34 @@
             "value": "0",
             "varName": "roomBox",
             "varType": 5
+        },
+        {
+            "id": "a8840495-8371-4f89-8f76-f8064e8c2661",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "roomTrash",
+            "varType": 5
+        },
+        {
+            "id": "d6905ad5-496b-4dc2-b230-79af156d51a8",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "roomThrust",
+            "varType": 5
         }
     ],
     "solid": false,

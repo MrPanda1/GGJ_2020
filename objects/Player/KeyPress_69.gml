@@ -49,7 +49,7 @@ else if(currentPiece != noone)
 }
 
 //Creates input box from robot
-if(global.gameState == 4 && place_meeting(x, y, Robot))
+if((global.gameState == 4 || global.gameState == 6) && place_meeting(x, y, Robot))
 {
 	global.currentText = "";
 	global.activateInput = true;

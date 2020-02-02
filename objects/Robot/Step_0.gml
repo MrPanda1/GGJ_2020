@@ -26,3 +26,31 @@ else if(global.gameState == 2)
 	
 	global.gameState = 3;
 }
+//Moves robot to trash
+else if(global.gameState == 5)
+{
+	if(roomTrash != noone && y > roomTrash.y)
+	{
+		y -= robotSpeed;
+	}
+	else if(roomTrash != noone && x > roomTrash.x + roomTrash.sprite_width / 2 + sprite_width / 2)
+	{
+		x -= robotSpeed;	
+	}
+	else if(instance_number(RobotLeftArm) == 0)
+	{
+		instance_create_layer(roomTrash.x - roomTrash.sprite_width - roomTrash.sprite_width, roomTrash.y, "Instances", RobotLeftArm);
+	}
+}
+//Moves robot to thruster once password is entered
+else if(global.gameState == 7)
+{
+	if(roomThrust != noone && y > roomThrust.y)
+	{
+		y -= robotSpeed;
+	}
+	else if(roomThrust != noone && x < roomThrust.x)
+	{
+		x += robotSpeed;	
+	}
+}
