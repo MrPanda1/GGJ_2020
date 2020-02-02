@@ -105,12 +105,40 @@ global.correctValues = correctValueDictionary;
 
 /// Generate files with the correct values in them for the user to find
 /*
-	FINALacceleration
 	frequencyFINAL
 	powerFINAL
 	passFINALword
+	FINALthrust
 */
 
+// RadioFreq
+var radioFilePath = global.dataDir + paths[irandom(array_length_1d(paths)-1)] + @"\frequencyFINAL.txt";
+var radioValue = ds_map_find_value(global.correctValues, "RadioFreq");
+var radioFile = file_text_open_write(radioFilePath);
+file_text_write_string(radioFile, string(radioValue));
+file_text_close(radioFile);
+
+// rArmPower
+var powerFilePath = global.dataDir + paths[irandom(array_length_1d(paths)-1)] + @"\powerFINAL.txt";
+var powerValue = ds_map_find_value(global.correctValues, "rArmPower");
+var powerFile = file_text_open_write(powerFilePath);
+file_text_write_string(powerFile, string(powerValue));
+file_text_close(powerFile);
+
+// password
+var passFilePath = global.dataDir + paths[irandom(array_length_1d(paths)-1)] + @"\passFINALword.txt";
+var passValue = ds_map_find_value(global.correctValues, "password");
+var passFile = file_text_open_write(passFilePath);
+file_text_write_string(passFile, string(passValue));
+file_text_close(passFile);
+
+// acceleration (makes a thrust file)
+var thrustFilePath = global.dataDir + paths[irandom(array_length_1d(paths)-1)] + @"\FINALthrust.txt";
+var accelValue = ds_map_find_value(global.correctValues, "acceleration");
+var thrustValue = abs(237*(10-accelValue));
+var thrustFile = file_text_open_write(thrustFilePath);
+file_text_write_string(thrustFile, string(thrustValue));
+file_text_close(thrustFile);
 
 
 //// Put the txt files in random folders
