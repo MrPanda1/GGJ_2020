@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "01bee68d-8771-49a7-b992-0df2817ecd99",
+            "Value": {
+                "id": "107a8171-89f4-47e4-998f-7d93bc7dc92d",
+                "resourcePath": "sprites\\spr_tile\\spr_tile.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "049f194a-bb54-4d16-8ebc-c6308c80be41",
             "Value": {
                 "id": "6e3c03c9-8e16-4eac-94ba-0d336bf644cd",
@@ -196,14 +204,6 @@
                 "id": "839a3aef-8b5f-4cbd-a4ad-0104e36298be",
                 "resourcePath": "views\\2a8a3a5e-1d77-4c71-9c43-b8e1c3ed21c2.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "2dc07d78-fce5-47b7-a24b-2dd4c786944a",
-            "Value": {
-                "id": "08793123-2719-44c4-8290-7ace0af29725",
-                "resourcePath": "sprites\\spr_tile\\spr_tile.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -364,6 +364,14 @@
                 "id": "bdd5ac1a-50f5-45e7-a762-3b0d2f9dfb60",
                 "resourcePath": "datafiles_yy\\junk files\\venture.txt.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "7f2b612b-7303-4a0d-9ce1-a4d1f8834005",
+            "Value": {
+                "id": "e1546b34-dece-4b5d-9806-1eea7388e1c8",
+                "resourcePath": "sprites\\spr_notes\\spr_notes.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
