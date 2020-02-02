@@ -12,7 +12,7 @@ if(global.gameState == 1)
 	{
 		x -= robotSpeed;	
 	}
-	else
+	else if(global.sectionComplete[0])
 	{
 		//Temp solution to proceed to next event
 		global.gameState = 2;
