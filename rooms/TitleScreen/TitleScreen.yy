@@ -7,7 +7,8 @@
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        "bd8dca96-78da-47a5-9595-0e81f8f65a71"
+        "bd8dca96-78da-47a5-9595-0e81f8f65a71",
+        "f05d5231-5031-4ecc-97de-428970fc9d15"
     ],
     "IsDnD": false,
     "layers": [
@@ -25,7 +26,8 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_70323638","id": "bd8dca96-78da-47a5-9595-0e81f8f65a71","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_70323638","objId": "c35947ed-4548-46b4-8ce3-2b5c42c47598","properties": [{"id": "70efdd64-40dd-45d7-9426-d4381e9f7381","modelName": "GMOverriddenProperty","objectId": "c35947ed-4548-46b4-8ce3-2b5c42c47598","propertyId": "8a94abf4-735a-4509-8a5e-84b884d48d08","mvc": "1.0","value": "Play Game"},{"id": "cf9c1b57-2623-4e22-881d-7ae8178e113e","modelName": "GMOverriddenProperty","objectId": "c35947ed-4548-46b4-8ce3-2b5c42c47598","propertyId": "af093c65-3a90-419b-bbf3-7e8b923cfc04","mvc": "1.0","value": "room0"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 512,"y": 384}
+{"name": "inst_70323638","id": "bd8dca96-78da-47a5-9595-0e81f8f65a71","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_70323638","objId": "c35947ed-4548-46b4-8ce3-2b5c42c47598","properties": [{"id": "70efdd64-40dd-45d7-9426-d4381e9f7381","modelName": "GMOverriddenProperty","objectId": "c35947ed-4548-46b4-8ce3-2b5c42c47598","propertyId": "8a94abf4-735a-4509-8a5e-84b884d48d08","mvc": "1.0","value": "Play Game"},{"id": "cf9c1b57-2623-4e22-881d-7ae8178e113e","modelName": "GMOverriddenProperty","objectId": "c35947ed-4548-46b4-8ce3-2b5c42c47598","propertyId": "af093c65-3a90-419b-bbf3-7e8b923cfc04","mvc": "1.0","value": "room0"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 512,"y": 384},
+{"name": "inst_E6D7092","id": "f05d5231-5031-4ecc-97de-428970fc9d15","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_E6D7092","objId": "c35947ed-4548-46b4-8ce3-2b5c42c47598","properties": [{"id": "8f816150-0046-4ec7-889c-f75e62e9c0b5","modelName": "GMOverriddenProperty","objectId": "c35947ed-4548-46b4-8ce3-2b5c42c47598","propertyId": "af093c65-3a90-419b-bbf3-7e8b923cfc04","mvc": "1.0","value": "Credits"},{"id": "a2c99b55-9b00-4083-b276-b00cd1b049f9","modelName": "GMOverriddenProperty","objectId": "c35947ed-4548-46b4-8ce3-2b5c42c47598","propertyId": "8a94abf4-735a-4509-8a5e-84b884d48d08","mvc": "1.0","value": "Credits"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 512,"y": 480}
             ],
             "layers": [
 
