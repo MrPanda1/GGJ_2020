@@ -56,7 +56,31 @@ if((global.gameState == 4 || global.gameState == 6) && place_meeting(x, y, Robot
 	room = InterfaceRoom;
 }*/
 
-if(global.gameState == 4 && place_meeting(x, y, Robot))// && global.sectionComplete[1])
+if(global.gameState == 1)
+{
+	show_message(ds_map_find_value(global.correctPaths, "rArmPower"));
+	show_message(ds_map_find_value(global.correctValues, "rArmPower"));
+}
+
+//Checks player completed radio frequency code
+if(global.gameState == 4 && place_meeting(x, y, Robot) && global.sectionComplete[1])
 {
 	global.gameState = 5;
+}
+//This is for testing, get rid of later
+else if(global.gameState == 4)
+{
+	show_message(ds_map_find_value(global.correctPaths, "RadioFreq"));
+	show_message(ds_map_find_value(global.correctValues, "RadioFreq"));
+}
+
+//Checks player completed password code
+if(global.gameState == 6 && place_meeting(x, y, Robot) && global.sectionComplete[2])
+{
+	global.gameState = 7;
+}
+else if(global.gameState == 6)
+{
+	show_message(ds_map_find_value(global.correctPaths, "password"));
+	show_message(ds_map_find_value(global.correctValues, "password"));
 }
