@@ -1,0 +1,1 @@
+you need to reformat as FAT for nintendont to read these 

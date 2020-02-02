@@ -1,0 +1,10 @@
+128 48
+global.inshop
+global.currentlevel
+
+boots
+biggus pickus
+radar
+Holy Cross
+drill gun
+heal
