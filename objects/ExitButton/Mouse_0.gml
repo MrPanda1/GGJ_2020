@@ -6,5 +6,6 @@ var yCheck = mouse_y > y - sprite_height && mouse_y < y + sprite_height;
 
 if(xCheck && yCheck)
 {
-	myTextBox.doDestroy = true;
+	global.activateInput = false;
+	room_goto_previous()
 }

@@ -107,20 +107,6 @@
             "value": "noone",
             "varName": "currentJournal",
             "varType": 5
-        },
-        {
-            "id": "dede297c-1c32-479c-9ca7-c39c9a4fb095",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "True",
-            "varName": "canMove",
-            "varType": 3
         }
     ],
     "solid": false,

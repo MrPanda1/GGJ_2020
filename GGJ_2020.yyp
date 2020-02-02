@@ -66,7 +66,7 @@
             "Key": "084fe1d1-ed4b-4fd1-9f2d-09bd3176b021",
             "Value": {
                 "id": "a16c1fa7-e1d4-4c0b-a36f-7edf45b75c57",
-                "resourcePath": "objects\\InputFieldManager\\InputFieldManager.yy",
+                "resourcePath": "objects\\TextManager\\TextManager.yy",
                 "resourceType": "GMObject"
             }
         },

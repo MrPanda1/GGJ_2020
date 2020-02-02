@@ -10,14 +10,17 @@ var tmpPart = instance_place(x, y, pRobotPart);
 //Opens the journal
 if(tmpJournal != noone)
 {
-	if(currentJournal != noone)
+	/*if(currentJournal != noone)
 	{
 		currentJournal.doDestroy = true;
 	}
 	
 	currentJournal = instance_create_depth(window_get_width() / 2, window_get_height() / 2, -1000, TextBox);
 	currentJournal.myJournal = tmpJournal;
-	currentJournal.playerRef = id;
+	currentJournal.playerRef = id;*/
+	
+	global.currentText = tmpJournal.journalText;
+	room_goto_next();
 }
 //Picks up the part
 else if(tmpPart != noone && currentPiece == noone)
@@ -46,15 +49,9 @@ else if(currentPiece != noone)
 }
 
 //Creates input box from robot
-if(global.gameState == 4)
+if(global.gameState == 4 && place_meeting(x, y, Robot))
 {
-	//I put a seperate if statement cuz fuck that collision check is massive.
-	//Also, I check an extra 25 from the player obj
-	var bossColCheck = collision_rectangle(x - sprite_width / 2 - 25, y - sprite_height / 2 - 25, x + sprite_width / 2 + 25, y + sprite_height / 2 + 25, Robot, false, true);
-	if(bossColCheck)
-	{
-		var newBox = instance_create_depth(window_get_width() / 2, window_get_height() / 2, -1000, InputFieldBox);
-		newBox.playerRef = id;
-		canMove = false;
-	}
+	global.currentText = "";
+	global.activateInput = true;
+	room_goto_next();
 }
