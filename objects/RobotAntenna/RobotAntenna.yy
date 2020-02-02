@@ -22,7 +22,7 @@
             "mvc": "1.0",
             "objectId": "57f2b55e-3779-41cf-88b1-4b55f1cb2035",
             "propertyId": "e91f335d-91fa-47b2-9895-90d9d19f7564",
-            "value": "Player_Sprite"
+            "value": "spr_robotWIthAntenna"
         }
     ],
     "parentObjectId": "57f2b55e-3779-41cf-88b1-4b55f1cb2035",

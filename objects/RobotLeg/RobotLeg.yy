@@ -9,7 +9,7 @@
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
         {
-            "id": "833994a0-045f-47b7-8151-ded2544e4de9",
+            "id": "0fb1313c-52f9-48bd-bc8d-59e00310c1ac",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
             "objectId": "57f2b55e-3779-41cf-88b1-4b55f1cb2035",
@@ -17,12 +17,12 @@
             "value": "1"
         },
         {
-            "id": "c5655109-488b-4c40-a056-7be3248ad23b",
+            "id": "b3ec00ae-c06d-4597-a4a4-8bc8a65a7541",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
             "objectId": "57f2b55e-3779-41cf-88b1-4b55f1cb2035",
             "propertyId": "e91f335d-91fa-47b2-9895-90d9d19f7564",
-            "value": "RobotWithLeg_Sprite"
+            "value": "RobotWithLegDown"
         }
     ],
     "parentObjectId": "57f2b55e-3779-41cf-88b1-4b55f1cb2035",

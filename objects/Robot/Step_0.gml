@@ -4,13 +4,13 @@
 //Robot walks toward box
 if(global.gameState == 1)
 {
-	if(roomBox != noone && y < roomBox.y)
+	if(roomBox != noone && y > roomBox.y)
 	{
-		y += robotSpeed;
+		y -= robotSpeed;
 	}
-	else if(roomBox != noone && x < roomBox.x - roomBox.sprite_width / 2 - sprite_width / 2)
+	else if(roomBox != noone && x > roomBox.x + roomBox.sprite_width / 2 + sprite_width / 2)
 	{
-		x += robotSpeed;	
+		x -= robotSpeed;	
 	}
 	else
 	{
@@ -29,9 +29,9 @@ else if(global.gameState == 2)
 //Moves robot to trash
 else if(global.gameState == 5)
 {
-	if(roomTrash != noone && y > roomTrash.y)
+	if(roomTrash != noone && y < roomTrash.y)
 	{
-		y -= robotSpeed;
+		y += robotSpeed;
 	}
 	else if(roomTrash != noone && x > roomTrash.x + roomTrash.sprite_width / 2 + sprite_width / 2)
 	{

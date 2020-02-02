@@ -48,10 +48,15 @@ else if(currentPiece != noone)
 	currentPiece = noone;
 }
 
-//Creates input box from robot
+/*//Creates input box from robot
 if((global.gameState == 4 || global.gameState == 6) && place_meeting(x, y, Robot))
 {
 	global.currentText = "";
 	global.activateInput = true;
 	room = InterfaceRoom;
+}*/
+
+if(global.gameState == 4 && place_meeting(x, y, Robot))// && global.sectionComplete[1])
+{
+	global.gameState = 5;
 }

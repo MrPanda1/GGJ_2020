@@ -3,6 +3,7 @@
 
 global.gameState = 0;
 global.finalGameState = 10;
+global.dataDir = noone;
 
 room_persistent = true;
 
