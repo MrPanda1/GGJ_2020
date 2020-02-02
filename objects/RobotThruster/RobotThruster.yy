@@ -22,7 +22,7 @@
             "mvc": "1.0",
             "objectId": "57f2b55e-3779-41cf-88b1-4b55f1cb2035",
             "propertyId": "e91f335d-91fa-47b2-9895-90d9d19f7564",
-            "value": "BoxExit_Sprite"
+            "value": "spr_RobotWithThruster"
         }
     ],
     "parentObjectId": "57f2b55e-3779-41cf-88b1-4b55f1cb2035",
@@ -41,6 +41,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "1c1e11af-2e1c-4be9-9133-cafabdc62194",
+    "spriteId": "1918e27f-9f5e-4b1a-bb66-dc3af3ae3a23",
     "visible": true
 }
