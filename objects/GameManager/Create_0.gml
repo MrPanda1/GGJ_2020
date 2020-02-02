@@ -3,3 +3,5 @@
 
 global.gameState = 0;
 global.finalGameState = 5;
+
+createFileStructure();
