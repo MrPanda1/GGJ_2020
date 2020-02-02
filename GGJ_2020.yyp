@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "084fe1d1-ed4b-4fd1-9f2d-09bd3176b021",
+            "Value": {
+                "id": "a16c1fa7-e1d4-4c0b-a36f-7edf45b75c57",
+                "resourcePath": "objects\\InputFieldManager\\InputFieldManager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0d9d6163-9fad-4f8c-a9c5-744d975c1566",
             "Value": {
                 "id": "730d8935-5018-4252-bba8-cef5b0be859c",
@@ -415,6 +423,14 @@
             }
         },
         {
+            "Key": "8a87156b-50ea-47dc-aeb2-094747ddf4fa",
+            "Value": {
+                "id": "c80fccaf-b2bf-4d42-9cca-d4c721de582f",
+                "resourcePath": "scripts\\copyFile\\copyFile.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "8d6b23ef-90b5-428c-b350-0f244e2a2b09",
             "Value": {
                 "id": "8ec07486-d188-4457-8955-aeff35079b4a",
@@ -591,6 +607,14 @@
             }
         },
         {
+            "Key": "d1ade4d2-e2db-4610-92e5-750a92296a3b",
+            "Value": {
+                "id": "8a6f8f19-f172-455c-aa01-17b0c145d23b",
+                "resourcePath": "objects\\InputFieldBox\\InputFieldBox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d8fb7753-8d8f-41fd-8956-8dbc49961a27",
             "Value": {
                 "id": "85e46e5a-0ccc-417e-9bd3-e1ca2a07b53e",
@@ -643,6 +667,14 @@
             "Value": {
                 "id": "7240c055-4c25-490c-adbb-4e494ebbd09a",
                 "resourcePath": "views\\e5e5b2e3-6ffd-4ad6-9745-1fdce6375d00.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e7df3594-890f-4b19-a2f8-7db31ea9a9cb",
+            "Value": {
+                "id": "ff7258b2-a56f-4ec5-9665-12df3f938490",
+                "resourcePath": "views\\e7df3594-890f-4b19-a2f8-7db31ea9a9cb.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -721,7 +753,8 @@
     ],
     "script_order": [
         "8df35266-dc4d-42ab-a36f-b11ad18b3ab8",
-        "ae64f341-0892-4609-8fbe-3a3cca44d8df"
+        "ae64f341-0892-4609-8fbe-3a3cca44d8df",
+        "8a87156b-50ea-47dc-aeb2-094747ddf4fa"
     ],
     "tutorial": ""
 }
