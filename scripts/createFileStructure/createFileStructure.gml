@@ -63,5 +63,13 @@ ini_write_string("4", "5", "6");
 ini_close();
 
 // Put the txt files in random folders
-filename
-copyFile("junk files/musicideas.txt", dirToCopyInto + "musicideas.txt");
+filenameString = "musicideas.txt";
+copyFile("junk files/" + filenameString, dirToCopyInto + filenameString);
+filenameString = "itsthisone.txt";
+copyFile("junk files/" + filenameString, dirToCopyInto + array_get(paths[0],0) + "/" + filenameString);
+filenameString = "space.txt";
+copyFile("junk files/" + filenameString, dirToCopyInto + array_get(paths[0],0) + "/" + filenameString);
+filenameString = "wow.txt";
+copyFile("junk files/" + filenameString, dirToCopyInto + array_get(paths[0],0) + "/" + array_get(paths[0],1) + "/" + filenameString);
+filenameString = "more_scales_and_info.txt";
+copyFile("junk files/" + filenameString, dirToCopyInto + array_get(paths[2],0) + "/" + filenameString);
