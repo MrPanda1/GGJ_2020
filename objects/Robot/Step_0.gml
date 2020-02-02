@@ -54,3 +54,26 @@ else if(global.gameState == 7)
 		x += robotSpeed;	
 	}
 }
+//Moves robot to thruster once password is entered
+else if(global.gameState == 8)
+{
+	var distToDoor = 250;
+	
+	if(roomDoor != noone && y < roomDoor.y + distToDoor)
+	{
+		y += robotSpeed;
+	}
+	else if(roomDoor != noone && x > roomDoor.x + roomDoor.sprite_width / 2)
+	{
+		x -= robotSpeed;	
+	}
+	else
+	{
+		global.gameState = 9;
+	}
+}
+//Moves robot to door
+else if(global.gameState == 10)
+{
+	y -= robotSpeed;
+}
