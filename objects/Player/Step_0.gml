@@ -13,12 +13,12 @@ if hin != 0
 var xmov = playerSpeed*hin;
 var ymov = playerSpeed*vin;
 
-if !place_meeting(x+xmov,y,pWall)
+if (!place_meeting(x+xmov,y,pWall) && canMove)
 {
 	x += xmov;
 }
 
-if !place_meeting(x,y+ymov,pWall)
+if (!place_meeting(x,y+ymov,pWall) && canMove)
 {
 	y += ymov;
 }
