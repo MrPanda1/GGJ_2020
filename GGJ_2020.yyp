@@ -247,6 +247,14 @@
             }
         },
         {
+            "Key": "3dd79ef6-47fe-49eb-895c-80bd8641b82a",
+            "Value": {
+                "id": "368e6a5c-9994-45c2-83f0-feefea360e11",
+                "resourcePath": "sprites\\spr_robotWIthLeftArm\\spr_robotWIthLeftArm.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3e8fa9a8-5218-4e01-8d89-8fabad1f8cb5",
             "Value": {
                 "id": "440ecfa3-488d-41ad-86b0-51605a3930b5",
@@ -332,6 +340,14 @@
                 "id": "98f583c8-f14b-4aff-abb5-0434d5487eb7",
                 "resourcePath": "objects\\ExitButton\\ExitButton.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6e75751d-1a07-415b-9bca-8f46ac89a730",
+            "Value": {
+                "id": "f5d0769c-4558-480b-a86b-964c47fd72f5",
+                "resourcePath": "sprites\\spr_robotLeftArm\\spr_robotLeftArm.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
