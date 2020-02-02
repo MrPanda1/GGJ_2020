@@ -2,7 +2,7 @@
     "id": "7f2b612b-7303-4a0d-9ce1-a4d1f8834005",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_notes",
+    "name": "spr_journal",
     "For3D": false,
     "HTile": false,
     "VTile": false,
