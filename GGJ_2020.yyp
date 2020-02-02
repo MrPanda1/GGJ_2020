@@ -399,6 +399,14 @@
             }
         },
         {
+            "Key": "2f260cf2-aa57-4292-be3a-8bd607f410d1",
+            "Value": {
+                "id": "f241d213-b288-4a7b-b020-5cf1ee203b05",
+                "resourcePath": "sprites\\RobotWithLegUp\\RobotWithLegUp.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "32c63b67-1afa-486a-875c-591174cce81b",
             "Value": {
                 "id": "ad238590-14b6-498d-894f-dd1168ab4c08",
