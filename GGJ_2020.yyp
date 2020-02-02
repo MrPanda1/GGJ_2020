@@ -647,6 +647,14 @@
             }
         },
         {
+            "Key": "6635a474-d994-4cf4-b5f4-ca9f8c0935fa",
+            "Value": {
+                "id": "520c2abc-6535-47e2-9520-9f58258741dd",
+                "resourcePath": "rooms\\TitleScreen\\TitleScreen.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "663868d6-9d75-4b36-9135-7d4e506406e5",
             "Value": {
                 "id": "899e20a9-f345-4783-a284-520cb174321e",
@@ -1023,6 +1031,14 @@
             }
         },
         {
+            "Key": "9211ec00-7e37-4b14-91b7-ec00c4939d7f",
+            "Value": {
+                "id": "0b13d64b-0ee0-4715-bb92-1a03e5513fce",
+                "resourcePath": "sprites\\TitleScreenBackground\\TitleScreenBackground.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "964dff4b-fff7-488c-a522-a14cd5152a9a",
             "Value": {
                 "id": "d89d903b-4bae-42db-8327-41a574060b6b",
@@ -1267,6 +1283,14 @@
             "Value": {
                 "id": "04dcf2b8-21c5-4d26-8c29-40bc34330778",
                 "resourcePath": "objects\\RobotLeg\\RobotLeg.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c35947ed-4548-46b4-8ce3-2b5c42c47598",
+            "Value": {
+                "id": "42342846-ca36-4643-b522-182d5541791a",
+                "resourcePath": "objects\\TitleScreenButton\\TitleScreenButton.yy",
                 "resourceType": "GMObject"
             }
         },
