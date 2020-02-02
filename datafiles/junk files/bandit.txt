@@ -1,0 +1,34 @@
+Level0
+I simply used the ls command to see all the files in level 0 and then once I found the readme I just used cat to be able to see its contents.
+Password: boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+Level1
+Very similar to level 0, I sued ls to see the files in level 1 and once I found the – file I simply used cat with quotes so the terminal wouldn’t think it was a command.
+Password: CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+Level2
+Again very similar to the second level, used ls to find the file and then cat with quotation marks to wee what was inside the file.
+Password: UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
+ Level3
+In level three the only file in the first part is a folder so I simply used cd to enter it then used ls -a to see all the files even hidden ones and then once I found the .inhere file used cat again with quotation marks to see its contents.
+Password: pIwrPrtPN36QITSp3EQaw936yaFoFgAB
+Level4
+For level four I used cd to access the inhere folder and from there used the file to see the types of all the files until I found the ASCII text and then once I located the human readable file I sued cat to see its contents.
+Password: koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+Level5
+For level 5 I used cd to open the inhere folder and once I was there and saw all the other folders I decided to use find with -size to find the file with a size of 1033 bytes, after that I used cat with the directory path to see the contents inside.
+Password: DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+Level6
+For level 6 since the instructions said that it was somewhere in the server I decided to go to the first folder of the serve,  to do that I used cd .. twice, and once I was there I used find with -user -group and -size to find all the files matching the description, after that I simply looked for the one that didn’t give me an access denied message, copied its path and then used cat to see its contents.
+Password: HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+
+Level7 
+For level 7 I simply used grep with the hint given by the page and the word millionth to find the password.
+Password: cvX2JJa4CFALtqS87jk27qwqGhBM9plV
+Level8
+For level 8 I used the sort command to sort the mess of a file that was data.txt and then just looked through the output until I found the odd one out which wasn’t hard because it stuck out like a sore thumb.
+Password: UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
+Level9
+For level 9 I used strings to make the file easier to read or simply identify where the === where located in the file which thanks to the hint in the website, is where the password was.
+Password: truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
+Level10
+For level 10 thanks to the hint, I used base64 -d to decrypt the message in data.txt
+Password: IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR

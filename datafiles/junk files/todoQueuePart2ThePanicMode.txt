@@ -1,0 +1,24 @@
+Notify of move out plans by april 17
+Schedule primary care appointment
+
+Go to Meuth Class or office hours on tuesday april 9th
+
+Epic Assessment Followup April 10 3:30
+
+Phone Meeting with Colins AeroSpace (embedded systems offer) Thu Apr 11, 2019 7am - 8am 
+
+Honors contract presentation for graphics April 22 (Monday before finals week)
+
+Optimize Item UI Spawn 
+
+Architecture Final, 2:30pm - 4:20pm on April 29
+Graphics Final Date: Wed 5/1 at 9:50 - 11:10 
+
+
+
+Thesis
+---
+Fix hud
+get Y positioning working
+same word twice crashes
+"plushie burger" crashes

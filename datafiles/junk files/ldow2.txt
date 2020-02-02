@@ -1,0 +1,625 @@
+
+
+
+Tank (Diamonds)
+Support (Hearts)
+Diver (Spades)
+Carry (Clubs)
+2
+Ulbris, Master Smithy
+Pelgia, Knight’s Attendant
+Laecelus, Shadow’s Servant
+Xogotz, the Wild Elemental
+3
+Lynna, Nature’s Guardian
+Kai, the Innovator
+Toeddelith, the Starsick
+Ol’ Six Blades, Eternal Dancerv
+4
+Liri, Polymorphysicist
+John, the Normalizer
+Hible, Bounty Hunter
+Phralnomish, Mad Scientist
+5
+Boris, the False Hound
+Eunia, the Unifier
+Z’deiwch, King of Insects
+Kae, the Keeper
+6
+Miyoki, Frost’s Fangs
+Hallvardor, the First Memory
+Rona, the Lightspear
+Nyronin, Knight of Justice
+7
+Duc, Duck-Goose
+Sylva, Mechanical Bard
+Attis, the Aristocrat
+Natsuko, Summer Child
+8
+Brique, the Impregnable
+Saru, Taleweaver
+Whoae, the Ethereal
+Myste, Wandering Mage
+9
+Sarah, the Mundane
+Serena, Cursed Princess
+Akigaki, the Mechanist
+Xander, the Archon
+10
+Onas, the Reflective
+Noet, the Poet
+Spritz, Impassioned Spirit
+Lin, Night Prowler
+J (11)
+Moyaba, the Diseased
+Dirue, Hope of Many
+Ghaveid, Jungle Marksman
+Finnea, Voice of the People
+Q (12)
+Khoragg, Stone Bastion
+Seltzy, Desert Alchemist
+Vyrya, Harpy Assassin
+Firepup, the Flash Flame
+K (13)
+Miva, Matriarch
+Szed, the Trusted
+Lug the Swamp Monster
+Dominus, Demon General
+A (14)
+Groundstride, the Finale
+Maellia, the Sturdy
+Glive, the Scourge
+Wagwan, Explosives Expert
+
+Jkr1
+Eaphesto, the Entertainer
+Jkr2
+Janika, the Jester
+
+
+
+Counters
+Your warrior counters every name found in their cell of this chart.
+
+
+Tank (Diamonds)
+Support (Hearts)
+Diver (Spades)
+Carry (Clubs)
+2
+T8, S4, S7, D9, C14
+T13, S10, D4, D7, C3
+T10, S5, D10, C4, C7
+T3, T12, S9, D5, C8
+3
+T4, S6, S11, D2, C6
+T3, S12, D13, D14, C13
+T5, S8, D6, C2, C9
+T6, T7, S13, D8, C2
+4
+T2, S11, S14, D11, C5
+T9, S3, D4, D12, C10
+T11, S7, D12, C3, C11
+T3, T14, S12, D6, C12
+5
+T6, S2, S5, D12, C7
+T11, S6, D8, D11, C2
+T6, S10, D13, C3, C10
+T9, T13, S8, D9, C3
+6
+T7, S3, S9, D13, C12
+T6, S13, D3, D12, C12
+T12, S13, D2, C5, C6
+T6, T10, S4, D14, C7
+7
+T14, S8, S12, D5, C2
+T7, S4, D5, D9, C9
+T8, S4, D14, C4, C13
+T2, T11, S6, D11, C11
+8
+T12, S10, S13, D3, C13
+T8, S2, D6, D9, C11
+T2, S9, D11, C5, C14
+T5, T8, S14, D4, C13
+9
+T13, S3, S9, D6, C8
+T10, S5, D3, D13, C8
+T7, S11, D4, C8, C14
+T8, T14, S10, D13, C4
+10
+T11, S6, S14, D10, C3
+T12, S9, D6, D8, C4
+T13, S12, D3, C7, C10
+T9, T13, S3, D12, C6
+J (11)
+T3, S4, S13, D8, C9
+T14, S7, D2, D14, C5
+T14, S2, D5, C8, C11
+T10, T12, S7, D2, C5
+Q (12)
+T10, S5, S12, D7, C4
+T2, S14, D5, D11, C14
+T4, S3, D9, C6, C12
+T2, T4, S5, D7, C10
+K (13)
+T5, S7, S10, D4, C11
+T4, S8, D2, D10, C7
+T9, S6, D7, C2, C12
+T4, T5, S2, D10, C14
+A (14)
+T9, S2, S8, D14, C10
+T5, S11, D7, D10, C6
+T3, S14, D8, C9, C13
+T7, T11, S11, D3, C9
+
+Jkr1
+none
+Jkr2
+none
+Countered-by
+To find who counters your warrior, look in their respective cell in this table
+
+
+Tank (Diamonds)
+Support (Hearts)
+Diver (Spades)
+Carry (Clubs)
+2
+T4, S12, D8, C7, C12
+T5, T14, S8, D11, C13
+T3, S11, S13, D6, C11
+T7, S5, D3, D13, C3
+3
+T11, S3, D14, C2, C4
+T6, T9, S4, D12, C10
+T8, S6, S9, D10, C14
+T10, S2, D4, D5, C5
+4
+T3, S13, D12, C12, C13
+T2, T11, S7, D7, C6
+T13, S2, S4, D9, C8
+T12, S10, D2, D7, C9
+5
+T13, S14, D3, C8, C13
+T5, T12, S9, D2, C12
+T7, S7, S12, D11, C2
+T4, S11, D6, D8, C11
+6
+T5, S6, D5, C3, C6
+T3, T10, S5, D13, C7
+T9, S8, S10, D3, C4
+T3, S14, D6, D12, C10
+7
+T6, S7, D9, C3, C14
+T2, T13, S11, D4, C11
+T12, S2, S14, D13, C12
+T5, S13, D2, D10, C6
+8
+T2, S8, D7, C8, C9
+T7, T14, S13, D3, C5
+T11, S5, S10, D14, C3
+T9, S9, D9, D11, C2
+9
+T14, S4, D13, C5, C10
+T6, T9, S10, D8, C2
+T2, S7, S8, D12, C5
+T11, S7, D3, D14, C14
+10
+T12, S9, D2, C6, C11
+T8, T13, S2, D5, C9
+T10, S14, S13, D2, C13
+T14, S4, D5, D10, C12
+J (11)
+T10, S5, D4, C7, C14
+T3, T4, S14, D9, C14
+T4, S5, S12, D8, C7
+T13, S8, D4, D11, C7,
+Q (12)
+T8, S10, D6, C2, C11
+T7, T12, S3, D10, C4
+T5, S4, S6, D4, C10
+T6, S6, D12, D13, C4
+K (13)
+T9, S2, D10, C5, C10
+T8, T11, S6, D6, C3
+T6, S3, S9, D5, C9
+T8, S3, D7, D14, C8
+A (14)
+T7, S11, D11, C4, C9
+T4, T10, S12, D14, C8
+T14, S3, S11, D7, C6
+T2, S12, D8, D9, C13
+
+Jkr1
+none
+Jkr2
+none
+
+Mechanical/Knowledge Requirement
+
+
+Tank (Diamonds)
+Support (Hearts)
+Diver (Spades)
+Carry (Clubs)
+2
+Mechanics:10
+Knowledge:12
+Mechanics:10
+Knowledge:12
+Mechanics:12
+Knowledge:10
+Mechanics:12
+Knowledge:10
+3
+Mechanics:11
+Knowledge:11
+Mechanics:9
+Knowledge:13
+Mechanics:10
+Knowledge:12
+Mechanics:14
+Knowledge:8
+4
+Mechanics:8
+Knowledge:14
+Mechanics:12
+Knowledge:10
+Mechanics:12
+Knowledge:10
+Mechanics:12
+Knowledge:10
+5
+Mechanics:7
+Knowledge:15
+Mechanics:13
+Knowledge:9
+Mechanics:13
+Knowledge:9
+Mechanics:11
+Knowledge:11
+6
+Mechanics:9
+Knowledge:13
+Mechanics:11
+Knowledge:11
+Mechanics:14
+Knowledge:8
+Mechanics:10
+Knowledge:12
+7
+Mechanics:10
+Knowledge:12
+Mechanics:10
+Knowledge:12
+Mechanics:12
+Knowledge:10
+Mechanics:12
+Knowledge:10
+8
+Mechanics:12
+Knowledge:10
+Mechanics:8
+Knowledge:14
+Mechanics:11
+Knowledge:11
+Mechanics:13
+Knowledge:9
+9
+Mechanics:10
+Knowledge:12
+Mechanics:10
+Knowledge:12
+Mechanics:12
+Knowledge:10
+Mechanics:12
+Knowledge:10
+10
+Mechanics:11
+Knowledge:11
+Mechanics:9
+Knowledge:13
+Mechanics:15
+Knowledge:7
+Mechanics:9
+Knowledge:13
+J (11)
+Mechanics:10
+Knowledge:12
+Mechanics:10
+Knowledge:12
+Mechanics:11
+Knowledge:11
+Mechanics:13
+Knowledge:9
+Q (12)
+Mechanics:13
+Knowledge:9
+Mechanics:7
+Knowledge:15
+Mechanics:15
+Knowledge:7
+Mechanics:9
+Knowledge:13
+K (13)
+Mechanics:10
+Knowledge:12
+Mechanics:10
+Knowledge:12
+Mechanics:12
+Knowledge:10
+Mechanics:12
+Knowledge:10
+A (14)
+Mechanics:9
+Knowledge:13
+Mechanics:11
+Knowledge:11
+Mechanics:13
+Knowledge:9
+Mechanics:11
+Knowledge:11
+
+Jkr1
+Mechanics:13
+Knowledge:15
+Jkr2
+Mechanics:15
+Knowledge:13
+
+Synergies
+
+
+Tank (Diamonds)
+Support (Hearts)
+Diver (Spades)
+Carry (Clubs)
+2
+Onas(T10), Sylva(S7), Hible(D4), Akiganki(D9), 
+Ol’ Six Blades(C3)
+Brique(T8), Maellia(S14), Rona(D6), 
+Ol’ Six Blades(C3), Nyronin(C6)
+Duc(T7),
+Moyaba(T11), Serena(S9), Whoae(D8), Firepup(C12)
+Lynna(T3),
+Eunia(S5)
+Seltzy(S12),
+Vyrya(D12),
+Firepup(C12)
+3
+Miva(T13), Saru(S8), Spritz(D10), Lug(D13),
+Xogotz(C2)
+Liri(T4), 
+Szed (S13), Akigaki(D9),
+Kae(C5), Phralnomish(C4)
+Sarah(T9), Miva(T13), Dirue(S11), Z’deiwch(D5), Wagwan(C14)
+Ulbris(T2), Pelgia(S2), 
+Noet(S10), Whoae(D8), Lin(C10)
+4
+Duc(T7), Kai(S3), Attis(D7), Whoae(D8), Lin(C10)
+Sarah(T9), Eunia(S5),
+Attis(D7), 
+Xander(C9),
+Finnea(C11),
+Ulbris(T2), Onas(T10), Seltzy(S12), Rona(D6), Xander(C9)
+Duc(T7), 
+Kai(S3), Maellia(S14), Spritz(D10), Wagwan(C14)
+5
+Sarah(T9), Szed(S13), Ghaveid(D11), Vyrya(D12), Firepup(C12)
+Miva(T13), 
+John(S4),
+Glive(D14),
+Xogotz(C2),
+Xander(C9)
+Miyoki(T6), Groundstride
+(T14), Szed(S13), Toeddelith(D3),  Finnea(C11)
+Moyaba(T11),
+Kai(S3), Serena(S9), Lug(D13), Natsuko(C7)
+6
+Groundstride
+(T14), Maellia(S14), Z’deiwch(D5), Glive(D14),  Wagwan(C14)
+Groundstride
+(T14), 
+Saru(S8), Whoae(D8), Natsuko(C7)
+Dominus(C13)
+Brique(T8), Moyaba(T11), Pelgia(S2), Hible(D4), 
+Lin(C10)
+Khoragg(T12), Pelgia(S2), Szed(S13), Attis(D7), Dominus(C13)
+7
+Liri(T4), Noet(S10), Laecelus(D2), Vyrya(D12), Phralnomish(C4)
+Ulbris(T2), Dirue(S11), Spritz(D10), Lin(C10), Firepup(C12)
+Liri(T4),
+ Miva(T13), John(S4), Vyrya(D12), Nyronin(C6),
+Onas(T10), Hallvardor(S6), Serena(S9), Glive(D14), 
+Kae(C5)
+8
+Khoragg(T12),
+Pelgia(S2),
+Rona(D6), Akigaki(D9), Xander(C9)
+Lynna(T3),
+Hallvardor(S6), Ghaveid(D11), Lin(C10), Wagwan(C14)
+Liri(T4), 
+Khoragg(T12)
+Hallvardor(S6), Laecelus(D2), 
+Ol’ Six Blades(C3)
+Groundstride
+(T14), 
+Dirue(S11), Seltzy(S12), Spritz(D10), Xander(C9)
+9
+Boris(T5), John(S4), Toeddelith(D3), Ghaveid(D11), Dominus(C13)
+Khoragg(T12), Moyaba(T11), Laecelus(D2),
+Kae(C5), Natsuko(C7)
+Ulbris(T2), Brique(T8), 
+Kai(S3), 
+Glive(D14), Finnea(C11),
+Brique(T8), John(S4),
+Eunia(S5), Hible(D4), Myste(C8)
+10
+Ulbris(T2), Dirue(S11), 
+Hible(D4), Glive(D14), Natsuko(C7)
+Duc(T7), Seltzy(S12), Vyrya(D12), 
+Ol’ Six Blades(C3), Finnea(C11)
+Lynna(T3), Khoragg(T12), Sylva(S7), Phralnomis(C4), Myste(C8)
+Liri(T4),
+Sylva(S7), Saru(S8), Rona(D6), 
+Ol’ Six Blades(C3)
+J (11)
+Serena(S9)
+Seltzy(S12),
+Laecelus(D2),
+Rona(D6), Kae(C5)
+Onas(T10), Sylva(S7), Toeddelith(D3), Myste(C8) Wagwan(C14),
+Boris(T5), 
+Sarah(T9), 
+Saru(S8), 
+Lug(D13), Dominus(C13), 
+Miva(T13), John(S4), Noet(S10), Akigaki(D9), Z’deiwch(D5)
+Q (12)
+Brique(T8), Serena(S9), 
+Whoae(D8)
+Spritz(D10), Nyronin(C6)
+Moyaba(T11),  Noet(S10), Hible(D4), Xogotz(C2), Myste(C8)
+Boris(T5), 
+Duc(T7), 
+Noet(S10), 
+Attis(D7), 
+Xogotz(C2)
+Boris(T5), Sylva(S7), Szed(S13),  Laecelus(D2), Xogotz(C2)
+K (13)
+Lynna(T3), Eunia(S5), Toeddelith(D3),
+Attis(D7), Finnea(C11)
+Boris(T5), Kai(S3), Z’deiwch(D5), Nyronin(C6), Firepup(C12)
+Lynna(T3), Groundstride(T14), Maellia(S14), Ghaveid(D11), Kae(C5) 
+Sarah(T9), Hallvardor(S6), Maellia(S14), Ghaveid(D11), Nyronin(C6)
+A (14)
+Miyoki(T6), Hallvardor(S6), Z’deiwch(D5),
+Lug(D13)
+Myste(C8)
+Miyoki(T6)), 
+Pelgia(S2), Lug(D13), Phralnomish(C4), Dominus(C13)
+Miyoki(T6), Onas(T10),
+Eunia(S5), Akigaki(D9), Natsuko(C7)
+Miyoki(T6), Saru(S8), Dirue(S11), Toeddelith(D3), Phralnomish(C4)
+
+Jkr1
+black
+Janika(Jkr2)
+Jkr2
+red
+Eaphesto(Jkr1)
+
+Dis-Synergies
+
+
+Tank (Diamonds)
+Support (Hearts)
+Diver (Spades)
+Carry (Clubs)
+2
+T4, S14,S9,D8,C10
+T3,T9,S11,D11,
+C9
+T9,S10,D6,C6,C9
+T4,S11,D5,D11,
+D14
+3
+T10, S2,S11,D6,C14
+T13,T11,S9,D6, C14
+T10,S5,D10,C7,
+C11
+T7,S4,D7,D13,
+C5
+4
+T2,S6,S12,D10,C2
+T8,T10,S14,D10,
+C3
+T7,S7,D11,C8,
+C14
+T11,S9,D8,D14,
+C10
+5
+T8,S7,S8,D14, C9
+T7,T14,S7,D3,
+C7
+T11,S9,D7,C2,
+C12
+T6,S8,D10,D14,
+C3
+6
+T9,S10,S13,
+D12,C5
+T4,T11,S10,D14,
+C12
+T3,S3,D2,C7,
+C13
+T13,S14,D2,D11,
+C11
+7
+T12,S5,S13,D4,C3
+T5,T10,S5,D4,
+C11
+T12,S12,D5,C3,
+C10
+T9,S5,D3,D6,
+C13
+8
+T5,S4,S9,D13, C11
+T5,T11,S13,D12,
+C5
+T2,S11,D9,C4,
+C14
+T12,S10,D4,D9,
+C14
+9
+T6,S2,S10,D2, C7
+T2,T8,S3,D5,
+C4
+T13,S13,D8,C8,
+C13
+T5,S2,D2,D12,
+C12
+10
+T3,S4,S7,D3, C13
+T6,T9,S6,D2,
+C8
+T4,S4,D3,C5,
+C12
+T2,S13,D7,D12,
+C4
+J (11)
+S3,S6,S8,D5, C4
+T3,T12,S2,D8,
+C2
+T14,S2,D4,C2,
+C6
+T8,S7,D3,D13,
+C6
+Q (12)
+T7,S11,S14,D7,C8
+T4,T13,T14,D7,
+C13
+T6,S8,D13,C9,
+C10
+T14,S6,D5,D10,
+C9
+K (13)
+T14,S3,S12,D9,C6
+T6,T7,S8,D9,
+C10
+T8,S14,D12,C3
+C11
+T10,S12,D6,D9,
+C7
+A (14)
+T13,S5,S12,D11,C12
+T2,T12,S4,D13,
+C6
+T5,S6,C4,C5,C2
+T3,S3,D4,D8,
+C8
+
+Jkr1
+none
+Jkr2
+none
+

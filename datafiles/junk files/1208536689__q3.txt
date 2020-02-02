@@ -1,0 +1,4 @@
+BFS,25,Start,A,D,F,Goal
+DFS,24,Start,A,D,G,H,Goal
+UCS,22,Start,A,C,D,G,H,Goal
+A*,17,A,C,F,Goal

@@ -1,0 +1,39 @@
+
+Ok so I didn’t commented my code at all but basically
+I did all the steps from the power point that is I had a method that gave me all the instances that repeated, from that I found the most common factors, from those common factors I made an educated guess of the key length in my case I chose five because 5 10 and 15 where three of the most common factors. Then using that I created 5 alphabets, from those alphabets I saw all the frequencies of a character, had a list of the 5 most frequent characters for each alphabet, then created keys based on  the number of alphabets, the number of most frequent characters, and the number of most frequent characters in each alphabet. Then using those keys used the same method as the Caesar cipher that is decode the message with those possible keys and if said decoded string had the string “the “ in it then print it out along with the key. It looks like the encrypted message is from the “imitation game” movie with Benedict Cumberbatch.
+who do the things no one can imagine"
+Stewart Menzies: Oh, Alan... we're gonna have such a wonderful war together.
+End titles: His machine was never perfected, though it generated a whole field of research into what became known as "Turing Machines". Today we call them "computers".
+Alan Turing: I like solving problems, Commander. And Enigma is the most difficult problem in the world.
+Commander Denniston: Enigma isn't difficult, it's impossible. The Americans, the Russians, the French, the Germans, everyone thinks Enigma is unbreakable.
+Alan Turing: Good. Let me try and we'll know for sure, won't we?
+Alan Turing: They only beat me up because I'm smarter than they are.
+Christopher Morcom: No, they beat you up because you're different.
+John Cairncross: The boys, we're going to get some lunch.
+[no response]
+John Cairncross: Alan?
+Alan Turing: Yes?
+John Cairncross: I said we're going to get some lunch.
+[no response]
+John Cairncross: Alan?
+Alan Turing: Yes?
+John Cairncross: Can you hear me?
+Alan Turing: Yes.
+John Cairncross: I said we're off to get some lu- [pause] This is starting to get a little bit repetitive.
+Alan Turing: What is?
+John Cairncross: I had asked if you wanted to come have lunch with us.
+Alan Turing: Uhm, no you didn't, you said you were going to get some lunch.
+John Cairncross: Have I offended you in some way?
+Alan Turing: Why would you think that?
+John Cairncross: Would you like to come to lunch with us?
+Alan Turing: What time's lunch time?
+Hugh Alexander: [frustrated] Christ Alan, it's a bleeding sandwich.
+Alan Turing: What is?
+Hugh Alexander: Lunch.
+Alan Turing: Oh, I don't like sandwiches.
+John Cairncross: Never mind.
+Stewart Menzies: [candidates are taking a timed test] Six minutes... is that even possible?
+Alan Turing: No, it takes me eight.
+Alan Turing: Er... How... How do you mean you work alongside a German?
+Helen: Well, each of us intercepts messages from a specific German radio tower. So we have a counterpart on the other side, who's tip-tappi
+

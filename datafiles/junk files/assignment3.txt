@@ -1,0 +1,143 @@
+###########################################################
+#  Description: This program takes in four numbers as input, performs various arithmetic with them, then prints out the results
+###########################################################
+
+#data declarations: declare variable names used in program, storage allocated in RAM
+                            .data  
+message1:         .asciiz "Enter a value: \n"
+message2:		  .asciiz "Enter one more value: \n"
+addMessage:		  .asciiz "\nNum3 + Num4 = "
+subMessage:		  .asciiz "\nNum4 - Num1 = "
+multiMessage:	  .asciiz "\nNum3 * Num1 = "
+divMessage:		  .asciiz "\nNum1 / Num2 = "
+modMessage:		  .asciiz "\nNum3 mod Num1 = "
+longMessage:	  .asciiz "\n(num3 mod num4)+((num2 - 21 * num1) / 5) = "
+num1:			  .word 0
+num2:			  .word 0
+num3:			  .word 0
+num4:			  .word 0
+
+#program code is contained below under .text
+                        .text
+                        .globl    main    #define a global function main
+
+# the program begins execution at main()
+main:
+            la          $a0, message1  # $a0 = address of message1
+            li          $v0, 4         # $v0 = 4  --- this is to call print_string()
+            syscall                    # call print_string()
+			li			$v0, 5		   #wait for keyboard input
+			syscall
+			
+			#store the input into the variable num1
+			sw			$v0, num1		
+			la			$a0, message1
+			li			$v0, 4
+			syscall
+			li			$v0, 5
+			syscall
+			#store input into num2
+			sw			$v0, num2
+			la			$a0, message1
+			li			$v0, 4
+			syscall
+			li			$v0, 5
+			syscall
+			#store input into num3
+			sw			$v0, num3
+			la			$a0, message2
+			li			$v0, 4
+			syscall
+			li			$v0, 5
+			syscall
+			#store input into num4 the display the first arithmetic message
+			sw			$v0, num4
+			la			$a0, addMessage
+			li			$v0, 4
+			syscall
+			#add num3 and num4
+			lw			$t1, num3
+			lw			$t2, num4
+			add			$t0, $t1, $t2
+			move		$a0, $t0
+			li			$v0, 1
+			syscall
+			
+			la			$a0, subMessage #subtract message
+			li			$v0, 4
+			syscall
+			#subtract num4 and num1
+			lw			$t1, num4
+			lw			$t2, num1
+			sub			$t0, $t1, $t2	# $t0 = $t1 - $t2
+			move		$a0, $t0
+			li			$v0, 1
+			syscall
+			
+			la			$a0, multiMessage #multiply message
+			li			$v0, 4
+			syscall
+			#multiply num3 and num1
+			lw			$t1, num3
+			lw			$t2, num1
+			mult		$t1, $t2
+			mflo		$t0			#store the lower bits
+			move		$a0, $t0
+			li			$v0, 1
+			syscall
+			
+			la			$a0, divMessage #divide message
+			li			$v0, 4
+			syscall
+			#divide num1 and num2
+			lw			$t1, num1
+			lw			$t2, num2
+			div			$t1, $t2
+			mflo		$t0			#store the quotient of the division
+			move		$a0, $t0
+			li			$v0, 1
+			syscall
+			
+			la			$a0, modMessage #mod message
+			li			$v0, 4
+			syscall
+			#find num3 mod num1
+			lw			$t1, num3
+			lw			$t2, num1
+			div			$t1, $t2
+			mfhi		$t0			#store the remainder of the division
+			move		$a0, $t0
+			li			$v0, 1
+			syscall
+			
+			la			$a0, longMessage #long arithmetic message
+			li			$v0, 4
+			syscall
+			
+			###########
+			#load all of the variables to temporary memory
+			lw			$t1, num1
+			lw			$t2, num2
+			lw			$t3, num3
+			lw			$t4, num4
+			#num3 mod num4
+			div			$t3, $t4
+			mfhi		$s0
+			#Multiply 21 * num1
+			addi		$t5, $zero, 21
+			mult		$t1, $t5
+			mflo		$s1
+			#subtract num2 and $s1
+			sub			$s1, $t2, $s1
+			#divide $s1 and 5
+			addi		$t5, $zero, 5
+			div			$s1, $t5
+			mflo		$s1
+			#add $s0 and $s1
+			add $s0, $s0, $s1
+			#print the result
+			move	$a0, $s0
+			li		$v0, 1
+			syscall
+			
+            jr          $ra                      # return
