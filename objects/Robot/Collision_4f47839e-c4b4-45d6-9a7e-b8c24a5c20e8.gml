@@ -5,11 +5,7 @@
 if (!other.isPickedUp && global.gameState == other.partState - 1)
 {
 	
-	if(global.gameState == 0 && instance_number(RobotLeg) > 1)
-	{
-		
-	}
-	else
+	if(!(global.gameState == 0 && instance_number(RobotLeg) > 1))
 	{
 		if(other.replaceSprite != noone)
 		{
@@ -17,6 +13,12 @@ if (!other.isPickedUp && global.gameState == other.partState - 1)
 		}
 	
 		global.gameState++;
+	}
+	
+	if(global.gameState == 4)
+	{
+		var newJournal = instance_create_layer(x - sprite_width / 2 - Journal.sprite_width, y, "Instances", Journal);
+		newJournal.journalText = "Idk, put whatever hint you guys want here";
 	}
 	
 	other.doDestroy = true;
