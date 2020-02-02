@@ -687,6 +687,14 @@
             }
         },
         {
+            "Key": "67bf6522-b60a-40b4-87d9-173b82728509",
+            "Value": {
+                "id": "f426ad77-8563-41e2-bfd2-1b1fd7adc24e",
+                "resourcePath": "sprites\\RobotWithLegRight\\RobotWithLegRight.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6936bd39-add2-4b89-bb3f-939bd8bb634d",
             "Value": {
                 "id": "732b03a3-a9ef-42f4-a50f-f84636acfb2c",
@@ -1295,6 +1303,14 @@
             }
         },
         {
+            "Key": "b3fd7129-31a0-43e8-8d24-f09f840f7be0",
+            "Value": {
+                "id": "f69152a1-3e08-4425-8ced-f4827b3ca577",
+                "resourcePath": "views\\b3fd7129-31a0-43e8-8d24-f09f840f7be0.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "b55f5335-bc1e-4e81-88a3-26affe4e8bf8",
             "Value": {
                 "id": "70f0afd2-93f7-4aa1-a4c7-ce94e4c7dc38",
@@ -1540,6 +1556,14 @@
                 "id": "d9f68a05-c8e5-4fee-b754-98376a4b2969",
                 "resourcePath": "datafiles_yy\\junk files\\math.txt.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "e8b296fb-2d06-4fe2-9384-177163ab37bd",
+            "Value": {
+                "id": "cb4f1826-a47b-4e45-b609-5fe920cd427a",
+                "resourcePath": "views\\e8b296fb-2d06-4fe2-9384-177163ab37bd.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
