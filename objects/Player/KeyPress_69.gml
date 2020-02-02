@@ -57,7 +57,8 @@ if((global.gameState == 4 || global.gameState == 6) && place_meeting(x, y, Robot
 }*/
 
 if(global.gameState == 1)
-{
+{	
+	createReadme();
 	show_message(ds_map_find_value(global.correctPaths, "rArmPower"));
 	show_message(ds_map_find_value(global.correctValues, "rArmPower"));
 }
@@ -66,6 +67,7 @@ if(global.gameState == 1)
 if(global.gameState == 4 && place_meeting(x, y, Robot) && global.sectionComplete[1])
 {
 	global.gameState = 5;
+	createReadme();
 }
 //This is for testing, get rid of later
 else if(global.gameState == 4)
@@ -78,6 +80,7 @@ else if(global.gameState == 4)
 if(global.gameState == 6 && place_meeting(x, y, Robot) && global.sectionComplete[2])
 {
 	global.gameState = 7;
+	createReadme();
 }
 else if(global.gameState == 6)
 {

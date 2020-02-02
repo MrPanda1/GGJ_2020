@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "078a46e5-731c-4413-9a77-7752d1311aed",
+            "Value": {
+                "id": "6146dea8-bdfa-4096-bd39-049f8850d2d5",
+                "resourcePath": "datafiles_yy\\readmes\\README3.txt.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "084fe1d1-ed4b-4fd1-9f2d-09bd3176b021",
             "Value": {
                 "id": "a16c1fa7-e1d4-4c0b-a36f-7edf45b75c57",
@@ -164,6 +172,14 @@
                 "id": "1cbb2dfb-1545-4184-a524-d1602c085b48",
                 "resourcePath": "views\\12da9f38-c6e1-4889-95bf-25e39d355760.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "12fca245-1827-4543-ac16-0ffefd43abd6",
+            "Value": {
+                "id": "9b1ce0eb-dc55-4107-87fa-9de0c9c0e758",
+                "resourcePath": "datafiles_yy\\readmes\\README2.txt.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -331,14 +347,6 @@
             "Value": {
                 "id": "6de6085f-3d2b-4ee0-9996-87dc654deeee",
                 "resourcePath": "datafiles_yy\\junk files\\saysHI.txt.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "1e868150-c10c-4290-8774-3cf1733594ea",
-            "Value": {
-                "id": "eb9310d6-3dcb-4d9b-bce4-7ae370c93d92",
-                "resourcePath": "datafiles_yy\\readmes\\README1.txt.yy",
                 "resourceType": "GMIncludedFile"
             }
         },
@@ -1683,6 +1691,14 @@
             "Value": {
                 "id": "0adfca84-b1a8-49e9-b0a4-03adeec9d709",
                 "resourcePath": "datafiles_yy\\junk files\\Songs_Changed.txt.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "b8e86e8f-a513-4a14-aef4-1fb419b5d038",
+            "Value": {
+                "id": "c2e1e4c9-946b-412b-8170-cab370822afc",
+                "resourcePath": "datafiles_yy\\readmes\\README1.txt.yy",
                 "resourceType": "GMIncludedFile"
             }
         },
