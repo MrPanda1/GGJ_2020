@@ -303,6 +303,14 @@
             }
         },
         {
+            "Key": "6936bd39-add2-4b89-bb3f-939bd8bb634d",
+            "Value": {
+                "id": "732b03a3-a9ef-42f4-a50f-f84636acfb2c",
+                "resourcePath": "sprites\\playerDown\\playerDown.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "69536873-b312-4d75-ad7a-165aa25ed359",
             "Value": {
                 "id": "98f583c8-f14b-4aff-abb5-0434d5487eb7",
