@@ -583,6 +583,14 @@
             }
         },
         {
+            "Key": "cece7e2b-f5e4-41b4-9335-3c0a22605f5c",
+            "Value": {
+                "id": "6bfda840-f8c2-4104-b16b-18dbe619c870",
+                "resourcePath": "sprites\\playerUp\\playerUp.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d8fb7753-8d8f-41fd-8956-8dbc49961a27",
             "Value": {
                 "id": "85e46e5a-0ccc-417e-9bd3-e1ca2a07b53e",
