@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "2773d525-4271-49f3-829c-4cd47bc05ab2",
+            "Value": {
+                "id": "f4163d04-bb2a-4794-a5e5-b304cdabd569",
+                "resourcePath": "sprites\\playerLeft\\playerLeft.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "27a46bed-7d2e-4ee7-9d64-e908eacd8cab",
             "Value": {
                 "id": "569183fc-b454-46bf-a385-f470a0b72d68",
@@ -599,19 +607,19 @@
             }
         },
         {
-            "Key": "d1ade4d2-e2db-4610-92e5-750a92296a3b",
-            "Value": {
-                "id": "8a6f8f19-f172-455c-aa01-17b0c145d23b",
-                "resourcePath": "objects\\InputFieldBox\\InputFieldBox.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "cece7e2b-f5e4-41b4-9335-3c0a22605f5c",
             "Value": {
                 "id": "6bfda840-f8c2-4104-b16b-18dbe619c870",
                 "resourcePath": "sprites\\playerUp\\playerUp.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d1ade4d2-e2db-4610-92e5-750a92296a3b",
+            "Value": {
+                "id": "8a6f8f19-f172-455c-aa01-17b0c145d23b",
+                "resourcePath": "objects\\InputFieldBox\\InputFieldBox.yy",
+                "resourceType": "GMObject"
             }
         },
         {
