@@ -83,5 +83,5 @@ file_text_close(accelerationFile);
 
 // If both the path and value is correct, mark the section as complete
 for (var i = 0; i < 4; i++) {
-	global.SectionComplete[i] = pathsCorrect[i] && valuesCorrect[i];
+	global.sectionComplete[i] = pathsCorrect[i] && valuesCorrect[i];
 }
