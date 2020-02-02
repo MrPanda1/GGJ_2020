@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "0eeca8dc-2ec6-431a-b434-6ffcad5bcb8a",
+            "Value": {
+                "id": "ff6e4462-38b1-4e29-8660-5adbb60f5377",
+                "resourcePath": "views\\0eeca8dc-2ec6-431a-b434-6ffcad5bcb8a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "0f3d5f8b-b7de-4b28-8c3c-a0ab7c2b5d28",
             "Value": {
                 "id": "d708113a-7182-4126-b558-29e225b130ef",
@@ -164,6 +172,14 @@
                 "id": "5adae331-c9c7-46cc-9514-e6c988df9b84",
                 "resourcePath": "objects\\RobotAntenna\\RobotAntenna.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "174929f4-64f0-4dea-97fc-947084ba6f7e",
+            "Value": {
+                "id": "6a6f8dd2-f577-404c-912f-75c71fa0cda2",
+                "resourcePath": "sprites\\RobotWithLArmDown\\RobotWithLArmDown.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -236,6 +252,14 @@
                 "id": "2d50a35c-828f-475f-a9ee-a8658ac10d05",
                 "resourcePath": "datafiles_yy\\junk files\\test_base16num_07.txt.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "1c6c97f7-81f7-4e4a-87d8-8ea5989a9a5b",
+            "Value": {
+                "id": "62c01ea8-8e40-4303-9695-3f4576184209",
+                "resourcePath": "sprites\\RobotWithLArmRight\\RobotWithLArmRight.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -559,6 +583,14 @@
             }
         },
         {
+            "Key": "50da5519-36ca-4153-a00f-bd6c4ce5e7f1",
+            "Value": {
+                "id": "1242edff-4221-491f-acdf-579e0e9b9caf",
+                "resourcePath": "sprites\\RobotWithLArmLeft\\RobotWithLArmLeft.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "51a979e6-0f63-4aec-8cf7-1d8c817cabd1",
             "Value": {
                 "id": "d908df8f-439b-4bf1-9317-3f3c19402cc9",
@@ -732,6 +764,14 @@
                 "id": "98f583c8-f14b-4aff-abb5-0434d5487eb7",
                 "resourcePath": "objects\\ExitButton\\ExitButton.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6b330c25-63fd-4f0c-bf53-e59334f1da1c",
+            "Value": {
+                "id": "3d0305b8-15b7-4e80-ae65-73b6d9b64242",
+                "resourcePath": "views\\6b330c25-63fd-4f0c-bf53-e59334f1da1c.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -1676,6 +1716,14 @@
                 "id": "ddba3824-3766-4aae-a33a-93fcdbc7677c",
                 "resourcePath": "datafiles_yy\\properties\\estimatedMass.txt.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "f8fd0e49-4365-4f10-9b3e-c2a0d24381cf",
+            "Value": {
+                "id": "71d561d2-fe25-432b-8db7-a51326036735",
+                "resourcePath": "sprites\\RobotWithLArmUp\\RobotWithLArmUp.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
