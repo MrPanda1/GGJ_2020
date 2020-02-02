@@ -6,4 +6,4 @@ global.finalGameState = 5;
 
 room_persistent = true;
 
-createFileStructure();
+createDataFolder();
