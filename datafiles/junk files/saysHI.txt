@@ -1,0 +1,3 @@
+function getName(){
+    document.getElementById("h1").innerHTML = "Hello, " + document.getElementById("inputText").value + "!";
+}

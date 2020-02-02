@@ -1,0 +1,31 @@
+Please remember that the room can be reset lol.
+
+also the ranged weapon doesn't explode TNT.
+
+Controls:
+
+Left and Right = Move
+
+Up = Jump
+
+Down = Buy Item (in shop)
+
+X or C = Attack
+
+X+Down = Downward Attack
+
+Z = Ranged Attack (if available)
+
+Enter = Pause
+
+R = reset level (also available on pause menu)
+
+Tips:
+
+The shop closes as soon as you start digging!
+
+Remember you can restart if you miss a treasure or get stuck!
+
+More treasure means a better rating at the end! Minimum rating is 1, Max is 113!
+
+You can't dig upwards... but there's a way to make yourself some stairs!

@@ -1,0 +1,39 @@
+
+First player uses WASD to move around Second player uses the mouse.
+The goal is for first player to avoid being clicked on by second player.
+First player wins after collecting 6 carrots.
+Second player wins by clicking on first player.
+
+Note: Currently works only on Windows 
+
+
+Vesion .06
+----------
+changed the image loading method to prevent need of locked file paths
+
+Version .05
+-----------
+changed carrots to a win condition (6 carrots for p1 to win)
+added seperate sprites for each powerup
+added a meter for carrots
+added a diologue box for wining
+changed p1 speed
+
+Version .04
+-----------
+added powerup system
+added confusion (flips mouse axis)
+added super speed (moveSpeed x3)
+added invisibility (doesn't draw player)
+added powerup timer 
+fixed cursor alighnemnt 
+
+Version .03
+-----------
+made the player sprite flip to corrispond with direction
+hid the cursor
+
+Version .02
+-----------
+added carrots
+prevented bunny from leaving screen or flying

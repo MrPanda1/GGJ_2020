@@ -33,6 +33,16 @@
             "enumb": 0,
             "eventtype": 4,
             "m_owner": "78e00e72-f2ce-491b-ab3f-5fb6ed5a48e3"
+        },
+        {
+            "id": "4ed62c24-6e11-4eba-90e9-349b50870743",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "b0ca9ecc-5141-44f4-9014-403bfef30ca5",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "78e00e72-f2ce-491b-ab3f-5fb6ed5a48e3"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -106,6 +116,20 @@
             "resourceFilter": 1023,
             "value": "0",
             "varName": "roomThrust",
+            "varType": 5
+        },
+        {
+            "id": "5029b0f2-fc12-46e9-bd1b-e1699178c1ef",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "roomDoor",
             "varType": 5
         }
     ],
