@@ -24,25 +24,25 @@ ds_list_delete(folders, folder1);
 
 // Folder 2
 var folder2 = irandom(ds_list_size(folders)-1);
-paths[1] = paths[0] + "/" + ds_list_find_value(folders, folder2);
+paths[1] = paths[0] + @"\" + ds_list_find_value(folders, folder2);
 directory_create(global.dataDir + paths[1]);
 ds_list_delete(folders, folder2);
 
 // Folder 3
 var folder3 = irandom(ds_list_size(folders)-1);
-paths[2] = paths[1] + "/" + ds_list_find_value(folders, folder3);
+paths[2] = paths[1] + @"\" + ds_list_find_value(folders, folder3);
 directory_create(global.dataDir + paths[2]);
 ds_list_delete(folders, folder3);
 
 // Folder 4
 var folder4 = irandom(ds_list_size(folders)-1);
-paths[3] = paths[1] + "/" + ds_list_find_value(folders, folder4);
+paths[3] = paths[1] + @"\" + ds_list_find_value(folders, folder4);
 directory_create(global.dataDir + paths[3]);
 ds_list_delete(folders, folder4);
 
 // Folder 5
 var folder5 = irandom(ds_list_size(folders)-1);
-paths[4] = paths[0] + "/" + ds_list_find_value(folders, folder5);
+paths[4] = paths[0] + @"\" + ds_list_find_value(folders, folder5);
 directory_create(global.dataDir + paths[4]);
 ds_list_delete(folders, folder5);
 
@@ -54,25 +54,25 @@ ds_list_delete(folders, folder6);
 
 // Folder 7
 var folder7 = irandom(ds_list_size(folders)-1);
-paths[6] = paths[5] + "/" + ds_list_find_value(folders, folder7);
+paths[6] = paths[5] + @"\" + ds_list_find_value(folders, folder7);
 directory_create(global.dataDir + paths[6]);
 ds_list_delete(folders, folder7);
 
 // Folder 8
 var folder8 = irandom(ds_list_size(folders)-1);
-paths[7] = paths[6] + "/" + ds_list_find_value(folders, folder8);
+paths[7] = paths[6] + @"\" + ds_list_find_value(folders, folder8);
 directory_create(global.dataDir + paths[7]);
 ds_list_delete(folders, folder8);
 
 // Folder 9
 var folder9 = irandom(ds_list_size(folders)-1);
-paths[8] = paths[5] + "/" + ds_list_find_value(folders, folder9);
+paths[8] = paths[5] + @"\" + ds_list_find_value(folders, folder9);
 directory_create(global.dataDir + paths[8]);
 ds_list_delete(folders, folder9);
 
 // Folder 10
 var folder10 = irandom(ds_list_size(folders)-1);
-paths[9] = paths[8] + "/" + ds_list_find_value(folders, folder10);
+paths[9] = paths[8] + @"\" + ds_list_find_value(folders, folder10);
 directory_create(global.dataDir + paths[9]);
 ds_list_delete(folders, folder10);
 
@@ -82,7 +82,7 @@ var properties = file_text_open_read("allProperties.txt");
 while (!file_text_eof(properties)) {
 	var rawInput = file_text_readln(properties);
 	var propertyName = string_copy(rawInput, 1, string_length(rawInput)-2);
-	var filepath = global.dataDir + paths[irandom(array_length_1d(paths)-1)] + "/" + propertyName + ".txt";
+	var filepath = global.dataDir + paths[irandom(array_length_1d(paths)-1)] + @"\" + propertyName + ".txt";
 	// Start Error Handling
 	if(!file_exists("properties/" + propertyName + ".txt")) {
 		show_message("Error: properties/" + propertyName + ".txt is an invalid file path");
