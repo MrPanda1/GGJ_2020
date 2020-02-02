@@ -73,5 +73,3 @@ filenameString = "wow.txt";
 copyFile("junk files/" + filenameString, dirToCopyInto + array_get(paths[0],0) + "/" + array_get(paths[0],1) + "/" + filenameString);
 filenameString = "more_scales_and_info.txt";
 copyFile("junk files/" + filenameString, dirToCopyInto + array_get(paths[2],0) + "/" + filenameString);
-
-createReadme("space.txt");
