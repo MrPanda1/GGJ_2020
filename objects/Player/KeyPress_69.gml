@@ -84,3 +84,14 @@ else if(global.gameState == 6)
 	show_message(ds_map_find_value(global.correctPaths, "password"));
 	show_message(ds_map_find_value(global.correctValues, "password"));
 }
+
+//Checks player completed acceleration code
+if(global.gameState == 9 && place_meeting(x, y, Robot) && global.sectionComplete[3])
+{
+	global.gameState = 10;
+}
+else if(global.gameState == 9)
+{
+	show_message(ds_map_find_value(global.correctPaths, "acceleration"));
+	show_message(ds_map_find_value(global.correctValues, "acceleration"));
+}
