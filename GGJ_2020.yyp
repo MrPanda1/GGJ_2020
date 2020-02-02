@@ -575,6 +575,14 @@
             }
         },
         {
+            "Key": "c58ca389-7980-41ef-bbc8-9e6c280e4054",
+            "Value": {
+                "id": "55d35f51-8640-4e80-a56f-7ef92eabd110",
+                "resourcePath": "scripts\\createReadme\\createReadme.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "cb58fb34-4cbf-42cc-8483-3d3f35d2e306",
             "Value": {
                 "id": "4391209f-e0b7-43c8-a66d-0b41f2236574",
@@ -607,19 +615,19 @@
             }
         },
         {
-            "Key": "d1ade4d2-e2db-4610-92e5-750a92296a3b",
-            "Value": {
-                "id": "8a6f8f19-f172-455c-aa01-17b0c145d23b",
-                "resourcePath": "objects\\InputFieldBox\\InputFieldBox.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "cece7e2b-f5e4-41b4-9335-3c0a22605f5c",
             "Value": {
                 "id": "6bfda840-f8c2-4104-b16b-18dbe619c870",
                 "resourcePath": "sprites\\playerUp\\playerUp.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d1ade4d2-e2db-4610-92e5-750a92296a3b",
+            "Value": {
+                "id": "8a6f8f19-f172-455c-aa01-17b0c145d23b",
+                "resourcePath": "objects\\InputFieldBox\\InputFieldBox.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -762,7 +770,8 @@
     "script_order": [
         "8df35266-dc4d-42ab-a36f-b11ad18b3ab8",
         "ae64f341-0892-4609-8fbe-3a3cca44d8df",
-        "8a87156b-50ea-47dc-aeb2-094747ddf4fa"
+        "8a87156b-50ea-47dc-aeb2-094747ddf4fa",
+        "c58ca389-7980-41ef-bbc8-9e6c280e4054"
     ],
     "tutorial": ""
 }
