@@ -7,7 +7,8 @@
         "8d6b23ef-90b5-428c-b350-0f244e2a2b09",
         "26b47f18-0450-4884-a387-d3bdbb87c543",
         "6b330c25-63fd-4f0c-bf53-e59334f1da1c",
-        "0eeca8dc-2ec6-431a-b434-6ffcad5bcb8a"
+        "0eeca8dc-2ec6-431a-b434-6ffcad5bcb8a",
+        "2d0a727c-c450-4d2f-b8b4-037e788f89c4"
     ],
     "filterType": "GMSprite",
     "folderName": "Robot Sprites",

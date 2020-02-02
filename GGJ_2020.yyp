@@ -415,6 +415,22 @@
             }
         },
         {
+            "Key": "2a9982ec-4269-4882-8276-2ef66dfb6f5d",
+            "Value": {
+                "id": "3a268114-b576-480f-a48a-287bc27acd4c",
+                "resourcePath": "sprites\\RobotWithAntennaLeft\\RobotWithAntennaLeft.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2d0a727c-c450-4d2f-b8b4-037e788f89c4",
+            "Value": {
+                "id": "ff569b92-41cb-411a-ac7e-3b1fe8190722",
+                "resourcePath": "views\\2d0a727c-c450-4d2f-b8b4-037e788f89c4.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "2efaf50e-e3a3-4aba-8c48-1471e60093f4",
             "Value": {
                 "id": "4f8d592c-6dd8-4b36-ac78-3674bdf6d70a",
@@ -583,6 +599,14 @@
             }
         },
         {
+            "Key": "50d2746e-69a5-4082-80c4-e6f044485d47",
+            "Value": {
+                "id": "e1d8fab8-474c-49a2-98c9-08405225852b",
+                "resourcePath": "sprites\\RobotWithAntennaRight\\RobotWithAntennaRight.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "50da5519-36ca-4153-a00f-bd6c4ce5e7f1",
             "Value": {
                 "id": "1242edff-4221-491f-acdf-579e0e9b9caf",
@@ -739,6 +763,14 @@
             "Value": {
                 "id": "f426ad77-8563-41e2-bfd2-1b1fd7adc24e",
                 "resourcePath": "sprites\\RobotWithLegRight\\RobotWithLegRight.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "692a4c66-c6d2-4313-b19f-8eb59760a434",
+            "Value": {
+                "id": "64208340-9638-4c7c-8894-bba471441e0a",
+                "resourcePath": "sprites\\RobotWithAntennaDown\\RobotWithAntennaDown.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1131,6 +1163,14 @@
             "Value": {
                 "id": "0b13d64b-0ee0-4715-bb92-1a03e5513fce",
                 "resourcePath": "sprites\\TitleScreenBackground\\TitleScreenBackground.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "94252707-c0eb-48c2-a177-359e246659e0",
+            "Value": {
+                "id": "e4d532d8-137a-4790-a419-4b2024201fec",
+                "resourcePath": "sprites\\RobotWithAntennaUp\\RobotWithAntennaUp.yy",
                 "resourceType": "GMSprite"
             }
         },
