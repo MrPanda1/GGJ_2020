@@ -82,7 +82,10 @@ var properties = file_text_open_read("allProperties.txt");
 while (!file_text_eof(properties)) {
 	var propertyName = file_text_readln(properties);
 	var filepath = irandom(array_length_1d(paths)-1);
-	
+	copyFile(propertName + ".txt", paths[filepath] + "/" + propertName + ".txt");
+	if(propertyName = "hi") {
+		
+	}
 }
 
 //// Put the txt files in random folders
