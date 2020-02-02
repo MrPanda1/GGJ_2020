@@ -367,6 +367,14 @@
             }
         },
         {
+            "Key": "73e83b12-c8f1-4e2f-bb24-5112e78adf1a",
+            "Value": {
+                "id": "facb878d-0a94-467a-bae6-c32643c29396",
+                "resourcePath": "objects\\Garbage\\Garbage.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "74d397e2-a8c5-4d06-a83a-5110f1b22977",
             "Value": {
                 "id": "d7c178b7-ce56-4377-8706-6670e5f6e47c",
@@ -420,6 +428,14 @@
                 "id": "6fa6cca6-09a8-42fa-92e4-7e31d626bedc",
                 "resourcePath": "sprites\\playerTemp\\playerTemp.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8621d54b-170a-4e44-b8ec-499521738247",
+            "Value": {
+                "id": "41d733fe-87bc-4dba-bdfa-faaafe480a65",
+                "resourcePath": "objects\\Table\\Table.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -588,6 +604,14 @@
                 "id": "614b091e-1339-402b-b13d-c67913b5ad90",
                 "resourcePath": "datafiles_yy\\junk files\\cse301Q1.txt.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "bf27bd8d-358d-4354-837c-e6004f501ecd",
+            "Value": {
+                "id": "95779bbd-03ee-42c6-a447-d85d87b30b39",
+                "resourcePath": "sprites\\InvisibleWall_sprite\\InvisibleWall_sprite.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
