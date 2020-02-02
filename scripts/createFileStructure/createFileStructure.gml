@@ -63,4 +63,4 @@ ini_write_string("4", "5", "6");
 ini_close();
 
 // Put the txt files in random folders
-file_copy("musicideas.txt", dirToCopyInto + "musicideas.txt");
+copyFile("musicideas.txt", dirToCopyInto + "musicideas.txt");
