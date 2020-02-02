@@ -31,14 +31,6 @@
     },
     "resources": [
         {
-            "Key": "01340367-bf15-4c6f-bb17-28122051af87",
-            "Value": {
-                "id": "986ec508-a6b8-4320-bba9-6fe99e65478f",
-                "resourcePath": "views\\01340367-bf15-4c6f-bb17-28122051af87.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "01b6a0b8-51c2-4e9d-b5f3-059e9c050e8f",
             "Value": {
                 "id": "986386af-4f1b-4619-a93e-bc26a0286190",
@@ -604,6 +596,14 @@
                 "id": "f1540e04-ca62-4b95-830c-3cc6535cb055",
                 "resourcePath": "rooms\\GameOverRoom\\GameOverRoom.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "d9dd0f40-7891-456d-ae3c-f4c31b9b10b2",
+            "Value": {
+                "id": "bd42563d-d83e-4587-a87f-c084a52f612b",
+                "resourcePath": "views\\d9dd0f40-7891-456d-ae3c-f4c31b9b10b2.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
