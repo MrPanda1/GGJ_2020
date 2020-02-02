@@ -77,16 +77,23 @@ directory_create(global.dataDir + paths[9]);
 ds_list_delete(folders, folder10);
 
 // Generate property file paths
-var dictionary = ds_map_create();
+var pathDictionary = ds_map_create();
 var properties = file_text_open_read("allProperties.txt");
 while (!file_text_eof(properties)) {
 	var propertyName = file_text_readln(properties);
-	var filepath = irandom(array_length_1d(paths)-1);
-	copyFile(propertName + ".txt", paths[filepath] + "/" + propertName + ".txt");
-	if(propertyName = "hi") {
-		
+	var filepath = paths[irandom(array_length_1d(paths)-1)] + "/" + propertyName + ".txt";
+	copyFile(propertyName + ".txt", filepath);
+	if(propertyName = "acceleration" || propertyName = "password" || propertyName = "RadioFreq" || propertyName = "rArmPower") {
+		ds_map_add(pathDictionary,propertyName, filepath);
 	}
 }
+
+// Generate correct values for the useful properties
+var correctValueDictionary = ds_map_create();
+ds_map_add(correctValueDictionary, "acceleration", irandom_range(10,99));
+ds_map_add(correctValueDictionary, "password", irandom_range(10000000,99999999));
+ds_map_add(correctValueDictionary, "RadioFreq", irandom_range(100,999));
+ds_map_add(correctValueDictionary, "rArmPower", irandom_range(10,99));
 
 //// Put the txt files in random folders
 //filenameString = "musicideas.txt";
