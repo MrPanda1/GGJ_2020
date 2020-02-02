@@ -83,17 +83,17 @@ while (!file_text_eof(properties)) {
 	var rawInput = file_text_readln(properties);
 	var propertyName = string_copy(rawInput, 1, string_length(rawInput)-2);
 	var filepath = global.dataDir + paths[irandom(array_length_1d(paths)-1)] + "/" + propertyName + ".txt";
-	
-	// Error handling
+	// Start Error Handling
 	if(!file_exists("properties/" + propertyName + ".txt")) {
 		show_message("Error: properties/" + propertyName + ".txt is an invalid file path");
 	}
-	
+	// End Error Handing	
 	copyFile("properties/" + propertyName + ".txt", filepath);
 	if(propertyName = "acceleration" || propertyName = "password" || propertyName = "RadioFreq" || propertyName = "rArmPower") {
 		ds_map_add(pathDictionary,propertyName, filepath);
 	}
 }
+global.correctPaths = pathDictionary;
 
 /// Generate correct values for the useful properties
 var correctValueDictionary = ds_map_create();
@@ -101,6 +101,7 @@ ds_map_add(correctValueDictionary, "acceleration", irandom_range(10,99));
 ds_map_add(correctValueDictionary, "password", irandom_range(10000000,99999999));
 ds_map_add(correctValueDictionary, "RadioFreq", irandom_range(100,999));
 ds_map_add(correctValueDictionary, "rArmPower", irandom_range(10,99));
+global.correctValues = correctValueDictionary;
 
 //// Put the txt files in random folders
 //filenameString = "musicideas.txt";
