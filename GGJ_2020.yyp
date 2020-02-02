@@ -879,6 +879,14 @@
             }
         },
         {
+            "Key": "7a358aa8-c43d-4830-9e0a-90b77e1cd331",
+            "Value": {
+                "id": "40f72dd8-b24a-400b-808e-6f8eeca6e13b",
+                "resourcePath": "sprites\\spr_robotAntenna\\spr_robotAntenna.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7c79b34a-018e-46fe-99ab-e8e94b178a17",
             "Value": {
                 "id": "a5e2f79f-b90f-4c78-9a80-9f1352190433",
@@ -1580,6 +1588,14 @@
                 "id": "c412d46a-d6d7-4900-8a23-afa95dfabfde",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f432fff6-9bf6-4adb-b6f4-4606387c7ff3",
+            "Value": {
+                "id": "43836e7a-9980-492c-9bf1-aa6ed3a99f83",
+                "resourcePath": "sprites\\spr_robotWIthAntenna\\spr_robotWIthAntenna.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
