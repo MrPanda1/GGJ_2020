@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "1c1e11af-2e1c-4be9-9133-cafabdc62194",
+            "Value": {
+                "id": "d4400e57-c939-4cd8-b4fd-32c84d986770",
+                "resourcePath": "sprites\\Thruster_Sprite\\Thruster_Sprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1c7e8c89-a62f-48cd-867c-7ad03bfe0786",
             "Value": {
                 "id": "45b79f48-e888-45cf-95cf-9c351a13236b",
@@ -395,6 +403,14 @@
             "Value": {
                 "id": "0951cc89-8fd0-4b21-9ec9-aea0d7d00763",
                 "resourcePath": "objects\\pWall\\pWall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "78cb6e43-6231-4873-8afb-48e071528405",
+            "Value": {
+                "id": "69932817-79f8-4077-ba83-7c96771b5d7b",
+                "resourcePath": "objects\\RobotThruster\\RobotThruster.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -764,6 +780,14 @@
                 "id": "170285ab-d14f-46ec-a3ef-2c2a52295efc",
                 "resourcePath": "datafiles_yy\\junk files\\message2.txt.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "f3674652-709a-43d9-936d-79d91427c559",
+            "Value": {
+                "id": "fd61a345-ba72-49bb-8c98-4b6cb2c7b9b1",
+                "resourcePath": "objects\\RobotLeftArm\\RobotLeftArm.yy",
+                "resourceType": "GMObject"
             }
         },
         {
