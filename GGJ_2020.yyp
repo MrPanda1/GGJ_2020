@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "18dba013-a54e-468e-8c80-e916804d1a79",
+            "Value": {
+                "id": "36de0d6b-b327-470c-ae2f-1777de320810",
+                "resourcePath": "sprites\\RobotWithAntennaDown1\\RobotWithAntennaDown1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "18f983d9-9cd8-4e4e-9436-8642f4a8bb34",
             "Value": {
                 "id": "6cea469c-ed38-4b26-b194-a2a34d950de0",
@@ -300,6 +308,14 @@
                 "id": "988831bb-6b14-4051-8890-6039695a0c92",
                 "resourcePath": "datafiles_yy\\junk files\\hackwordbank.txt.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "21dfac7d-7589-4160-9464-1f2c9ee98adc",
+            "Value": {
+                "id": "56303ffb-f0d9-4933-b960-36af03125e10",
+                "resourcePath": "sprites\\RobotWithAntennaRight1\\RobotWithAntennaRight1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -447,6 +463,14 @@
             }
         },
         {
+            "Key": "32520707-cd94-4128-9232-15706843c7a4",
+            "Value": {
+                "id": "42f9a736-8a41-4014-93b3-33cf4d165a4d",
+                "resourcePath": "views\\32520707-cd94-4128-9232-15706843c7a4.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "32c63b67-1afa-486a-875c-591174cce81b",
             "Value": {
                 "id": "ad238590-14b6-498d-894f-dd1168ab4c08",
@@ -559,6 +583,14 @@
             }
         },
         {
+            "Key": "466ff98b-2b88-4110-8d28-476645db1e75",
+            "Value": {
+                "id": "f5bf60d9-e555-4aa3-92f9-e86394ff050a",
+                "resourcePath": "sprites\\RobotWithAntennaUp1\\RobotWithAntennaUp1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "47eed291-22f4-405d-a970-a072a1d1f4ce",
             "Value": {
                 "id": "801d8af0-ee47-40a1-addc-9dee2302daaa",
@@ -580,6 +612,14 @@
                 "id": "6282b65f-d967-4c63-ae3f-84e36b8dae85",
                 "resourcePath": "datafiles_yy\\junk files\\muskeet.txt.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "4cc1ca26-d69d-4681-996c-8ac58d39c3d8",
+            "Value": {
+                "id": "d54f0c61-5857-48f7-a6b0-197502c55a98",
+                "resourcePath": "sprites\\RobotWithAntennaLeft1\\RobotWithAntennaLeft1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
