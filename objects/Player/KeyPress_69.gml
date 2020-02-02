@@ -64,7 +64,7 @@ if(global.gameState == 1)
 }
 
 //Checks player completed radio frequency code
-if(global.gameState == 4 && place_meeting(x, y, Robot) && global.sectionComplete[1])
+if(global.gameState == 4 && place_meeting(x, y, Robot))// && global.sectionComplete[1])
 {
 	global.gameState = 5;
 	createReadme("README2.txt");
@@ -77,7 +77,7 @@ else if(global.gameState == 4)
 }
 
 //Checks player completed password code
-if(global.gameState == 6 && place_meeting(x, y, Robot) && global.sectionComplete[2])
+if(global.gameState == 6 && place_meeting(x, y, Robot))// && global.sectionComplete[2])
 {
 	global.gameState = 7;
 	createReadme("README3.txt");
@@ -89,7 +89,7 @@ else if(global.gameState == 6)
 }
 
 //Checks player completed acceleration code
-if(global.gameState == 9 && place_meeting(x, y, Robot) && global.sectionComplete[3])
+if(global.gameState == 9 && place_meeting(x, y, Robot))// && global.sectionComplete[3])
 {
 	global.gameState = 10;
 }

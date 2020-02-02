@@ -1335,6 +1335,14 @@
             }
         },
         {
+            "Key": "8d05443b-a2fa-4bf6-871d-84409b623258",
+            "Value": {
+                "id": "09994bfe-3f38-4a2f-a724-d3ba8b165db3",
+                "resourcePath": "objects\\RobotRightArm\\RobotRightArm.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8d5233c8-ef6c-4a6b-8618-ec129a1010ec",
             "Value": {
                 "id": "e9a9426c-5cfd-4a60-8ab5-6a32bf764f24",
@@ -2164,6 +2172,14 @@
                 "id": "71d561d2-fe25-432b-8db7-a51326036735",
                 "resourcePath": "sprites\\RobotWithLArmUp\\RobotWithLArmUp.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fa146242-40d3-422c-8f11-95d53686fcc5",
+            "Value": {
+                "id": "e5ef9c96-f1a4-4050-8cb5-c1ff16fa9255",
+                "resourcePath": "objects\\pUhhPhase1\\pUhhPhase1.yy",
+                "resourceType": "GMObject"
             }
         },
         {

@@ -5,7 +5,7 @@
 if (!other.isPickedUp && global.gameState == other.partState - 1)
 {
 	
-	if(!(global.gameState == 0 && instance_number(RobotLeg) > 1))
+	if(!(global.gameState == 0 && instance_number(pUhhPhase1) > 1))
 	{
 		if(other.replaceSprite != noone)
 		{
