@@ -1,0 +1,3 @@
+
+Dryad: You’ve become attuned with nature, most at home in your element. Your energy comes from the soil and the sun. As a major action you may ‘root’ yourself (so long as the terrain permits) to gain half your levels in earth magic as health each turn. While rooted you cannot move and have disadvantages on all rolls to dodge. As a major action you can uproot yourself to move again.
+

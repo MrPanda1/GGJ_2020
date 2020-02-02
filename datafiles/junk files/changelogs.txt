@@ -1,0 +1,138 @@
+NEED TO DO:
+	- Gun spawn imbalance
+	- Terrorists can run outside
+	- Add health packs
+	- Wall breaching
+	- Grenades need to make rolling sound
+	- Blue print map view
+	- Grenade throwing physics.
+	- Disable hearing footstep sounds outside
+	
+DONE:
+	
+--------------------------------
+Update Log:
+
+	July 22nd, 2017
+		- Added:	View disorientation when colliding with the ground/jumping.
+		- Fixed:	Packets too large not being fully read.
+		- Fixed:	Map could spawn rooms with no doors.
+		- Fixed:	Map could spawn doors to the outside but in non accessible areas.
+		- Fixed:	Kick message doesn't always pop up
+
+	July 21st, 2017
+		- Added:	Doors now display a message when you try to open them during the preparation phase.
+		- Added:	Multiple rooms with doors connecting them.
+		- Change:	Rewrote map generation system. Now supports room types.
+		- Change:	Lights are now brighter in the building.
+		- Change:	Made player movement tighter.
+		- Fixed:	Double lights spawning for every light on the map.
+		- Fixed:	Some bugs while spectating and typing.
+		- Fixed:	Decal renderer breaking after resizing window.
+
+	July 16th, 2017
+		- Added:	New shadow-filtering technique. Only available in RenderSettings.cfg
+		- Change:	Rewrote shadowmapping shader. Slightly faster
+		- Change:	Rewrote decal shader. Now supports specularity mapping
+		- Fixed:	Bug where double entities (or no entities) would spawn on map load
+		- Fixed:	Networking bug. Some packets were ignored from the server. Leading to many bugs with spawning entities
+		- Fixed:	Decreased memory usage
+		- Fixed:	Crash bug with Alt-Enter
+
+	July 15th, 2017
+		- Added:	Gun wobble
+		- Added:	Simple anti-hack on server side
+		- Change:	Glock shooting animation
+		- Change:	Muzzle flash
+		- Change:	Shield world animation
+		- Change:	Decreased walking speed
+		- Fixed:	"High Voltage" sign on door
+		- Fixed:	Shield orientation on floor
+		- Fixed:	Player now correctly shows walking animation while aiming and moving
+
+	July 13th, 2017
+		- Added:	Shadow-mapped Point lights on guns and explosions.
+		- Added:	Blood decals stick to the walls after being shot.
+		- Added:	Crashlog is written to file.
+		- Added:	Simple culling for shadow-casting lights.
+		- Change:	Changed lighting in titlescreen.
+		- Change:	Animations now reflect what type of weapon you are holding.
+		- Fixed:	Barrel (Propane Tank) no longer breaks when holding it and disconnecting.	
+		- Fixed:	Decals can now stack ontop of eachother.
+		- Fixed:	Various crash fixes.
+
+	July 11th, 2017
+		- Added:	New titlescreen
+		- Change:	Magnum takeout animation
+		- Change:	Glock reload animation
+		- Change:	Glock takeout animation
+		- Change:	G36c reload animation
+		- Change:	Walls less reflective (specular)
+		- Fixed:	Can no longer aim when taking out a weapon
+		- Fixed:	Ambient sounds will now turn off after disconnecting
+
+	July 9th, 2017
+		- Added:	Customizable Controls.
+		- Added:	Proper crash window when game fails to load.
+		- Added:	Ambient sounds when you are inside/outside
+		- Added:	A lot of new textures for the building.
+		- Added:	Ability to use mousewheel to navigate inventory.
+		- Added:	Grenade shortcut key (default: Middle Mouse).
+		- Added:	Explosive propane tank (Can be picked up with E).
+		- Added:	Explosion particles
+		- Change:	Gun will automatically reload when you are out of ammo.
+		- Change:	Slightly slowed the walking animation.
+		- Change:	Explosions now do less indirect damage and more direct damage
+
+
+	July 7th, 2017
+		- Added:	Preperation Phase (40 seconds).
+		- Added:	New room-item: Couch.
+		- Added:	Free-Camera option while spectating.
+		- Added:	New console command g_uienable (toggles rendering the games UI).
+		- Fixed:	(hopefully) Client running out of memory due to sounds.
+		- Fixed:	Some more crash bugs.
+		- Fixed:	Players spawning in as invisible when their team changes.
+		- Fixed:	Teams properly scramble on the first round.
+		- Fixed:	Players going temporarily invisible after throwing an item.
+		- Change:	Extended round timer to 2:30.
+		- Change:	If the game failes to load properly, it will let you know.
+
+	July 6th, 2017
+		- Added:	New Throwable item, Flares
+		- Added:	Added walking key (Shift)
+		- Added:	Name marker for your character in map view
+		- Added:	Particles when shooting objects
+		- Added:	Sounds when shooting objects
+		- Added:	Banner Messages when game state changes (winning/losing)
+		- Added:	Spectating on death
+		- Added:	Proper round system. Teams scramble on start. After 3 rounds teams switch sides. After 3 rounds game restarts.
+		- Fixed:	Jittering physics
+		- Fixed:	Velocity f**ked on spawn
+		- Fixed:	Aim down sights stuck when weapon dropped
+		- Fixed:	(hopefully) Packet Loss issues
+		- Change:	Walking sound is quieter for everyone
+		- Change:	Moving while aiming now severly decreases accuracy
+		- Change:	Keep your inventory at the end of the round
+		- Change:	Teams no longer scramble between rounds
+
+	July 4th, 2017
+		- Added in the riot shield
+		- Added player collisions
+		- Attacking side now also starts with a pistol
+		- Added a new gun for the Attacking side (g36c)
+		- Fixed a few client crash bugs
+		- Fixed a bug on the server that would require a restart after a day
+		- Fixed a bug on the server where it would stop updating the player when he has no gun in his inventory
+		- Balanced some of the guns. Attacking side guns are worse at "running and gunning".
+		- Fixed getting (sometimes) disconnected on your first load into the server.
+
+	July 2nd, 2017
+		- Added in crouching. Will also affect your hitbox (client and serverside). I changed the desk model to have a cubby underneath. The desks will also spawn a magnum (at random). The magnum should 1 shot headshot.
+		- Also a bunch of crash fixes and bug fixes.
+
+	July 1st, 2017
+		- I rewrote the animation system such that the legs and torso animations are desynced. This will allow me to easily animate the player when crouching or walking. And on that note I've also added a walking animation into the game.
+		- When a player aims his weapon he now slows down. While you are slowed down, you have a walking animation.
+		- I programmed some things to try to make the physics twitching less apparant.
+		- I also added a disconnect menu when you press escape.
