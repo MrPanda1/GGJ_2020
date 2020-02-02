@@ -319,6 +319,14 @@
             }
         },
         {
+            "Key": "6e75751d-1a07-415b-9bca-8f46ac89a730",
+            "Value": {
+                "id": "f5d0769c-4558-480b-a86b-964c47fd72f5",
+                "resourcePath": "sprites\\spr_robotLeftArm\\spr_robotLeftArm.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "71c19061-4959-47c5-aa5b-c13f8359fd24",
             "Value": {
                 "id": "24bf5c2e-9999-46ae-bccc-0db8f708a2c4",
