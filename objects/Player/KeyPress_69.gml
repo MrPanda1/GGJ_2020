@@ -44,3 +44,17 @@ else if(currentPiece != noone)
 	
 	currentPiece = noone;
 }
+
+//Creates input box from robot
+if(global.gameState == 4)
+{
+	//I put a seperate if statement cuz fuck that collision check is massive.
+	//Also, I check an extra 25 from the player obj
+	var bossColCheck = collision_rectangle(x - sprite_width / 2 - 25, y - sprite_height / 2 - 25, x + sprite_width / 2 + 25, y + sprite_height / 2 + 25, Robot, false, true);
+	if(bossColCheck)
+	{
+		var newBox = instance_create_depth(window_get_width() / 2, window_get_height() / 2, -1000, InputFieldBox);
+		newBox.playerRef = id;
+		canMove = false;
+	}
+}
