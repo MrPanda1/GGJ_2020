@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "3dd79ef6-47fe-49eb-895c-80bd8641b82a",
+            "Value": {
+                "id": "368e6a5c-9994-45c2-83f0-feefea360e11",
+                "resourcePath": "sprites\\spr_robotWIthLeftArm\\spr_robotWIthLeftArm.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3e8fa9a8-5218-4e01-8d89-8fabad1f8cb5",
             "Value": {
                 "id": "440ecfa3-488d-41ad-86b0-51605a3930b5",
