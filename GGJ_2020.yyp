@@ -623,14 +623,6 @@
             }
         },
         {
-            "Key": "dfc0c88f-7286-4d62-a97c-9f8544ceafdd",
-            "Value": {
-                "id": "284a5c82-a1ce-4b93-b4bb-8d404803408b",
-                "resourcePath": "scripts\\createTextFileDict\\createTextFileDict.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "e306bb22-acc2-4315-a2df-8a4a683f915f",
             "Value": {
                 "id": "e2c458fe-aa53-4130-a045-538eb5cd7aff",
@@ -730,8 +722,7 @@
     "script_order": [
         "8df35266-dc4d-42ab-a36f-b11ad18b3ab8",
         "ae64f341-0892-4609-8fbe-3a3cca44d8df",
-        "8a87156b-50ea-47dc-aeb2-094747ddf4fa",
-        "dfc0c88f-7286-4d62-a97c-9f8544ceafdd"
+        "8a87156b-50ea-47dc-aeb2-094747ddf4fa"
     ],
     "tutorial": ""
 }
